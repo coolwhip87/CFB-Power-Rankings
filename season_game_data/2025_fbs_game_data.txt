@@ -1,0 +1,880 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2025,1,Kansas State,21.0,24.0,Iowa State
+1,2025,1,UNLV,38.0,31.0,Idaho State
+2,2025,1,Kansas,31.0,7.0,Fresno State
+3,2025,1,Western Kentucky,41.0,24.0,Sam Houston
+4,2025,1,Hawai'i,23.0,20.0,Stanford
+5,2025,1,South Florida,34.0,7.0,Boise State
+6,2025,1,Bowling Green,26.0,7.0,Lafayette
+7,2025,1,Rutgers,34.0,31.0,Ohio
+8,2025,1,UL Monroe,29.0,0.0,St. Francis (PA)
+9,2025,1,UCF,17.0,10.0,Jacksonville State
+10,2025,1,Akron,0.0,10.0,Wyoming
+11,2025,1,Delaware,35.0,17.0,Delaware State
+12,2025,1,NC State,24.0,17.0,East Carolina
+13,2025,1,Oklahoma State,27.0,7.0,UT Martin
+14,2025,1,Duke,45.0,17.0,Elon
+15,2025,1,Missouri,61.0,6.0,Central Arkansas
+16,2025,1,Houston,27.0,0.0,Stephen F. Austin
+17,2025,1,Minnesota,23.0,10.0,Buffalo
+18,2025,1,UAB,52.0,42.0,Alabama State
+19,2025,1,Cincinnati,17.0,20.0,Nebraska
+20,2025,1,Wisconsin,17.0,0.0,Miami (OH)
+21,2025,1,San Diego State,42.0,0.0,Stony Brook
+22,2025,1,Army,27.0,30.0,Tarleton State
+23,2025,1,Florida International,42.0,9.0,Bethune-Cookman
+24,2025,1,Charlotte,11.0,34.0,App State
+25,2025,1,Michigan State,23.0,6.0,Western Michigan
+26,2025,1,Wake Forest,10.0,9.0,Kennesaw State
+27,2025,1,Illinois,52.0,3.0,Western Illinois
+28,2025,1,Kansas,46.0,7.0,Wagner
+29,2025,1,Baylor,24.0,38.0,Auburn
+30,2025,1,Colorado,20.0,27.0,Georgia Tech
+31,2025,1,Sam Houston,21.0,38.0,UNLV
+32,2025,1,San José State,14.0,16.0,Central Michigan
+33,2025,1,Tulane,23.0,3.0,Northwestern
+34,2025,1,Tennessee,45.0,26.0,Syracuse
+35,2025,1,Maryland,39.0,7.0,Florida Atlantic
+36,2025,1,Purdue,31.0,0.0,Ball State
+37,2025,1,Kent State,21.0,17.0,Merrimack
+38,2025,1,Navy,52.0,7.0,VMI
+39,2025,1,Ohio State,14.0,7.0,Texas
+40,2025,1,Pittsburgh,61.0,9.0,Duquesne
+41,2025,1,Southern Miss,17.0,34.0,Mississippi State
+42,2025,1,Kentucky,24.0,16.0,Toledo
+43,2025,1,Boston College,66.0,10.0,Fordham
+44,2025,1,West Virginia,45.0,3.0,Robert Morris
+45,2025,1,UConn,59.0,13.0,Central Connecticut
+46,2025,1,Indiana,27.0,14.0,Old Dominion
+47,2025,1,Louisville,51.0,17.0,Eastern Kentucky
+48,2025,1,Penn State,46.0,11.0,Nevada
+49,2025,1,Air Force,49.0,13.0,Bucknell
+50,2025,1,Iowa State,55.0,7.0,South Dakota
+51,2025,1,Massachusetts,10.0,42.0,Temple
+52,2025,1,Georgia,45.0,7.0,Marshall
+53,2025,1,Florida State,31.0,17.0,Alabama
+54,2025,1,Northern Illinois,19.0,17.0,Holy Cross
+55,2025,1,Liberty,28.0,7.0,Maine
+56,2025,1,Oregon,59.0,13.0,Montana State
+57,2025,1,Arkansas,52.0,7.0,Alabama A&M
+58,2025,1,Memphis,45.0,10.0,Chattanooga
+59,2025,1,Oklahoma,35.0,3.0,Illinois State
+60,2025,1,Iowa,34.0,7.0,UAlbany
+61,2025,1,Virginia,48.0,7.0,Coastal Carolina
+62,2025,1,James Madison,45.0,10.0,Weber State
+63,2025,1,Vanderbilt,45.0,3.0,Charleston Southern
+64,2025,1,Florida,55.0,0.0,Long Island University
+65,2025,1,South Alabama,38.0,21.0,Morgan State
+66,2025,1,Troy,38.0,20.0,Nicholls
+67,2025,1,Texas A&M,42.0,24.0,UTSA
+68,2025,1,Arkansas State,42.0,24.0,Southeast Missouri State
+69,2025,1,Western Kentucky,55.0,6.0,North Alabama
+70,2025,1,Kansas State,38.0,35.0,North Dakota
+71,2025,1,Middle Tennessee,14.0,34.0,Austin Peay
+72,2025,1,Clemson,10.0,17.0,LSU
+73,2025,1,Texas Tech,67.0,7.0,Arkansas-Pine Bluff
+74,2025,1,Utah State,28.0,16.0,UTEP
+75,2025,1,Michigan,34.0,17.0,New Mexico
+76,2025,1,USC,73.0,13.0,Missouri State
+77,2025,1,Louisiana Tech,24.0,0.0,SE Louisiana
+78,2025,1,Ole Miss,63.0,7.0,Georgia State
+79,2025,1,North Texas,51.0,0.0,Lamar
+80,2025,1,Texas State,52.0,27.0,Eastern Michigan
+81,2025,1,Louisiana,12.0,14.0,Rice
+82,2025,1,BYU,69.0,0.0,Portland State
+83,2025,1,Tulsa,35.0,7.0,Abilene Christian
+84,2025,1,SMU,42.0,13.0,East Texas A&M
+85,2025,1,New Mexico State,19.0,3.0,Bryant
+86,2025,1,Fresno State,42.0,14.0,Georgia Southern
+87,2025,1,Arizona State,38.0,19.0,Northern Arizona
+88,2025,1,Washington State,13.0,10.0,Idaho
+89,2025,1,Oregon State,15.0,34.0,California
+90,2025,1,Arizona,40.0,6.0,Hawai'i
+91,2025,1,UCLA,10.0,43.0,Utah
+92,2025,1,Washington,38.0,21.0,Colorado State
+93,2025,1,South Carolina,24.0,11.0,Virginia Tech
+94,2025,1,Miami,27.0,24.0,Notre Dame
+95,2025,1,North Carolina,14.0,48.0,TCU
+96,2025,2,Louisville,28.0,14.0,James Madison
+97,2025,2,Maryland,20.0,9.0,Northern Illinois
+98,2025,2,Northwestern,42.0,7.0,Western Illinois
+99,2025,2,Boise State,51.0,14.0,Eastern Washington
+100,2025,2,Jacksonville State,34.0,24.0,Liberty
+101,2025,2,Penn State,34.0,0.0,Florida International
+102,2025,2,NC State,35.0,31.0,Virginia
+103,2025,2,Texas Tech,62.0,14.0,Kent State
+104,2025,2,Pittsburgh,45.0,17.0,Central Michigan
+105,2025,2,Texas,38.0,7.0,San José State
+106,2025,2,Iowa State,16.0,13.0,Iowa
+107,2025,2,Indiana,56.0,9.0,Kennesaw State
+108,2025,2,Florida State,77.0,3.0,East Texas A&M
+109,2025,2,SMU,45.0,48.0,Baylor
+110,2025,2,Minnesota,66.0,0.0,Northwestern State
+111,2025,2,Duke,19.0,45.0,Illinois
+112,2025,2,Syracuse,27.0,20.0,UConn
+113,2025,2,Texas A&M,44.0,22.0,Utah State
+114,2025,2,Temple,55.0,7.0,Howard
+115,2025,2,Wake Forest,42.0,10.0,Western Carolina
+116,2025,2,New Mexico,32.0,22.0,Idaho State
+117,2025,2,Georgia Tech,59.0,12.0,Gardner-Webb
+118,2025,2,Georgia,28.0,6.0,Austin Peay
+119,2025,2,App State,20.0,13.0,Lindenwood
+120,2025,2,Rutgers,45.0,17.0,Miami (OH)
+121,2025,2,Buffalo,45.0,6.0,St. Francis (PA)
+122,2025,2,Colorado,31.0,7.0,Delaware
+123,2025,2,Ohio State,70.0,0.0,Grambling
+124,2025,2,Tennessee,72.0,17.0,East Tennessee State
+125,2025,2,Oregon,69.0,3.0,Oklahoma State
+126,2025,2,Western Michigan,30.0,33.0,North Texas
+127,2025,2,Missouri,42.0,31.0,Kansas
+128,2025,2,UTSA,36.0,43.0,Texas State
+129,2025,2,Oregon State,27.0,36.0,Fresno State
+130,2025,2,Kentucky,23.0,30.0,Ole Miss
+131,2025,2,Massachusetts,26.0,27.0,Bryant
+132,2025,2,Clemson,27.0,16.0,Troy
+133,2025,2,Navy,38.0,24.0,UAB
+134,2025,2,Cincinnati,34.0,20.0,Bowling Green
+135,2025,2,Wyoming,31.0,7.0,Northern Iowa
+136,2025,2,Wisconsin,42.0,10.0,Middle Tennessee
+137,2025,2,Ohio,17.0,10.0,West Virginia
+138,2025,2,Florida,16.0,18.0,South Florida
+139,2025,2,Arkansas,56.0,14.0,Arkansas State
+140,2025,2,Southern Miss,38.0,20.0,Jackson State
+141,2025,2,Nevada,20.0,17.0,Sacramento State
+142,2025,2,Florida Atlantic,56.0,14.0,Florida A&M
+143,2025,2,California,35.0,3.0,Texas Southern
+144,2025,2,Utah,63.0,9.0,Cal Poly
+145,2025,2,Old Dominion,54.0,6.0,North Carolina Central
+146,2025,2,East Carolina,56.0,3.0,Campbell
+147,2025,2,Marshall,20.0,21.0,Missouri State
+148,2025,2,UCF,68.0,7.0,North Carolina A&T
+149,2025,2,Charlotte,3.0,20.0,North Carolina
+150,2025,2,Colorado State,21.0,17.0,Northern Colorado
+151,2025,2,Georgia State,16.0,38.0,Memphis
+152,2025,2,Kansas State,21.0,24.0,Army
+153,2025,2,Rice,9.0,35.0,Houston
+154,2025,2,South Carolina,38.0,10.0,South Carolina State
+155,2025,2,Eastern Michigan,23.0,28.0,Long Island University
+156,2025,2,Toledo,45.0,21.0,Western Kentucky
+157,2025,2,Miami,45.0,3.0,Bethune-Cookman
+158,2025,2,South Alabama,31.0,33.0,Tulane
+159,2025,2,Mississippi State,24.0,20.0,Arizona State
+160,2025,2,Nebraska,68.0,0.0,Akron
+161,2025,2,Coastal Carolina,13.0,0.0,Charleston Southern
+162,2025,2,Purdue,34.0,17.0,Southern Illinois
+163,2025,2,Virginia Tech,20.0,44.0,Vanderbilt
+164,2025,2,Michigan State,42.0,40.0,Boston College
+165,2025,2,USC,59.0,20.0,Georgia Southern
+166,2025,2,LSU,23.0,7.0,Louisiana Tech
+167,2025,2,Auburn,42.0,3.0,Ball State
+168,2025,2,Oklahoma,24.0,13.0,Michigan
+169,2025,2,Alabama,73.0,0.0,UL Monroe
+170,2025,2,Louisiana,34.0,10.0,McNeese
+171,2025,2,UNLV,30.0,23.0,UCLA
+172,2025,2,New Mexico State,21.0,14.0,Tulsa
+173,2025,2,UTEP,42.0,17.0,UT Martin
+174,2025,2,Arizona,48.0,3.0,Weber State
+175,2025,2,Washington State,36.0,13.0,San Diego State
+176,2025,2,BYU,27.0,3.0,Stanford
+177,2025,2,Washington,70.0,10.0,UC Davis
+178,2025,2,Hawai'i,37.0,20.0,Sam Houston
+179,2025,3,Wake Forest,24.0,34.0,NC State
+180,2025,3,Indiana,73.0,0.0,Indiana State
+181,2025,3,Syracuse,66.0,24.0,Colgate
+182,2025,3,Houston,36.0,20.0,Colorado
+183,2025,3,Arizona,23.0,17.0,Kansas State
+184,2025,3,UCLA,10.0,35.0,New Mexico
+185,2025,3,Virginia,55.0,16.0,William & Mary
+186,2025,3,Alabama,38.0,14.0,Wisconsin
+187,2025,3,Georgia Tech,24.0,21.0,Clemson
+188,2025,3,Troy,7.0,28.0,Memphis
+189,2025,3,Baylor,42.0,7.0,Samford
+190,2025,3,Northwestern,14.0,34.0,Oregon
+191,2025,3,Kent State,28.0,31.0,Buffalo
+192,2025,3,Temple,3.0,42.0,Oklahoma
+193,2025,3,Nebraska,59.0,7.0,Houston Christian
+194,2025,3,Maryland,44.0,17.0,Towson
+195,2025,3,Michigan,63.0,3.0,Central Michigan
+196,2025,3,Auburn,31.0,15.0,South Alabama
+197,2025,3,Missouri,52.0,10.0,Louisiana
+198,2025,3,Ball State,34.0,29.0,New Hampshire
+199,2025,3,Delaware,44.0,41.0,UConn
+200,2025,3,Penn State,52.0,6.0,Villanova
+201,2025,3,North Texas,59.0,10.0,Washington State
+202,2025,3,West Virginia,31.0,24.0,Pittsburgh
+203,2025,3,Purdue,17.0,33.0,USC
+204,2025,3,Cincinnati,70.0,0.0,Northwestern State
+205,2025,3,Tennessee,41.0,44.0,Georgia
+206,2025,3,Texas Tech,45.0,14.0,Oregon State
+207,2025,3,Michigan State,41.0,24.0,Youngstown State
+208,2025,3,Missouri State,10.0,28.0,SMU
+209,2025,3,North Carolina,41.0,6.0,Richmond
+210,2025,3,UTSA,48.0,20.0,Incarnate Word
+211,2025,3,Toledo,60.0,0.0,Morgan State
+212,2025,3,Rutgers,60.0,10.0,Norfolk State
+213,2025,3,Arkansas State,16.0,24.0,Iowa State
+214,2025,3,Texas,27.0,10.0,UTEP
+215,2025,3,Miami,49.0,12.0,South Florida
+216,2025,3,Nevada,13.0,14.0,Middle Tennessee
+217,2025,3,Bowling Green,23.0,13.0,Liberty
+218,2025,3,Mississippi State,63.0,0.0,Alcorn State
+219,2025,3,Florida International,38.0,28.0,Florida Atlantic
+220,2025,3,Charlotte,42.0,35.0,Monmouth
+221,2025,3,Marshall,38.0,7.0,Eastern Kentucky
+222,2025,3,Kennesaw State,27.0,13.0,Merrimack
+223,2025,3,Rice,38.0,17.0,Prairie View A&M
+224,2025,3,Southern Miss,38.0,22.0,App State
+225,2025,3,Georgia Southern,41.0,34.0,Jacksonville State
+226,2025,3,Ohio State,37.0,9.0,Ohio
+227,2025,3,Illinois,38.0,0.0,Western Michigan
+228,2025,3,Ole Miss,41.0,35.0,Arkansas
+229,2025,3,Virginia Tech,26.0,45.0,Old Dominion
+230,2025,3,Georgia State,37.0,21.0,Murray State
+231,2025,3,Kentucky,48.0,23.0,Eastern Michigan
+232,2025,3,Notre Dame,40.0,41.0,Texas A&M
+233,2025,3,LSU,20.0,10.0,Florida
+234,2025,3,Louisiana Tech,49.0,14.0,New Mexico State
+235,2025,3,Iowa,47.0,7.0,Massachusetts
+236,2025,3,Coastal Carolina,0.0,38.0,East Carolina
+237,2025,3,South Carolina,7.0,31.0,Vanderbilt
+238,2025,3,Tulsa,23.0,42.0,Navy
+239,2025,3,Tulane,34.0,27.0,Duke
+240,2025,3,Wyoming,6.0,31.0,Utah
+241,2025,3,TCU,42.0,21.0,Abilene Christian
+242,2025,3,UAB,31.0,28.0,Akron
+243,2025,3,Utah State,49.0,30.0,Air Force
+244,2025,3,Fresno State,56.0,7.0,Southern
+245,2025,3,Arizona State,34.0,15.0,Texas State
+246,2025,3,California,27.0,14.0,Minnesota
+247,2025,3,Stanford,30.0,20.0,Boston College
+248,2025,3,Hawai'i,23.0,3.0,Portland State
+249,2025,4,Charlotte,17.0,28.0,Rice
+250,2025,4,Oklahoma State,12.0,19.0,Tulsa
+251,2025,4,Rutgers,28.0,38.0,Iowa
+252,2025,4,Louisville,40.0,17.0,Bowling Green
+253,2025,4,Utah,10.0,34.0,Texas Tech
+254,2025,4,Memphis,32.0,31.0,Arkansas
+255,2025,4,South Florida,63.0,14.0,South Carolina State
+256,2025,4,Virginia Tech,38.0,6.0,Wofford
+257,2025,4,Clemson,21.0,34.0,Syracuse
+258,2025,4,Wisconsin,10.0,27.0,Maryland
+259,2025,4,TCU,35.0,24.0,SMU
+260,2025,4,Miami (OH),38.0,41.0,UNLV
+261,2025,4,Army,38.0,45.0,North Texas
+262,2025,4,Tennessee,56.0,24.0,UAB
+263,2025,4,Central Michigan,49.0,10.0,Wagner
+264,2025,4,Oregon,41.0,7.0,Oregon State
+265,2025,4,Oklahoma,24.0,17.0,Auburn
+266,2025,4,Western Michigan,14.0,13.0,Toledo
+267,2025,4,Eastern Michigan,34.0,31.0,Louisiana
+268,2025,4,UCF,34.0,9.0,North Carolina
+269,2025,4,Buffalo,17.0,21.0,Troy
+270,2025,4,Ole Miss,45.0,10.0,Tulane
+271,2025,4,Florida State,66.0,10.0,Kent State
+272,2025,4,Notre Dame,56.0,30.0,Purdue
+273,2025,4,Ohio,52.0,35.0,Gardner-Webb
+274,2025,4,Nebraska,27.0,30.0,Michigan
+275,2025,4,Liberty,13.0,31.0,James Madison
+276,2025,4,UConn,31.0,25.0,Ball State
+277,2025,4,Duke,45.0,33.0,NC State
+278,2025,4,Mississippi State,38.0,10.0,Northern Illinois
+279,2025,4,Georgia Tech,45.0,24.0,Temple
+280,2025,4,San José State,31.0,28.0,Idaho
+281,2025,4,Kennesaw State,28.0,21.0,Arkansas State
+282,2025,4,Florida International,16.0,38.0,Delaware
+283,2025,4,Akron,51.0,7.0,Duquesne
+284,2025,4,Kansas,41.0,10.0,West Virginia
+285,2025,4,Western Kentucky,31.0,16.0,Nevada
+286,2025,4,South Alabama,20.0,38.0,Coastal Carolina
+287,2025,4,Missouri State,42.0,10.0,UT Martin
+288,2025,4,Missouri,29.0,20.0,South Carolina
+289,2025,4,Air Force,37.0,49.0,Boise State
+290,2025,4,Georgia Southern,45.0,17.0,Maine
+291,2025,4,Jacksonville State,45.0,10.0,Murray State
+292,2025,4,Middle Tennessee,28.0,42.0,Marshall
+293,2025,4,Louisiana Tech,30.0,20.0,Southern Miss
+294,2025,4,Virginia,48.0,20.0,Stanford
+295,2025,4,Indiana,63.0,10.0,Illinois
+296,2025,4,East Carolina,13.0,34.0,BYU
+297,2025,4,Baylor,24.0,27.0,Arizona State
+298,2025,4,Vanderbilt,70.0,21.0,Georgia State
+299,2025,4,Washington State,24.0,59.0,Washington
+300,2025,4,Miami,26.0,7.0,Florida
+301,2025,4,LSU,56.0,10.0,SE Louisiana
+302,2025,4,Texas State,35.0,3.0,Nicholls
+303,2025,4,Utah State,48.0,7.0,McNeese
+304,2025,4,Texas,55.0,0.0,Sam Houston
+305,2025,4,UTEP,25.0,31.0,UL Monroe
+306,2025,4,Colorado State,16.0,17.0,UTSA
+307,2025,4,Colorado,37.0,20.0,Wyoming
+308,2025,4,San Diego State,34.0,0.0,California
+309,2025,4,USC,45.0,31.0,Michigan State
+310,2025,4,Hawai'i,21.0,23.0,Fresno State
+311,2025,5,East Carolina,,,Army
+312,2025,5,Virginia,,,Florida State
+313,2025,5,Arizona State,,,TCU
+314,2025,5,Oregon State,,,Houston
+315,2025,5,Wake Forest,,,Georgia Tech
+316,2025,5,Minnesota,,,Rutgers
+317,2025,5,Arkansas,,,Notre Dame
+318,2025,5,Illinois,,,USC
+319,2025,5,Ohio,,,Bowling Green
+320,2025,5,North Texas,,,South Alabama
+321,2025,5,Pittsburgh,,,Louisville
+322,2025,5,Kansas,,,Cincinnati
+323,2025,5,Syracuse,,,Duke
+324,2025,5,Kansas State,,,UCF
+325,2025,5,Vanderbilt,,,Utah State
+326,2025,5,Central Michigan,,,Eastern Michigan
+327,2025,5,James Madison,,,Georgia Southern
+328,2025,5,UL Monroe,,,Arkansas State
+329,2025,5,Iowa,,,Indiana
+330,2025,5,Navy,,,Rice
+331,2025,5,Northern Illinois,,,San Diego State
+332,2025,5,Toledo,,,Akron
+333,2025,5,Oklahoma State,,,Baylor
+334,2025,5,West Virginia,,,Utah
+335,2025,5,Buffalo,,,UConn
+336,2025,5,Washington,,,Ohio State
+337,2025,5,Northwestern,,,UCLA
+338,2025,5,Boston College,,,California
+339,2025,5,Ole Miss,,,LSU
+340,2025,5,Texas A&M,,,Auburn
+341,2025,5,Miami (OH),,,Lindenwood
+342,2025,5,New Mexico,,,New Mexico State
+343,2025,5,Tulsa,,,Tulane
+344,2025,5,Air Force,,,Hawai'i
+345,2025,5,Mississippi State,,,Tennessee
+346,2025,5,Kennesaw State,,,Middle Tennessee
+347,2025,5,Old Dominion,,,Liberty
+348,2025,5,Western Michigan,,,Rhode Island
+349,2025,5,NC State,,,Virginia Tech
+350,2025,5,Florida Atlantic,,,Memphis
+351,2025,5,Iowa State,,,Arizona
+352,2025,5,Missouri State,,,Western Kentucky
+353,2025,5,Southern Miss,,,Jacksonville State
+354,2025,5,Missouri,,,Massachusetts
+355,2025,5,Stanford,,,San José State
+356,2025,5,Colorado State,,,Washington State
+357,2025,5,Penn State,,,Oregon
+358,2025,5,Georgia,,,Alabama
+359,2025,5,Boise State,,,App State
+360,2025,5,South Carolina,,,Kentucky
+361,2025,5,Louisiana,,,Marshall
+362,2025,5,UTEP,,,Louisiana Tech
+363,2025,5,Colorado,,,BYU
+364,2025,6,New Mexico State,,,Sam Houston
+365,2025,6,Delaware,,,Western Kentucky
+366,2025,6,South Florida,,,Charlotte
+367,2025,6,San José State,,,New Mexico
+368,2025,6,San Diego State,,,Colorado State
+369,2025,6,BYU,,,West Virginia
+370,2025,6,Ball State,,,Ohio
+371,2025,6,North Carolina,,,Clemson
+372,2025,6,Georgia,,,Kentucky
+373,2025,6,Purdue,,,Illinois
+374,2025,6,Pittsburgh,,,Boston College
+375,2025,6,Navy,,,Air Force
+376,2025,6,Michigan,,,Wisconsin
+377,2025,6,UAB,,,Army
+378,2025,6,Cincinnati,,,Iowa State
+379,2025,6,Baylor,,,Kansas State
+380,2025,6,Virginia Tech,,,Wake Forest
+381,2025,6,Temple,,,UTSA
+382,2025,6,Arizona,,,Oklahoma State
+383,2025,6,NC State,,,Campbell
+384,2025,6,Massachusetts,,,Western Michigan
+385,2025,6,Alabama,,,Vanderbilt
+386,2025,6,Buffalo,,,Eastern Michigan
+387,2025,6,Notre Dame,,,Boise State
+388,2025,6,App State,,,Oregon State
+389,2025,6,Georgia State,,,James Madison
+390,2025,6,UCLA,,,Penn State
+391,2025,6,SMU,,,Syracuse
+392,2025,6,Florida,,,Texas
+393,2025,6,Northern Illinois,,,Miami (OH)
+394,2025,6,Maryland,,,Washington
+395,2025,6,Northwestern,,,UL Monroe
+396,2025,6,Akron,,,Central Michigan
+397,2025,6,Louisville,,,Virginia
+398,2025,6,UConn,,,Florida International
+399,2025,6,Oklahoma,,,Kent State
+400,2025,6,Arkansas State,,,Texas State
+401,2025,6,Nebraska,,,Michigan State
+402,2025,6,Old Dominion,,,Coastal Carolina
+403,2025,6,Troy,,,South Alabama
+404,2025,6,Rice,,,Florida Atlantic
+405,2025,6,Houston,,,Texas Tech
+406,2025,6,Wyoming,,,UNLV
+407,2025,6,Texas A&M,,,Mississippi State
+408,2025,6,UCF,,,Kansas
+409,2025,6,TCU,,,Colorado
+410,2025,6,Florida State,,,Miami
+411,2025,6,Ohio State,,,Minnesota
+412,2025,6,Memphis,,,Tulsa
+413,2025,6,California,,,Duke
+414,2025,6,Fresno State,,,Nevada
+415,2025,7,Middle Tennessee,,,Missouri State
+416,2025,7,UTEP,,,Liberty
+417,2025,7,Kennesaw State,,,Louisiana Tech
+418,2025,7,Tulane,,,East Carolina
+419,2025,7,Sam Houston,,,Jacksonville State
+420,2025,7,Georgia Southern,,,Southern Miss
+421,2025,7,North Texas,,,South Florida
+422,2025,7,Colorado State,,,Fresno State
+423,2025,7,Washington,,,Rutgers
+424,2025,7,Kansas State,,,TCU
+425,2025,7,USC,,,Michigan
+426,2025,7,James Madison,,,Louisiana
+427,2025,7,Colorado,,,Iowa State
+428,2025,7,Maryland,,,Nebraska
+429,2025,7,Penn State,,,Northwestern
+430,2025,7,Georgia State,,,App State
+431,2025,7,LSU,,,South Carolina
+432,2025,7,Tennessee,,,Arkansas
+433,2025,7,Texas A&M,,,Florida
+434,2025,7,Auburn,,,Georgia
+435,2025,7,SMU,,,Stanford
+436,2025,7,Coastal Carolina,,,UL Monroe
+437,2025,7,Kent State,,,Massachusetts
+438,2025,7,Bowling Green,,,Toledo
+439,2025,7,Florida Atlantic,,,UAB
+440,2025,7,Georgia Tech,,,Virginia Tech
+441,2025,7,Boise State,,,New Mexico
+442,2025,7,UTSA,,,Rice
+443,2025,7,Texas State,,,Troy
+444,2025,7,Marshall,,,Old Dominion
+445,2025,7,Boston College,,,Clemson
+446,2025,7,Minnesota,,,Purdue
+447,2025,7,Illinois,,,Ohio State
+448,2025,7,Wisconsin,,,Iowa
+449,2025,7,Oregon,,,Indiana
+450,2025,7,Florida State,,,Pittsburgh
+451,2025,7,Arizona,,,BYU
+452,2025,7,Cincinnati,,,UCF
+453,2025,7,Oklahoma State,,,Houston
+454,2025,7,Akron,,,Miami (OH)
+455,2025,7,Utah,,,Arizona State
+456,2025,7,Temple,,,Navy
+457,2025,7,Eastern Michigan,,,Northern Illinois
+458,2025,7,Texas Tech,,,Kansas
+459,2025,7,Michigan State,,,UCLA
+460,2025,7,Missouri,,,Alabama
+461,2025,7,Army,,,Charlotte
+462,2025,7,Ole Miss,,,Washington State
+463,2025,7,Western Michigan,,,Ball State
+464,2025,7,UNLV,,,Air Force
+465,2025,7,Texas,,,Oklahoma
+466,2025,7,Notre Dame,,,NC State
+467,2025,7,Oregon State,,,Wake Forest
+468,2025,7,Wyoming,,,San José State
+469,2025,7,Nevada,,,San Diego State
+470,2025,7,Hawai'i,,,Utah State
+471,2025,8,Liberty,,,New Mexico State
+472,2025,8,South Alabama,,,Arkansas State
+473,2025,8,Western Kentucky,,,Florida International
+474,2025,8,Jacksonville State,,,Delaware
+475,2025,8,Sam Houston,,,UTEP
+476,2025,8,East Carolina,,,Tulsa
+477,2025,8,Miami,,,Louisville
+478,2025,8,Minnesota,,,Nebraska
+479,2025,8,Utah State,,,San José State
+480,2025,8,California,,,North Carolina
+481,2025,8,App State,,,Coastal Carolina
+482,2025,8,Alabama,,,Tennessee
+483,2025,8,Florida,,,Mississippi State
+484,2025,8,Arkansas,,,Texas A&M
+485,2025,8,Arizona State,,,Texas Tech
+486,2025,8,Boston College,,,UConn
+487,2025,8,Syracuse,,,Pittsburgh
+488,2025,8,Clemson,,,SMU
+489,2025,8,BYU,,,Utah
+490,2025,8,Marshall,,,Texas State
+491,2025,8,South Florida,,,Florida Atlantic
+492,2025,8,Massachusetts,,,Buffalo
+493,2025,8,Louisiana,,,Southern Miss
+494,2025,8,Miami (OH),,,Eastern Michigan
+495,2025,8,UCLA,,,Maryland
+496,2025,8,Auburn,,,Missouri
+497,2025,8,Kentucky,,,Texas
+498,2025,8,Houston,,,Arizona
+499,2025,8,Duke,,,Georgia Tech
+500,2025,8,Boise State,,,UNLV
+501,2025,8,North Texas,,,UTSA
+502,2025,8,UCF,,,West Virginia
+503,2025,8,New Mexico,,,Nevada
+504,2025,8,Georgia Southern,,,Georgia State
+505,2025,8,James Madison,,,Old Dominion
+506,2025,8,Bowling Green,,,Central Michigan
+507,2025,8,UL Monroe,,,Troy
+508,2025,8,UAB,,,Memphis
+509,2025,8,Tulane,,,Army
+510,2025,8,South Carolina,,,Oklahoma
+511,2025,8,Charlotte,,,Temple
+512,2025,8,Toledo,,,Kent State
+513,2025,8,Ohio,,,Northern Illinois
+514,2025,8,Rutgers,,,Oregon
+515,2025,8,Northwestern,,,Purdue
+516,2025,8,Michigan,,,Washington
+517,2025,8,Vanderbilt,,,LSU
+518,2025,8,Georgia,,,Ole Miss
+519,2025,8,Wisconsin,,,Ohio State
+520,2025,8,Indiana,,,Michigan State
+521,2025,8,Iowa,,,Penn State
+522,2025,8,Oklahoma State,,,Cincinnati
+523,2025,8,TCU,,,Baylor
+524,2025,8,Air Force,,,Wyoming
+525,2025,8,Ball State,,,Akron
+526,2025,8,Virginia,,,Washington State
+527,2025,8,Colorado State,,,Hawai'i
+528,2025,8,Notre Dame,,,USC
+529,2025,8,Oregon State,,,Lafayette
+530,2025,8,Stanford,,,Florida State
+531,2025,9,Florida International,,,Kennesaw State
+532,2025,9,Louisiana Tech,,,Western Kentucky
+533,2025,9,Delaware,,,Middle Tennessee
+534,2025,9,New Mexico State,,,Missouri State
+535,2025,9,Georgia State,,,South Alabama
+536,2025,9,Charlotte,,,North Texas
+537,2025,9,Virginia Tech,,,California
+538,2025,9,Nevada,,,Boise State
+539,2025,9,Vanderbilt,,,Missouri
+540,2025,9,Nebraska,,,Northwestern
+541,2025,9,Indiana,,,UCLA
+542,2025,9,Wake Forest,,,SMU
+543,2025,9,Oklahoma,,,Ole Miss
+544,2025,9,Washington,,,Illinois
+545,2025,9,Louisville,,,Boston College
+546,2025,9,Rice,,,UConn
+547,2025,9,Kentucky,,,Tennessee
+548,2025,9,LSU,,,Texas A&M
+549,2025,9,Purdue,,,Rutgers
+550,2025,9,Fresno State,,,San Diego State
+551,2025,9,Mississippi State,,,Texas
+552,2025,9,Memphis,,,South Florida
+553,2025,9,Southern Miss,,,UL Monroe
+554,2025,9,Troy,,,Louisiana
+555,2025,9,Tulsa,,,Temple
+556,2025,9,Miami,,,Stanford
+557,2025,9,Arkansas,,,Auburn
+558,2025,9,South Carolina,,,Alabama
+559,2025,9,Oregon,,,Wisconsin
+560,2025,9,Buffalo,,,Akron
+561,2025,9,Utah,,,Colorado
+562,2025,9,Cincinnati,,,Baylor
+563,2025,9,Michigan State,,,Michigan
+564,2025,9,Pittsburgh,,,NC State
+565,2025,9,Georgia Tech,,,Syracuse
+566,2025,9,Iowa,,,Minnesota
+567,2025,9,Northern Illinois,,,Ball State
+568,2025,9,Iowa State,,,BYU
+569,2025,9,Kent State,,,Bowling Green
+570,2025,9,Old Dominion,,,App State
+571,2025,9,Texas Tech,,,Oklahoma State
+572,2025,9,Kansas,,,Kansas State
+573,2025,9,West Virginia,,,TCU
+574,2025,9,Arizona State,,,Houston
+575,2025,9,North Carolina,,,Virginia
+576,2025,9,Eastern Michigan,,,Ohio
+577,2025,9,New Mexico,,,Utah State
+578,2025,9,Miami (OH),,,Western Michigan
+579,2025,9,Central Michigan,,,Massachusetts
+580,2025,9,Navy,,,Florida Atlantic
+581,2025,9,Washington State,,,Toledo
+582,2025,9,Arkansas State,,,Georgia Southern
+583,2025,9,Wyoming,,,Colorado State
+584,2025,10,Texas State,,,James Madison
+585,2025,10,Kennesaw State,,,UTEP
+586,2025,10,Middle Tennessee,,,Jacksonville State
+587,2025,10,Missouri State,,,Florida International
+588,2025,10,UTSA,,,Tulane
+589,2025,10,Coastal Carolina,,,Marshall
+590,2025,10,Rice,,,Memphis
+591,2025,10,Syracuse,,,North Carolina
+592,2025,10,Louisiana Tech,,,Sam Houston
+593,2025,10,Western Michigan,,,Central Michigan
+594,2025,10,NC State,,,Georgia Tech
+595,2025,10,Ole Miss,,,South Carolina
+596,2025,10,Tennessee,,,Oklahoma
+597,2025,10,Minnesota,,,Michigan State
+598,2025,10,California,,,Virginia
+599,2025,10,Clemson,,,Duke
+600,2025,10,Florida State,,,Wake Forest
+601,2025,10,Kansas,,,Oklahoma State
+602,2025,10,Iowa State,,,Arizona State
+603,2025,10,Houston,,,West Virginia
+604,2025,10,Colorado,,,Arizona
+605,2025,10,Baylor,,,UCF
+606,2025,10,Arkansas,,,Mississippi State
+607,2025,10,Auburn,,,Kentucky
+608,2025,10,Nebraska,,,USC
+609,2025,10,SMU,,,Miami
+610,2025,10,Stanford,,,Pittsburgh
+611,2025,10,Kansas State,,,Texas Tech
+612,2025,10,Utah,,,Cincinnati
+613,2025,10,UL Monroe,,,Old Dominion
+614,2025,10,South Alabama,,,Louisiana
+615,2025,10,Troy,,,Arkansas State
+616,2025,10,Temple,,,East Carolina
+617,2025,10,Bowling Green,,,Buffalo
+618,2025,10,North Texas,,,Navy
+619,2025,10,Maryland,,,Indiana
+620,2025,10,Ohio State,,,Penn State
+621,2025,10,Boston College,,,Notre Dame
+622,2025,10,Illinois,,,Rutgers
+623,2025,10,Boise State,,,Fresno State
+624,2025,10,Michigan,,,Purdue
+625,2025,10,Virginia Tech,,,Louisville
+626,2025,10,Air Force,,,Army
+627,2025,10,UConn,,,UAB
+628,2025,10,Texas,,,Vanderbilt
+629,2025,10,UNLV,,,New Mexico
+630,2025,10,Florida,,,Georgia
+631,2025,10,Liberty,,,Delaware
+632,2025,10,Western Kentucky,,,New Mexico State
+633,2025,10,San Diego State,,,Wyoming
+634,2025,10,Oregon State,,,Washington State
+635,2025,10,San José State,,,Hawai'i
+636,2025,11,Ohio,,,Miami (OH)
+637,2025,11,Akron,,,Massachusetts
+638,2025,11,Ball State,,,Kent State
+639,2025,11,Toledo,,,Northern Illinois
+640,2025,11,App State,,,Georgia Southern
+641,2025,11,South Florida,,,UTSA
+642,2025,11,UCF,,,Houston
+643,2025,11,USC,,,Northwestern
+644,2025,11,Memphis,,,Tulane
+645,2025,11,Arizona,,,Kansas
+646,2025,11,Alabama,,,LSU
+647,2025,11,Rutgers,,,Maryland
+648,2025,11,East Carolina,,,Charlotte
+649,2025,11,Louisville,,,California
+650,2025,11,Vanderbilt,,,Auburn
+651,2025,11,Missouri,,,Texas A&M
+652,2025,11,Coastal Carolina,,,Georgia State
+653,2025,11,Colorado State,,,UNLV
+654,2025,11,Texas Tech,,,BYU
+655,2025,11,TCU,,,Iowa State
+656,2025,11,Virginia,,,Wake Forest
+657,2025,11,North Carolina,,,Stanford
+658,2025,11,Miami,,,Syracuse
+659,2025,11,Clemson,,,Florida State
+660,2025,11,Boston College,,,SMU
+661,2025,11,Wisconsin,,,Washington
+662,2025,11,Iowa,,,Oregon
+663,2025,11,Purdue,,,Ohio State
+664,2025,11,Penn State,,,Indiana
+665,2025,11,Kentucky,,,Florida
+666,2025,11,West Virginia,,,Colorado
+667,2025,11,UCLA,,,Nebraska
+668,2025,11,Eastern Michigan,,,Bowling Green
+669,2025,11,Florida Atlantic,,,Tulsa
+670,2025,11,Rice,,,UAB
+671,2025,11,Louisiana,,,Texas State
+672,2025,11,Arkansas State,,,Southern Miss
+673,2025,11,Marshall,,,James Madison
+674,2025,11,San José State,,,Air Force
+675,2025,11,Mississippi State,,,Georgia
+676,2025,11,Army,,,Temple
+677,2025,11,Ole Miss,,,The Citadel
+678,2025,11,Liberty,,,Missouri State
+679,2025,11,UTEP,,,Jacksonville State
+680,2025,11,Middle Tennessee,,,Florida International
+681,2025,11,Delaware,,,Louisiana Tech
+682,2025,11,UConn,,,Duke
+683,2025,11,New Mexico State,,,Kennesaw State
+684,2025,11,Notre Dame,,,Navy
+685,2025,11,Utah State,,,Nevada
+686,2025,11,Oregon State,,,Sam Houston
+687,2025,11,Hawai'i,,,San Diego State
+688,2025,12,Akron,,,Kent State
+689,2025,12,Western Michigan,,,Ohio
+690,2025,12,Massachusetts,,,Northern Illinois
+691,2025,12,Miami (OH),,,Toledo
+692,2025,12,Central Michigan,,,Buffalo
+693,2025,12,Old Dominion,,,Troy
+694,2025,12,Louisville,,,Clemson
+695,2025,12,Oregon,,,Minnesota
+696,2025,12,Georgia Southern,,,Coastal Carolina
+697,2025,12,Northwestern,,,Michigan
+698,2025,12,Washington,,,Purdue
+699,2025,12,James Madison,,,App State
+700,2025,12,Pittsburgh,,,Notre Dame
+701,2025,12,Tulane,,,Florida Atlantic
+702,2025,12,LSU,,,Arkansas
+703,2025,12,BYU,,,TCU
+704,2025,12,Wake Forest,,,North Carolina
+705,2025,12,Ball State,,,Eastern Michigan
+706,2025,12,Alabama,,,Oklahoma
+707,2025,12,Ohio State,,,UCLA
+708,2025,12,Miami,,,NC State
+709,2025,12,Baylor,,,Utah
+710,2025,12,Arizona State,,,West Virginia
+711,2025,12,Florida State,,,Virginia Tech
+712,2025,12,Georgia,,,Texas
+713,2025,12,East Carolina,,,Memphis
+714,2025,12,Charlotte,,,UTSA
+715,2025,12,Fresno State,,,Wyoming
+716,2025,12,Boston College,,,Georgia Tech
+717,2025,12,Indiana,,,Wisconsin
+718,2025,12,Illinois,,,Maryland
+719,2025,12,USC,,,Iowa
+720,2025,12,Tulsa,,,Oregon State
+721,2025,12,Duke,,,Virginia
+722,2025,12,Cincinnati,,,Arizona
+723,2025,12,Oklahoma State,,,Kansas State
+724,2025,12,Texas Tech,,,UCF
+725,2025,12,New Mexico,,,Colorado State
+726,2025,12,Georgia State,,,Marshall
+727,2025,12,UL Monroe,,,South Alabama
+728,2025,12,Southern Miss,,,Texas State
+729,2025,12,UAB,,,North Texas
+730,2025,12,Michigan State,,,Penn State
+731,2025,12,Ole Miss,,,Florida
+732,2025,12,Missouri,,,Mississippi State
+733,2025,12,Texas A&M,,,South Carolina
+734,2025,12,Navy,,,South Florida
+735,2025,12,UConn,,,Air Force
+736,2025,12,Sam Houston,,,Delaware
+737,2025,12,Kentucky,,,Tennessee Tech
+738,2025,12,Jacksonville State,,,Kennesaw State
+739,2025,12,Missouri State,,,UTEP
+740,2025,12,Western Kentucky,,,Middle Tennessee
+741,2025,12,Nevada,,,San José State
+742,2025,12,Tennessee,,,New Mexico State
+743,2025,12,Florida International,,,Liberty
+744,2025,12,UNLV,,,Utah State
+745,2025,12,Washington State,,,Louisiana Tech
+746,2025,12,San Diego State,,,Boise State
+747,2025,13,Northern Illinois,,,Western Michigan
+748,2025,13,Ohio,,,Massachusetts
+749,2025,13,Bowling Green,,,Akron
+750,2025,13,Buffalo,,,Miami (OH)
+751,2025,13,Kent State,,,Central Michigan
+752,2025,13,Arkansas State,,,Louisiana
+753,2025,13,NC State,,,Florida State
+754,2025,13,UNLV,,,Hawai'i
+755,2025,13,Maryland,,,Michigan
+756,2025,13,Georgia Tech,,,Pittsburgh
+757,2025,13,North Carolina,,,Duke
+758,2025,13,Stanford,,,California
+759,2025,13,James Madison,,,Washington State
+760,2025,13,UCLA,,,Washington
+761,2025,13,Oregon,,,USC
+762,2025,13,Ohio State,,,Rutgers
+763,2025,13,App State,,,Marshall
+764,2025,13,Penn State,,,Nebraska
+765,2025,13,LSU,,,Western Kentucky
+766,2025,13,UTSA,,,East Carolina
+767,2025,13,UCF,,,Oklahoma State
+768,2025,13,Utah,,,Kansas State
+769,2025,13,Florida Atlantic,,,UConn
+770,2025,13,Boise State,,,Colorado State
+771,2025,13,San Diego State,,,San José State
+772,2025,13,Georgia Southern,,,Old Dominion
+773,2025,13,South Alabama,,,Southern Miss
+774,2025,13,Texas State,,,UL Monroe
+775,2025,13,Troy,,,Georgia State
+776,2025,13,Rice,,,North Texas
+777,2025,13,Temple,,,Tulane
+778,2025,13,South Carolina,,,Coastal Carolina
+779,2025,13,Texas,,,Arkansas
+780,2025,13,Vanderbilt,,,Kentucky
+781,2025,13,Northwestern,,,Minnesota
+782,2025,13,SMU,,,Louisville
+783,2025,13,Virginia Tech,,,Miami
+784,2025,13,Wisconsin,,,Illinois
+785,2025,13,Florida,,,Tennessee
+786,2025,13,Arizona,,,Baylor
+787,2025,13,Clemson,,,Furman
+788,2025,13,Iowa,,,Michigan State
+789,2025,13,Iowa State,,,Kansas
+790,2025,13,Houston,,,TCU
+791,2025,13,Colorado,,,Arizona State
+792,2025,13,Cincinnati,,,BYU
+793,2025,13,Toledo,,,Ball State
+794,2025,13,UAB,,,South Florida
+795,2025,13,Wake Forest,,,Delaware
+796,2025,13,Army,,,Tulsa
+797,2025,13,Oklahoma,,,Missouri
+798,2025,13,Texas A&M,,,Samford
+799,2025,13,Georgia,,,Charlotte
+800,2025,13,Auburn,,,Mercer
+801,2025,13,Alabama,,,Eastern Illinois
+802,2025,13,Kennesaw State,,,Missouri State
+803,2025,13,Wyoming,,,Nevada
+804,2025,13,Louisiana Tech,,,Liberty
+805,2025,13,UTEP,,,New Mexico State
+806,2025,13,Middle Tennessee,,,Sam Houston
+807,2025,13,Notre Dame,,,Syracuse
+808,2025,13,Florida International,,,Jacksonville State
+809,2025,13,Air Force,,,New Mexico
+810,2025,13,Fresno State,,,Utah State
+811,2025,14,Eastern Michigan,,,Western Michigan
+812,2025,14,Massachusetts,,,Bowling Green
+813,2025,14,Memphis,,,Navy
+814,2025,14,UTSA,,,Army
+815,2025,14,Arizona State,,,Arizona
+816,2025,14,Kansas,,,Utah
+817,2025,14,Buffalo,,,Ohio
+818,2025,14,Mississippi State,,,Ole Miss
+819,2025,14,Nebraska,,,Iowa
+820,2025,14,Northern Illinois,,,Kent State
+821,2025,14,Colorado State,,,Air Force
+822,2025,14,Georgia Tech,,,Georgia
+823,2025,14,New Mexico,,,San Diego State
+824,2025,14,Utah State,,,Boise State
+825,2025,14,Purdue,,,Indiana
+826,2025,14,Texas,,,Texas A&M
+827,2025,14,USC,,,UCLA
+828,2025,14,Washington,,,Oregon
+829,2025,14,Oklahoma,,,LSU
+830,2025,14,Louisville,,,Kentucky
+831,2025,14,Florida,,,Florida State
+832,2025,14,Arkansas,,,Missouri
+833,2025,14,Auburn,,,Alabama
+834,2025,14,Florida Atlantic,,,East Carolina
+835,2025,14,Illinois,,,Northwestern
+836,2025,14,South Florida,,,Rice
+837,2025,14,Central Michigan,,,Toledo
+838,2025,14,Miami (OH),,,Ball State
+839,2025,14,Marshall,,,Georgia Southern
+840,2025,14,Old Dominion,,,Georgia State
+841,2025,14,Louisiana,,,UL Monroe
+842,2025,14,Southern Miss,,,Troy
+843,2025,14,Texas State,,,South Alabama
+844,2025,14,North Texas,,,Temple
+845,2025,14,Tulsa,,,UAB
+846,2025,14,Minnesota,,,Wisconsin
+847,2025,14,Tulane,,,Charlotte
+848,2025,14,Duke,,,Wake Forest
+849,2025,14,Tennessee,,,Vanderbilt
+850,2025,14,TCU,,,Cincinnati
+851,2025,14,West Virginia,,,Texas Tech
+852,2025,14,App State,,,Arkansas State
+853,2025,14,Coastal Carolina,,,James Madison
+854,2025,14,Michigan State,,,Maryland
+855,2025,14,Syracuse,,,Boston College
+856,2025,14,Pittsburgh,,,Miami
+857,2025,14,California,,,SMU
+858,2025,14,San José State,,,Fresno State
+859,2025,14,Rutgers,,,Penn State
+860,2025,14,Stanford,,,Notre Dame
+861,2025,14,Oklahoma State,,,Iowa State
+862,2025,14,Virginia,,,Virginia Tech
+863,2025,14,NC State,,,North Carolina
+864,2025,14,Kansas State,,,Colorado
+865,2025,14,BYU,,,UCF
+866,2025,14,Baylor,,,Houston
+867,2025,14,Michigan,,,Ohio State
+868,2025,14,South Carolina,,,Clemson
+869,2025,14,Delaware,,,UTEP
+870,2025,14,Sam Houston,,,Florida International
+871,2025,14,Jacksonville State,,,Western Kentucky
+872,2025,14,Missouri State,,,Louisiana Tech
+873,2025,14,New Mexico State,,,Middle Tennessee
+874,2025,14,Liberty,,,Kennesaw State
+875,2025,14,Washington State,,,Oregon State
+876,2025,14,Nevada,,,UNLV
+877,2025,14,Hawai'i,,,Wyoming
+878,2025,16,Navy,,,Army

@@ -1,0 +1,871 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2015,1,UCF,14,15,Florida International
+1,2015,1,South Carolina,17,13,North Carolina
+2,2015,1,Wake Forest,41,3,Elon
+3,2015,1,Central Michigan,13,24,Oklahoma State
+4,2015,1,Ball State,48,36,VMI
+5,2015,1,Georgia Tech,69,6,Alcorn State
+6,2015,1,UConn,20,15,Villanova
+7,2015,1,Vanderbilt,12,14,Western Kentucky
+8,2015,1,Utah,24,17,Michigan
+9,2015,1,Utah State,12,9,Southern Utah
+10,2015,1,Idaho,28,45,Ohio
+11,2015,1,Minnesota,17,23,TCU
+12,2015,1,Tulane,7,37,Duke
+13,2015,1,San José State,43,13,New Hampshire
+14,2015,1,Nevada,31,17,UC Davis
+15,2015,1,Fresno State,34,13,Abilene Christian
+16,2015,1,Arizona,42,32,UTSA
+17,2015,1,Hawai'i,28,20,Colorado
+18,2015,1,Georgia State,20,23,Charlotte
+19,2015,1,Syracuse,47,0,Rhode Island
+20,2015,1,Army,35,37,Fordham
+21,2015,1,Western Michigan,24,37,Michigan State
+22,2015,1,SMU,21,56,Baylor
+23,2015,1,Oregon State,26,7,Weber State
+24,2015,1,Boise State,16,13,Washington
+25,2015,1,Northwestern,16,6,Stanford
+26,2015,1,Georgia,51,14,UL Monroe
+27,2015,1,Maryland,50,21,Richmond
+28,2015,1,Navy,48,10,Colgate
+29,2015,1,Rutgers,63,13,Norfolk State
+30,2015,1,Kansas,38,41,South Dakota State
+31,2015,1,Iowa,31,14,Illinois State
+32,2015,1,Ole Miss,76,3,UT Martin
+33,2015,1,Clemson,49,10,Wofford
+34,2015,1,Pittsburgh,45,37,Youngstown State
+35,2015,1,Boston College,24,3,Maine
+36,2015,1,Washington State,17,24,Portland State
+37,2015,1,Illinois,52,3,Kent State
+38,2015,1,Texas Tech,59,45,Sam Houston
+39,2015,1,App State,49,0,Howard
+40,2015,1,Miami (OH),26,7,Presbyterian
+41,2015,1,Auburn,31,24,Louisville
+42,2015,1,Arkansas,48,13,UTEP
+43,2015,1,Tulsa,47,44,Florida Atlantic
+44,2015,1,Buffalo,51,14,UAlbany
+45,2015,1,UCLA,34,16,Virginia
+46,2015,1,Temple,27,10,Penn State
+47,2015,1,Nebraska,28,33,BYU
+48,2015,1,Air Force,63,7,Morgan State
+49,2015,1,Eastern Michigan,34,38,Old Dominion
+50,2015,1,Colorado State,65,13,Savannah St
+51,2015,1,Wyoming,13,24,North Dakota
+52,2015,1,Indiana,48,47,Southern Illinois
+53,2015,1,Missouri,34,3,Southeast Missouri State
+54,2015,1,Tennessee,59,30,Bowling Green
+55,2015,1,Rice,56,16,Wagner
+56,2015,1,California,73,14,Grambling
+57,2015,1,East Carolina,28,20,Towson
+58,2015,1,Miami,45,0,Bethune-Cookman
+59,2015,1,South Alabama,33,23,Gardner-Webb
+60,2015,1,NC State,49,21,Troy
+61,2015,1,South Florida,51,3,Florida A&M
+62,2015,1,Memphis,63,7,Missouri State
+63,2015,1,Middle Tennessee,70,14,Jackson State
+64,2015,1,Kentucky,40,33,Louisiana
+65,2015,1,Louisiana Tech,62,15,Southern
+66,2015,1,Texas A&M,38,17,Arizona State
+67,2015,1,Oklahoma,41,3,Akron
+68,2015,1,Kansas State,34,0,South Dakota
+69,2015,1,Florida,61,13,New Mexico State
+70,2015,1,Northern Illinois,38,30,UNLV
+71,2015,1,West Virginia,44,0,Georgia Southern
+72,2015,1,Notre Dame,38,3,Texas
+73,2015,1,Iowa State,31,7,Northern Iowa
+74,2015,1,Oregon,61,42,Eastern Washington
+75,2015,1,Alabama,35,17,Wisconsin
+76,2015,1,Houston,52,24,Tennessee Tech
+77,2015,1,San Diego State,37,3,San Diego
+78,2015,1,New Mexico,66,0,Mississippi Valley State
+79,2015,1,Cincinnati,52,10,Alabama A&M
+80,2015,1,Florida State,59,16,Texas State
+81,2015,1,Southern Miss,16,34,Mississippi State
+82,2015,1,USC,55,6,Arkansas State
+83,2015,1,Marshall,41,31,Purdue
+84,2015,1,Virginia Tech,24,42,Ohio State
+85,2015,2,Western Kentucky,41,38,Louisiana Tech
+86,2015,2,Florida Atlantic,20,44,Miami
+87,2015,2,Utah,24,14,Utah State
+88,2015,2,Florida State,34,14,South Florida
+89,2015,2,Maryland,27,48,Bowling Green
+90,2015,2,UTSA,3,30,Kansas State
+91,2015,2,Penn State,27,14,Buffalo
+92,2015,2,Charlotte,34,10,Presbyterian
+93,2015,2,Purdue,38,14,Indiana State
+94,2015,2,Wisconsin,58,0,Miami (OH)
+95,2015,2,Illinois,44,0,Western Illinois
+96,2015,2,Auburn,27,20,Jacksonville State
+97,2015,2,Michigan,35,7,Oregon State
+98,2015,2,Louisville,31,34,Houston
+99,2015,2,UConn,22,17,Army
+100,2015,2,Clemson,41,10,App State
+101,2015,2,Syracuse,30,17,Wake Forest
+102,2015,2,Boston College,76,0,Howard
+103,2015,2,Colorado,48,14,Massachusetts
+104,2015,2,Washington,49,0,Sacramento State
+105,2015,2,Texas Tech,69,20,UTEP
+106,2015,2,West Virginia,41,17,Liberty
+107,2015,2,Central Michigan,31,10,Monmouth
+108,2015,2,Northern Illinois,57,26,Murray State
+109,2015,2,Rutgers,34,37,Washington State
+110,2015,2,Ole Miss,73,21,Fresno State
+111,2015,2,Virginia,27,34,Notre Dame
+112,2015,2,Georgia Tech,65,10,Tulane
+113,2015,2,Vanderbilt,14,31,Georgia
+114,2015,2,Virginia Tech,42,3,Furman
+115,2015,2,TCU,70,7,Stephen F. Austin
+116,2015,2,Southern Miss,52,6,Austin Peay
+117,2015,2,Ohio State,38,0,Hawai'i
+118,2015,2,Colorado State,20,23,Minnesota
+119,2015,2,Arkansas,12,16,Toledo
+120,2015,2,Northwestern,41,0,Eastern Illinois
+121,2015,2,Wyoming,29,48,Eastern Michigan
+122,2015,2,Alabama,37,10,Middle Tennessee
+123,2015,2,Iowa State,17,31,Iowa
+124,2015,2,California,35,7,San Diego State
+125,2015,2,Kent State,45,13,Delaware State
+126,2015,2,Duke,55,0,North Carolina Central
+127,2015,2,Georgia Southern,43,17,Western Michigan
+128,2015,2,North Carolina,53,14,North Carolina A&T
+129,2015,2,NC State,35,0,Eastern Kentucky
+130,2015,2,Akron,7,24,Pittsburgh
+131,2015,2,Tennessee,24,31,Oklahoma
+132,2015,2,SMU,31,13,North Texas
+133,2015,2,Florida,31,24,East Carolina
+134,2015,2,Ohio,21,10,Marshall
+135,2015,2,Kansas,23,55,Memphis
+136,2015,2,Nevada,20,44,Arizona
+137,2015,2,Arkansas State,20,27,Missouri
+138,2015,2,Troy,44,16,Charleston Southern
+139,2015,2,Texas State,63,24,Prairie View A&M
+140,2015,2,Louisiana,44,17,Northwestern State
+141,2015,2,UL Monroe,47,0,Nicholls
+142,2015,2,Texas A&M,56,23,Ball State
+143,2015,2,Old Dominion,24,10,Norfolk State
+144,2015,2,South Carolina,22,26,Kentucky
+145,2015,2,Baylor,66,31,Lamar
+146,2015,2,Oklahoma State,32,8,Central Arkansas
+147,2015,2,Indiana,36,22,Florida International
+148,2015,2,New Mexico State,32,34,Georgia State
+149,2015,2,Cincinnati,26,34,Temple
+150,2015,2,USC,59,9,Idaho
+151,2015,2,Nebraska,48,9,South Alabama
+152,2015,2,Texas,42,28,Rice
+153,2015,2,New Mexico,21,40,Tulsa
+154,2015,2,Michigan State,31,28,Oregon
+155,2015,2,Mississippi State,19,21,LSU
+156,2015,2,BYU,35,24,Boise State
+157,2015,2,Air Force,37,16,San José State
+158,2015,2,UNLV,3,37,UCLA
+159,2015,2,Stanford,31,7,UCF
+160,2015,2,Arizona State,35,21,Cal Poly
+161,2015,3,Louisville,17,20,Clemson
+162,2015,3,Boston College,0,14,Florida State
+163,2015,3,Boise State,52,0,Idaho State
+164,2015,3,Arizona State,34,10,New Mexico
+165,2015,3,Florida Atlantic,15,33,Buffalo
+166,2015,3,Michigan State,35,21,Air Force
+167,2015,3,Maryland,35,17,South Florida
+168,2015,3,Army,14,17,Wake Forest
+169,2015,3,North Carolina,48,14,Illinois
+170,2015,3,Michigan,28,7,UNLV
+171,2015,3,Akron,52,9,Savannah St
+172,2015,3,Oklahoma,52,38,Tulsa
+173,2015,3,Texas A&M,44,27,Nevada
+174,2015,3,Missouri,9,6,UConn
+175,2015,3,Minnesota,10,7,Kent State
+176,2015,3,Syracuse,30,27,Central Michigan
+177,2015,3,Duke,10,19,Northwestern
+178,2015,3,Oregon,61,28,Georgia State
+179,2015,3,Ohio,35,14,SE Louisiana
+180,2015,3,North Texas,24,38,Rice
+181,2015,3,Massachusetts,23,25,Temple
+182,2015,3,Bowling Green,41,44,Memphis
+183,2015,3,Eastern Michigan,17,28,Ball State
+184,2015,3,Kansas State,39,33,Louisiana Tech
+185,2015,3,Oklahoma State,69,14,UTSA
+186,2015,3,Miami (OH),33,37,Cincinnati
+187,2015,3,LSU,45,21,Auburn
+188,2015,3,Notre Dame,30,22,Georgia Tech
+189,2015,3,Wisconsin,28,3,Troy
+190,2015,3,Marshall,45,7,Norfolk State
+191,2015,3,Virginia,35,29,William & Mary
+192,2015,3,Ohio State,20,13,Northern Illinois
+193,2015,3,Miami,36,33,Nebraska
+194,2015,3,Purdue,24,51,Virginia Tech
+195,2015,3,Navy,45,21,East Carolina
+196,2015,3,Indiana,38,35,Western Kentucky
+197,2015,3,Vanderbilt,47,7,Austin Peay
+198,2015,3,Mississippi State,62,13,Northwestern State
+199,2015,3,Idaho,41,38,Wofford
+200,2015,3,Washington,31,17,Utah State
+201,2015,3,Georgia,52,20,South Carolina
+202,2015,3,UCF,15,16,Furman
+203,2015,3,Florida International,39,14,North Carolina Central
+204,2015,3,Georgia Southern,48,13,The Citadel
+205,2015,3,Tennessee,55,10,Western Carolina
+206,2015,3,Western Michigan,52,20,Murray State
+207,2015,3,Arkansas State,70,7,Missouri State
+208,2015,3,Texas State,50,56,Southern Miss
+209,2015,3,Middle Tennessee,73,14,Charlotte
+210,2015,3,Arkansas,24,35,Texas Tech
+211,2015,3,Colorado State,24,27,Colorado
+212,2015,3,Old Dominion,14,38,NC State
+213,2015,3,Kentucky,9,14,Florida
+214,2015,3,Texas,44,45,California
+215,2015,3,Oregon State,35,21,San José State
+216,2015,3,Tulane,38,7,Maine
+217,2015,3,San Diego State,27,34,South Alabama
+218,2015,3,TCU,56,37,SMU
+219,2015,3,New Mexico State,47,50,UTEP
+220,2015,3,Iowa,27,24,Pittsburgh
+221,2015,3,Toledo,30,23,Iowa State
+222,2015,3,USC,31,41,Stanford
+223,2015,3,Penn State,28,3,Rutgers
+224,2015,3,Washington State,31,14,Wyoming
+225,2015,3,Alabama,37,43,Ole Miss
+226,2015,3,Fresno State,24,45,Utah
+227,2015,3,UCLA,24,23,BYU
+228,2015,3,Arizona,77,13,Northern Arizona
+229,2015,3,Hawai'i,47,27,UC Davis
+230,2015,4,Memphis,53,46,Cincinnati
+231,2015,4,Virginia,14,56,Boise State
+232,2015,4,Oregon State,24,42,Stanford
+233,2015,4,Michigan State,30,10,Central Michigan
+234,2015,4,Purdue,28,35,Bowling Green
+235,2015,4,Rutgers,27,14,Kansas
+236,2015,4,Georgia,48,6,Southern
+237,2015,4,Michigan,31,0,BYU
+238,2015,4,South Carolina,31,14,UCF
+239,2015,4,Nebraska,36,28,Southern Miss
+240,2015,4,Syracuse,24,34,LSU
+241,2015,4,UConn,18,28,Navy
+242,2015,4,Duke,34,20,Georgia Tech
+243,2015,4,North Carolina,41,14,Delaware
+244,2015,4,Wake Forest,24,31,Indiana
+245,2015,4,Boston College,17,14,Northern Illinois
+246,2015,4,Colorado,48,0,Nicholls
+247,2015,4,Louisiana Tech,27,17,Florida International
+248,2015,4,West Virginia,45,6,Maryland
+249,2015,4,Baylor,70,17,Rice
+250,2015,4,Wyoming,28,38,New Mexico
+251,2015,4,East Carolina,35,28,Virginia Tech
+252,2015,4,Iowa,62,16,North Texas
+253,2015,4,Ohio State,38,12,Western Michigan
+254,2015,4,Penn State,37,21,San Diego State
+255,2015,4,Florida,28,27,Tennessee
+256,2015,4,Buffalo,21,24,Nevada
+257,2015,4,Texas,27,30,Oklahoma State
+258,2015,4,Western Kentucky,56,14,Miami (OH)
+259,2015,4,Kent State,29,36,Marshall
+260,2015,4,Minnesota,27,24,Ohio
+261,2015,4,Old Dominion,0,49,App State
+262,2015,4,Notre Dame,62,27,Massachusetts
+263,2015,4,Illinois,27,25,Middle Tennessee
+264,2015,4,Alabama,34,0,UL Monroe
+265,2015,4,Texas Tech,52,55,TCU
+266,2015,4,Washington,24,30,California
+267,2015,4,Louisville,45,3,Samford
+268,2015,4,Eastern Michigan,36,58,Army
+269,2015,4,Charlotte,7,17,Florida Atlantic
+270,2015,4,Toledo,37,7,Arkansas State
+271,2015,4,Ole Miss,27,16,Vanderbilt
+272,2015,4,UTSA,31,33,Colorado State
+273,2015,4,Arkansas,21,28,Texas A&M
+274,2015,4,SMU,45,48,James Madison
+275,2015,4,Louisiana,14,35,Akron
+276,2015,4,Kentucky,21,13,Missouri
+277,2015,4,Auburn,9,17,Mississippi State
+278,2015,4,Houston,59,14,Texas State
+279,2015,4,Arizona,30,56,UCLA
+280,2015,4,Northwestern,24,19,Ball State
+281,2015,4,UTEP,27,17,Incarnate Word
+282,2015,4,Wisconsin,28,0,Hawai'i
+283,2015,4,South Alabama,13,63,NC State
+284,2015,4,Oregon,20,62,Utah
+285,2015,4,UNLV,80,8,Idaho State
+286,2015,4,Idaho,20,44,Georgia Southern
+287,2015,4,Arizona State,14,42,USC
+288,2015,4,San José State,49,23,Fresno State
+289,2015,5,Cincinnati,34,23,Miami
+290,2015,5,South Florida,17,24,Memphis
+291,2015,5,Charlotte,3,37,Temple
+292,2015,5,BYU,30,13,UConn
+293,2015,5,Missouri,24,10,South Carolina
+294,2015,5,Tulsa,24,38,Houston
+295,2015,5,Oklahoma,44,24,West Virginia
+296,2015,5,TCU,50,7,Texas
+297,2015,5,Wisconsin,6,10,Iowa
+298,2015,5,Northwestern,27,0,Minnesota
+299,2015,5,Penn State,20,14,Army
+300,2015,5,Virginia Tech,13,17,Pittsburgh
+301,2015,5,Maryland,0,28,Michigan
+302,2015,5,Michigan State,24,21,Purdue
+303,2015,5,Iowa State,38,13,Kansas
+304,2015,5,Tulane,45,31,UCF
+305,2015,5,NC State,13,20,Louisville
+306,2015,5,Akron,12,14,Ohio
+307,2015,5,Ball State,10,24,Toledo
+308,2015,5,Central Michigan,29,19,Northern Illinois
+309,2015,5,Massachusetts,24,14,Florida International
+310,2015,5,Buffalo,22,28,Bowling Green
+311,2015,5,Georgia State,33,41,Liberty
+312,2015,5,Georgia Tech,31,38,North Carolina
+313,2015,5,Duke,9,7,Boston College
+314,2015,5,Georgia,10,38,Alabama
+315,2015,5,Indiana,27,34,Ohio State
+316,2015,5,Navy,33,11,Air Force
+317,2015,5,Kent State,20,14,Miami (OH)
+318,2015,5,Rice,10,49,Western Kentucky
+319,2015,5,Wake Forest,16,24,Florida State
+320,2015,5,App State,31,13,Wyoming
+321,2015,5,Baylor,63,35,Texas Tech
+322,2015,5,Marshall,27,7,Old Dominion
+323,2015,5,Oklahoma State,36,34,Kansas State
+324,2015,5,SMU,23,49,East Carolina
+325,2015,5,California,34,28,Washington State
+326,2015,5,Auburn,35,21,San José State
+327,2015,5,Illinois,14,13,Nebraska
+328,2015,5,Utah State,33,18,Colorado State
+329,2015,5,Tennessee,20,24,Arkansas
+330,2015,5,Florida,38,10,Ole Miss
+331,2015,5,LSU,44,22,Eastern Michigan
+332,2015,5,UL Monroe,31,51,Georgia Southern
+333,2015,5,Southern Miss,49,14,North Texas
+334,2015,5,Arkansas State,49,35,Idaho
+335,2015,5,Nevada,17,23,UNLV
+336,2015,5,Middle Tennessee,13,17,Vanderbilt
+337,2015,5,Louisiana Tech,43,14,Louisiana
+338,2015,5,Troy,18,24,South Alabama
+339,2015,5,Texas A&M,30,17,Mississippi State
+340,2015,5,UCLA,23,38,Arizona State
+341,2015,5,Kentucky,34,27,Eastern Kentucky
+342,2015,5,New Mexico,38,29,New Mexico State
+343,2015,5,Clemson,24,22,Notre Dame
+344,2015,5,UTEP,6,25,UTSA
+345,2015,5,Boise State,55,0,Hawai'i
+346,2015,5,San Diego State,21,7,Fresno State
+347,2015,5,Stanford,55,17,Arizona
+348,2015,5,Colorado,24,41,Oregon
+349,2015,6,Houston,49,28,SMU
+350,2015,6,USC,12,17,Washington
+351,2015,6,Marshall,31,10,Southern Miss
+352,2015,6,Virginia Tech,28,13,NC State
+353,2015,6,Ole Miss,52,3,New Mexico State
+354,2015,6,Ohio State,49,28,Maryland
+355,2015,6,Texas,24,17,Oklahoma
+356,2015,6,Penn State,29,7,Indiana
+357,2015,6,Army,3,44,Duke
+358,2015,6,Western Kentucky,58,28,Middle Tennessee
+359,2015,6,Florida International,52,12,UTEP
+360,2015,6,Kansas,7,66,Baylor
+361,2015,6,Iowa,29,20,Illinois
+362,2015,6,Temple,49,10,Tulane
+363,2015,6,Western Michigan,41,39,Central Michigan
+364,2015,6,Pittsburgh,26,19,Virginia
+365,2015,6,Ohio,34,3,Miami (OH)
+366,2015,6,Bowling Green,62,38,Massachusetts
+367,2015,6,Florida Atlantic,26,27,Rice
+368,2015,6,Eastern Michigan,21,47,Akron
+369,2015,6,Toledo,38,7,Kent State
+370,2015,6,Boston College,0,3,Wake Forest
+371,2015,6,Tennessee,38,31,Georgia
+372,2015,6,Michigan,38,0,Northwestern
+373,2015,6,LSU,45,24,South Carolina
+374,2015,6,Nebraska,21,23,Wisconsin
+375,2015,6,Northern Illinois,59,41,Ball State
+376,2015,6,South Florida,45,24,Syracuse
+377,2015,6,Purdue,13,41,Minnesota
+378,2015,6,Texas Tech,66,31,Iowa State
+379,2015,6,Notre Dame,41,24,Navy
+380,2015,6,Clemson,43,24,Georgia Tech
+381,2015,6,Georgia State,3,37,App State
+382,2015,6,UCF,13,40,UConn
+383,2015,6,Arizona,44,7,Oregon State
+384,2015,6,Mississippi State,45,17,Troy
+385,2015,6,North Texas,7,66,Portland State
+386,2015,6,Tulsa,34,24,UL Monroe
+387,2015,6,Oregon,38,45,Washington State
+388,2015,6,UTSA,31,34,Louisiana Tech
+389,2015,6,Alabama,27,14,Arkansas
+390,2015,6,West Virginia,26,33,Oklahoma State
+391,2015,6,Nevada,35,17,New Mexico
+392,2015,6,Louisiana,49,27,Texas State
+393,2015,6,Colorado State,10,41,Boise State
+394,2015,6,BYU,45,38,East Carolina
+395,2015,6,Kansas State,45,52,TCU
+396,2015,6,Missouri,3,21,Florida
+397,2015,6,Rutgers,24,31,Michigan State
+398,2015,6,Florida State,29,24,Miami
+399,2015,6,UNLV,27,33,San José State
+400,2015,6,Arizona State,48,23,Colorado
+401,2015,6,Utah,30,24,California
+402,2015,6,Air Force,31,17,Wyoming
+403,2015,6,Fresno State,14,56,Utah State
+404,2015,6,Hawai'i,14,28,San Diego State
+405,2015,7,South Alabama,31,49,Arkansas State
+406,2015,7,Kentucky,27,30,Auburn
+407,2015,7,North Texas,28,55,Western Kentucky
+408,2015,7,Stanford,56,35,UCLA
+409,2015,7,BYU,38,24,Cincinnati
+410,2015,7,Tulane,7,42,Houston
+411,2015,7,Utah State,52,26,Boise State
+412,2015,7,Fresno State,31,28,UNLV
+413,2015,7,Wisconsin,24,7,Purdue
+414,2015,7,Mississippi State,45,20,Louisiana Tech
+415,2015,7,Kansas,20,30,Texas Tech
+416,2015,7,Florida Atlantic,17,33,Marshall
+417,2015,7,Army,21,14,Bucknell
+418,2015,7,Memphis,37,24,Ole Miss
+419,2015,7,Ohio,14,49,Western Michigan
+420,2015,7,Baylor,62,38,West Virginia
+421,2015,7,Northwestern,10,40,Iowa
+422,2015,7,UConn,20,28,South Florida
+423,2015,7,Florida State,41,21,Louisville
+424,2015,7,East Carolina,30,17,Tulsa
+425,2015,7,Toledo,63,20,Eastern Michigan
+426,2015,7,Middle Tennessee,42,34,Florida International
+427,2015,7,Georgia Tech,28,31,Pittsburgh
+428,2015,7,Central Michigan,51,14,Buffalo
+429,2015,7,Miami (OH),12,45,Northern Illinois
+430,2015,7,Bowling Green,59,10,Akron
+431,2015,7,Ball State,19,31,Georgia State
+432,2015,7,Old Dominion,37,34,Charlotte
+433,2015,7,Troy,16,19,Idaho
+434,2015,7,Massachusetts,10,15,Kent State
+435,2015,7,Virginia,44,38,Syracuse
+436,2015,7,Colorado State,38,23,Air Force
+437,2015,7,Michigan,23,27,Michigan State
+438,2015,7,Kansas State,0,55,Oklahoma
+439,2015,7,Texas A&M,23,41,Alabama
+440,2015,7,Minnesota,25,48,Nebraska
+441,2015,7,Miami,30,20,Virginia Tech
+442,2015,7,Indiana,52,55,Rutgers
+443,2015,7,Wyoming,28,21,Nevada
+444,2015,7,Washington State,52,31,Oregon State
+445,2015,7,South Carolina,19,10,Vanderbilt
+446,2015,7,Georgia Southern,56,26,New Mexico State
+447,2015,7,LSU,35,28,Florida
+448,2015,7,North Carolina,50,14,Wake Forest
+449,2015,7,Clemson,34,17,Boston College
+450,2015,7,Iowa State,21,45,TCU
+451,2015,7,New Mexico,28,27,Hawai'i
+452,2015,7,UL Monroe,14,59,App State
+453,2015,7,Southern Miss,32,10,UTSA
+454,2015,7,Temple,30,16,UCF
+455,2015,7,Georgia,9,6,Missouri
+456,2015,7,Notre Dame,41,31,USC
+457,2015,7,Ohio State,38,10,Penn State
+458,2015,7,Colorado,31,38,Arizona
+459,2015,7,Utah,34,18,Arizona State
+460,2015,7,San José State,7,30,San Diego State
+461,2015,7,Washington,20,26,Oregon
+462,2015,8,Arkansas State,37,27,Louisiana
+463,2015,8,East Carolina,14,24,Temple
+464,2015,8,App State,31,13,Georgia Southern
+465,2015,8,UCLA,40,24,California
+466,2015,8,Tulsa,42,66,Memphis
+467,2015,8,San Diego State,48,14,Utah State
+468,2015,8,Miami,0,58,Clemson
+469,2015,8,Syracuse,20,23,Pittsburgh
+470,2015,8,Wake Forest,17,35,NC State
+471,2015,8,Rice,38,31,Army
+472,2015,8,Texas,23,9,Kansas State
+473,2015,8,Nebraska,28,30,Northwestern
+474,2015,8,UCF,10,59,Houston
+475,2015,8,Charlotte,10,44,Southern Miss
+476,2015,8,Baylor,45,27,Iowa State
+477,2015,8,Arkansas,54,46,Auburn
+478,2015,8,Louisville,17,14,Boston College
+479,2015,8,Navy,31,14,Tulane
+480,2015,8,Kent State,0,48,Bowling Green
+481,2015,8,Western Michigan,35,13,Miami (OH)
+482,2015,8,Air Force,42,14,Fresno State
+483,2015,8,Massachusetts,35,51,Toledo
+484,2015,8,Ball State,21,23,Central Michigan
+485,2015,8,BYU,70,6,Wagner
+486,2015,8,Oklahoma,63,27,Texas Tech
+487,2015,8,Maryland,30,31,Penn State
+488,2015,8,Michigan State,52,26,Indiana
+489,2015,8,Virginia Tech,43,45,Duke
+490,2015,8,Oklahoma State,58,10,Kansas
+491,2015,8,North Carolina,26,13,Virginia
+492,2015,8,Marshall,30,13,North Texas
+493,2015,8,Illinois,13,24,Wisconsin
+494,2015,8,Alabama,19,14,Tennessee
+495,2015,8,Northern Illinois,49,21,Eastern Michigan
+496,2015,8,Buffalo,41,17,Ohio
+497,2015,8,Louisiana Tech,45,16,Middle Tennessee
+498,2015,8,Vanderbilt,10,3,Missouri
+499,2015,8,Arizona,42,45,Washington State
+500,2015,8,Nevada,30,20,Hawai'i
+501,2015,8,South Florida,38,14,SMU
+502,2015,8,Cincinnati,37,13,UConn
+503,2015,8,Idaho,27,13,UL Monroe
+504,2015,8,Florida International,41,12,Old Dominion
+505,2015,8,Ole Miss,23,3,Texas A&M
+506,2015,8,Georgia Tech,22,16,Florida State
+507,2015,8,LSU,48,20,Western Kentucky
+508,2015,8,San José State,31,21,New Mexico
+509,2015,8,Texas State,36,18,South Alabama
+510,2015,8,UTEP,27,17,Florida Atlantic
+511,2015,8,USC,42,24,Utah
+512,2015,8,Mississippi State,42,16,Kentucky
+513,2015,8,Rutgers,7,49,Ohio State
+514,2015,8,New Mexico State,7,52,Troy
+515,2015,8,Boise State,34,14,Wyoming
+516,2015,8,Oregon State,13,17,Colorado
+517,2015,8,Stanford,31,14,Washington
+518,2015,9,Pittsburgh,19,26,North Carolina
+519,2015,9,Eastern Michigan,28,58,Western Michigan
+520,2015,9,Miami (OH),24,29,Buffalo
+521,2015,9,TCU,40,10,West Virginia
+522,2015,9,Georgia Southern,37,13,Texas State
+523,2015,9,Arizona State,55,61,Oregon
+524,2015,9,Wake Forest,19,20,Louisville
+525,2015,9,UConn,31,13,East Carolina
+526,2015,9,Rice,17,42,Louisiana Tech
+527,2015,9,Utah State,58,27,Wyoming
+528,2015,9,Cincinnati,52,7,UCF
+529,2015,9,Texas A&M,35,28,South Carolina
+530,2015,9,Wisconsin,48,10,Rutgers
+531,2015,9,Purdue,55,45,Nebraska
+532,2015,9,Navy,29,17,South Florida
+533,2015,9,Penn State,39,0,Illinois
+534,2015,9,Auburn,19,27,Ole Miss
+535,2015,9,Florida State,45,21,Syracuse
+536,2015,9,Old Dominion,30,55,Western Kentucky
+537,2015,9,Boston College,10,26,Virginia Tech
+538,2015,9,Ball State,20,10,Massachusetts
+539,2015,9,Akron,6,14,Central Michigan
+540,2015,9,Southern Miss,34,13,UTEP
+541,2015,9,Virginia,27,21,Georgia Tech
+542,2015,9,UCLA,35,31,Colorado
+543,2015,9,California,21,27,USC
+544,2015,9,Texas Tech,53,70,Oklahoma State
+545,2015,9,NC State,41,56,Clemson
+546,2015,9,Colorado State,17,41,San Diego State
+547,2015,9,Iowa,31,15,Maryland
+548,2015,9,Kansas,7,62,Oklahoma
+549,2015,9,UNLV,27,55,Boise State
+550,2015,9,Charlotte,10,34,Marshall
+551,2015,9,App State,44,41,Troy
+552,2015,9,Florida Atlantic,31,17,Florida International
+553,2015,9,Florida,27,3,Georgia
+554,2015,9,SMU,31,40,Tulsa
+555,2015,9,Arkansas,63,28,UT Martin
+556,2015,9,Louisiana,30,24,UL Monroe
+557,2015,9,Utah,27,12,Oregon State
+558,2015,9,Minnesota,26,29,Michigan
+559,2015,9,Iowa State,24,0,Texas
+560,2015,9,Arkansas State,48,34,Georgia State
+561,2015,9,Memphis,41,13,Tulane
+562,2015,9,North Texas,30,23,UTSA
+563,2015,9,Houston,34,0,Vanderbilt
+564,2015,9,Duke,27,30,Miami
+565,2015,9,Kentucky,21,52,Tennessee
+566,2015,9,Temple,20,24,Notre Dame
+567,2015,9,New Mexico State,55,48,Idaho
+568,2015,9,Hawai'i,7,58,Air Force
+569,2015,9,Washington State,28,30,Stanford
+570,2015,9,Washington,49,3,Arizona
+571,2015,10,Toledo,27,32,Northern Illinois
+572,2015,10,Bowling Green,62,24,Ohio
+573,2015,10,Kent State,17,18,Buffalo
+574,2015,10,Kansas State,24,31,Baylor
+575,2015,10,App State,27,40,Arkansas State
+576,2015,10,Western Michigan,54,7,Ball State
+577,2015,10,Missouri,13,31,Mississippi State
+578,2015,10,Fresno State,16,30,Nevada
+579,2015,10,UTEP,24,21,Rice
+580,2015,10,SMU,40,60,Temple
+581,2015,10,San José State,16,17,BYU
+582,2015,10,Tulsa,45,30,UCF
+583,2015,10,Pittsburgh,30,42,Notre Dame
+584,2015,10,North Carolina,66,31,Duke
+585,2015,10,Northwestern,23,21,Penn State
+586,2015,10,Massachusetts,13,17,Akron
+587,2015,10,Georgia,27,3,Kentucky
+588,2015,10,West Virginia,31,26,Texas Tech
+589,2015,10,Florida International,48,31,Charlotte
+590,2015,10,Florida,9,7,Vanderbilt
+591,2015,10,Purdue,14,48,Illinois
+592,2015,10,Western Kentucky,35,19,Florida Atlantic
+593,2015,10,Louisville,41,17,Syracuse
+594,2015,10,Boston College,8,24,NC State
+595,2015,10,Colorado,10,42,Stanford
+596,2015,10,Georgia State,21,23,Louisiana
+597,2015,10,Miami (OH),28,13,Eastern Michigan
+598,2015,10,Miami,27,21,Virginia
+599,2015,10,South Alabama,52,45,Idaho
+600,2015,10,Wyoming,7,26,Colorado State
+601,2015,10,Middle Tennessee,27,24,Marshall
+602,2015,10,Houston,33,30,Cincinnati
+603,2015,10,Washington State,38,24,Arizona State
+604,2015,10,Troy,51,14,UL Monroe
+605,2015,10,New Mexico,14,13,Utah State
+606,2015,10,Oklahoma State,49,29,TCU
+607,2015,10,Ole Miss,52,53,Arkansas
+608,2015,10,Maryland,24,31,Wisconsin
+609,2015,10,Louisiana Tech,56,13,North Texas
+610,2015,10,Indiana,27,35,Iowa
+611,2015,10,Michigan,49,16,Rutgers
+612,2015,10,Air Force,20,3,Army
+613,2015,10,Clemson,23,13,Florida State
+614,2015,10,Texas State,21,31,New Mexico State
+615,2015,10,Tulane,3,7,UConn
+616,2015,10,Tennessee,27,24,South Carolina
+617,2015,10,Oregon State,0,41,UCLA
+618,2015,10,UNLV,41,21,Hawai'i
+619,2015,10,UTSA,31,36,Old Dominion
+620,2015,10,Nebraska,39,38,Michigan State
+621,2015,10,Oklahoma,52,16,Iowa State
+622,2015,10,Memphis,20,45,Navy
+623,2015,10,Washington,23,34,Utah
+624,2015,10,Texas A&M,10,26,Auburn
+625,2015,10,East Carolina,17,22,South Florida
+626,2015,10,Alabama,30,16,LSU
+627,2015,10,Ohio State,28,14,Minnesota
+628,2015,10,Texas,59,20,Kansas
+629,2015,10,Oregon,44,28,California
+630,2015,10,USC,38,30,Arizona
+631,2015,11,Ohio,27,0,Kent State
+632,2015,11,Central Michigan,23,28,Toledo
+633,2015,11,Buffalo,30,41,Northern Illinois
+634,2015,11,Western Michigan,27,41,Bowling Green
+635,2015,11,Georgia Tech,21,23,Virginia Tech
+636,2015,11,South Alabama,32,25,Louisiana
+637,2015,11,Colorado,24,27,USC
+638,2015,11,Florida Atlantic,17,24,Middle Tennessee
+639,2015,11,Tennessee,24,0,North Texas
+640,2015,11,Northwestern,21,14,Purdue
+641,2015,11,Duke,13,31,Pittsburgh
+642,2015,11,Illinois,3,28,Ohio State
+643,2015,11,Miami (OH),28,37,Akron
+644,2015,11,Michigan State,24,7,Maryland
+645,2015,11,South Carolina,14,24,Florida
+646,2015,11,TCU,23,17,Kansas
+647,2015,11,West Virginia,38,20,Texas
+648,2015,11,Army,31,34,Tulane
+649,2015,11,Old Dominion,31,21,UTEP
+650,2015,11,Auburn,13,20,Georgia
+651,2015,11,Florida State,34,17,NC State
+652,2015,11,Louisville,38,31,Virginia
+653,2015,11,Charlotte,27,30,UTSA
+654,2015,11,Air Force,35,28,Utah State
+655,2015,11,Eastern Michigan,17,28,Massachusetts
+656,2015,11,Arizona State,27,17,Washington
+657,2015,11,UL Monroe,21,59,Arkansas State
+658,2015,11,North Carolina,59,21,Miami
+659,2015,11,Rice,10,65,Southern Miss
+660,2015,11,Syracuse,27,37,Clemson
+661,2015,11,Troy,10,45,Georgia Southern
+662,2015,11,Texas Tech,59,44,Kansas State
+663,2015,11,Navy,55,14,SMU
+664,2015,11,Iowa State,31,35,Oklahoma State
+665,2015,11,Notre Dame,28,7,Wake Forest
+666,2015,11,Mississippi State,6,31,Alabama
+667,2015,11,Indiana,41,48,Michigan
+668,2015,11,Rutgers,14,31,Nebraska
+669,2015,11,Marshall,52,0,Florida International
+670,2015,11,Nevada,37,34,San José State
+671,2015,11,Vanderbilt,21,17,Kentucky
+672,2015,11,Texas State,19,41,Georgia State
+673,2015,11,Idaho,20,47,App State
+674,2015,11,South Florida,44,23,Temple
+675,2015,11,Texas A&M,41,17,Western Carolina
+676,2015,11,Colorado State,49,35,UNLV
+677,2015,11,Houston,35,34,Memphis
+678,2015,11,LSU,14,31,Arkansas
+679,2015,11,Cincinnati,49,38,Tulsa
+680,2015,11,Stanford,36,38,Oregon
+681,2015,11,Missouri,20,16,BYU
+682,2015,11,Iowa,40,35,Minnesota
+683,2015,11,Baylor,34,44,Oklahoma
+684,2015,11,Arizona,37,30,Utah
+685,2015,11,Boise State,24,31,New Mexico
+686,2015,11,California,54,24,Oregon State
+687,2015,11,San Diego State,38,3,Wyoming
+688,2015,11,UCLA,27,31,Washington State
+689,2015,11,Hawai'i,14,42,Fresno State
+690,2015,12,Bowling Green,28,44,Toledo
+691,2015,12,Ohio,48,31,Ball State
+692,2015,12,Northern Illinois,27,19,Western Michigan
+693,2015,12,Kent State,14,27,Central Michigan
+694,2015,12,UCF,7,44,East Carolina
+695,2015,12,Texas State,16,3,UL Monroe
+696,2015,12,South Florida,65,27,Cincinnati
+697,2015,12,Boise State,30,37,Air Force
+698,2015,12,Kansas,0,49,West Virginia
+699,2015,12,Minnesota,32,23,Illinois
+700,2015,12,Florida,20,14,Florida Atlantic
+701,2015,12,Maryland,28,47,Indiana
+702,2015,12,Army,21,31,Rutgers
+703,2015,12,Middle Tennessee,41,7,North Texas
+704,2015,12,Virginia Tech,27,30,North Carolina
+705,2015,12,Penn State,16,28,Michigan
+706,2015,12,Iowa,40,20,Purdue
+707,2015,12,Kansas State,38,35,Iowa State
+708,2015,12,Temple,31,12,Memphis
+709,2015,12,South Carolina,22,23,The Citadel
+710,2015,12,NC State,42,29,Syracuse
+711,2015,12,Miami,38,21,Georgia Tech
+712,2015,12,Massachusetts,13,20,Miami (OH)
+713,2015,12,Georgia State,24,10,South Alabama
+714,2015,12,Florida International,7,63,Western Kentucky
+715,2015,12,Florida State,52,13,Chattanooga
+716,2015,12,BYU,52,10,Fresno State
+717,2015,12,Ole Miss,38,17,LSU
+718,2015,12,Oregon,48,28,USC
+719,2015,12,Arizona State,52,37,Arizona
+720,2015,12,Clemson,33,13,Wake Forest
+721,2015,12,Akron,42,21,Buffalo
+722,2015,12,Utah,9,17,UCLA
+723,2015,12,UConn,20,17,Houston
+724,2015,12,Ohio State,14,17,Michigan State
+725,2015,12,UTEP,15,17,Louisiana Tech
+726,2015,12,Wisconsin,7,13,Northwestern
+727,2015,12,Southern Miss,56,31,Old Dominion
+728,2015,12,Virginia,42,34,Duke
+729,2015,12,Utah State,31,27,Nevada
+730,2015,12,Pittsburgh,45,34,Louisville
+731,2015,12,Alabama,56,6,Charleston Southern
+732,2015,12,Auburn,56,34,Idaho
+733,2015,12,Louisiana,34,37,New Mexico State
+734,2015,12,New Mexico,21,28,Colorado State
+735,2015,12,Oregon State,7,52,Washington
+736,2015,12,Tulsa,21,44,Navy
+737,2015,12,Arkansas,50,51,Mississippi State
+738,2015,12,Georgia,23,17,Georgia Southern
+739,2015,12,UTSA,34,24,Rice
+740,2015,12,Missouri,8,19,Tennessee
+741,2015,12,Kentucky,58,10,Charlotte
+742,2015,12,Notre Dame,19,16,Boston College
+743,2015,12,Vanderbilt,0,25,Texas A&M
+744,2015,12,Oklahoma State,35,45,Baylor
+745,2015,12,Oklahoma,30,29,TCU
+746,2015,12,SMU,49,21,Tulane
+747,2015,12,Stanford,35,22,California
+748,2015,12,UNLV,14,52,San Diego State
+749,2015,12,Washington State,27,3,Colorado
+750,2015,12,Hawai'i,23,42,San José State
+751,2015,13,Ball State,10,48,Bowling Green
+752,2015,13,Northern Illinois,21,26,Ohio
+753,2015,13,Texas,45,48,Texas Tech
+754,2015,13,UCF,3,44,South Florida
+755,2015,13,Toledo,30,35,Western Michigan
+756,2015,13,Houston,52,31,Navy
+757,2015,13,Pittsburgh,24,29,Miami
+758,2015,13,Akron,20,0,Kent State
+759,2015,13,Western Kentucky,49,28,Marshall
+760,2015,13,Central Michigan,35,28,Eastern Michigan
+761,2015,13,Georgia State,31,21,Troy
+762,2015,13,Arkansas,28,3,Missouri
+763,2015,13,San José State,23,40,Boise State
+764,2015,13,Washington,45,10,Washington State
+765,2015,13,Nebraska,20,28,Iowa
+766,2015,13,Oregon,52,42,Oregon State
+767,2015,13,Buffalo,26,31,Massachusetts
+768,2015,13,TCU,28,21,Baylor
+769,2015,13,Tulane,34,45,Tulsa
+770,2015,13,East Carolina,16,19,Cincinnati
+771,2015,13,Kentucky,24,38,Louisville
+772,2015,13,Virginia,20,23,Virginia Tech
+773,2015,13,West Virginia,30,6,Iowa State
+774,2015,13,South Carolina,32,37,Clemson
+775,2015,13,Purdue,36,54,Indiana
+776,2015,13,Michigan,13,42,Ohio State
+777,2015,13,Memphis,63,0,SMU
+778,2015,13,Rutgers,41,46,Maryland
+779,2015,13,Louisiana Tech,24,58,Southern Miss
+780,2015,13,Old Dominion,31,33,Florida Atlantic
+781,2015,13,Georgia Tech,7,13,Georgia
+782,2015,13,Wake Forest,21,27,Duke
+783,2015,13,Syracuse,20,17,Boston College
+784,2015,13,App State,28,7,Louisiana
+785,2015,13,Georgia Southern,55,17,South Alabama
+786,2015,13,Wyoming,35,28,UNLV
+787,2015,13,UTSA,7,42,Middle Tennessee
+788,2015,13,Utah,20,14,Colorado
+789,2015,13,North Texas,17,20,UTEP
+790,2015,13,Minnesota,21,31,Wisconsin
+791,2015,13,USC,40,21,UCLA
+792,2015,13,Illinois,14,24,Northwestern
+793,2015,13,Michigan State,55,16,Penn State
+794,2015,13,Auburn,13,29,Alabama
+795,2015,13,NC State,34,45,North Carolina
+796,2015,13,Rice,27,7,Charlotte
+797,2015,13,Utah State,28,51,BYU
+798,2015,13,Tennessee,53,28,Vanderbilt
+799,2015,13,Kansas,14,45,Kansas State
+800,2015,13,New Mexico State,28,52,Arkansas State
+801,2015,13,Idaho,38,31,Texas State
+802,2015,13,Temple,27,3,UConn
+803,2015,13,Mississippi State,27,38,Ole Miss
+804,2015,13,Stanford,38,36,Notre Dame
+805,2015,13,LSU,19,7,Texas A&M
+806,2015,13,Florida,2,27,Florida State
+807,2015,13,Oklahoma State,23,58,Oklahoma
+808,2015,13,Fresno State,31,34,Colorado State
+809,2015,13,California,48,46,Arizona State
+810,2015,13,New Mexico,47,35,Air Force
+811,2015,13,San Diego State,31,14,Nevada
+812,2015,13,Hawai'i,28,26,UL Monroe
+813,2015,14,Northern Illinois,14,34,Bowling Green
+814,2015,14,Houston,24,13,Temple
+815,2015,14,Western Kentucky,45,28,Southern Miss
+816,2015,14,Baylor,17,23,Texas
+817,2015,14,Georgia Southern,7,34,Georgia State
+818,2015,14,Arkansas State,55,17,Texas State
+819,2015,14,UL Monroe,42,35,New Mexico State
+820,2015,14,Alabama,29,15,Florida
+821,2015,14,Kansas State,24,23,West Virginia
+822,2015,14,Louisiana,17,41,Troy
+823,2015,14,South Alabama,27,34,App State
+824,2015,14,San Diego State,27,24,Air Force
+825,2015,14,Stanford,41,22,USC
+826,2015,14,Iowa,13,16,Michigan State
+827,2015,14,Clemson,45,37,North Carolina
+828,2015,15,Navy,21,17,Army
+829,2015,1,New Mexico,37,45,Arizona
+830,2015,1,Utah,35,28,BYU
+831,2015,1,App State,31,29,Ohio
+832,2015,1,Georgia State,16,27,San José State
+833,2015,1,Louisiana Tech,47,28,Arkansas State
+834,2015,1,South Florida,35,45,Western Kentucky
+835,2015,1,Utah State,21,23,Akron
+836,2015,1,Toledo,32,17,Temple
+837,2015,1,Northern Illinois,7,55,Boise State
+838,2015,1,Bowling Green,27,58,Georgia Southern
+839,2015,1,Western Michigan,45,31,Middle Tennessee
+840,2015,1,Cincinnati,7,42,San Diego State
+841,2015,1,Marshall,16,10,UConn
+842,2015,1,Washington State,20,14,Miami
+843,2015,1,Southern Miss,31,44,Washington
+844,2015,1,Duke,44,41,Indiana
+845,2015,1,Virginia Tech,55,52,Tulsa
+846,2015,1,Nebraska,37,29,UCLA
+847,2015,1,Navy,44,28,Pittsburgh
+848,2015,1,Minnesota,21,14,Central Michigan
+849,2015,1,Air Force,36,55,California
+850,2015,1,Baylor,49,38,North Carolina
+851,2015,1,Colorado State,23,28,Nevada
+852,2015,1,Texas Tech,27,56,LSU
+853,2015,1,Memphis,10,31,Auburn
+854,2015,1,Mississippi State,51,28,NC State
+855,2015,1,Louisville,27,21,Texas A&M
+856,2015,1,Wisconsin,23,21,USC
+857,2015,1,Florida State,24,38,Houston
+858,2015,1,Clemson,37,17,Oklahoma
+859,2015,1,Alabama,38,0,Michigan State
+860,2015,1,Tennessee,45,6,Northwestern
+861,2015,1,Florida,7,41,Michigan
+862,2015,1,Ohio State,44,28,Notre Dame
+863,2015,1,Iowa,16,45,Stanford
+864,2015,1,Ole Miss,48,20,Oklahoma State
+865,2015,1,Georgia,24,17,Penn State
+866,2015,1,Arkansas,45,23,Kansas State
+867,2015,1,TCU,47,41,Oregon
+868,2015,1,Arizona State,42,43,West Virginia
+869,2015,1,Clemson,40,45,Alabama

@@ -1,0 +1,889 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2019,1,Florida,24,20,Miami
+1,2019,1,Hawai'i,45,38,Arizona
+2,2019,1,Cincinnati,24,14,UCLA
+3,2019,1,UConn,24,21,Wagner
+4,2019,1,Buffalo,38,10,Robert Morris
+5,2019,1,Bowling Green,46,3,Morgan State
+6,2019,1,Western Kentucky,28,35,Central Arkansas
+7,2019,1,Charlotte,49,28,Gardner-Webb
+8,2019,1,UCF,62,0,Florida A&M
+9,2019,1,Tulane,42,14,Florida International
+10,2019,1,UAB,24,19,Alabama State
+11,2019,1,Clemson,52,14,Georgia Tech
+12,2019,1,Texas A&M,41,7,Texas State
+13,2019,1,Central Michigan,38,21,UAlbany
+14,2019,1,Minnesota,28,21,South Dakota State
+15,2019,1,San José State,35,18,Northern Colorado
+16,2019,1,Arizona State,30,7,Kent State
+17,2019,1,BYU,12,30,Utah
+18,2019,1,Army,14,7,Rice
+19,2019,1,Michigan State,28,7,Tulsa
+20,2019,1,Rutgers,48,21,Massachusetts
+21,2019,1,South Florida,0,49,Wisconsin
+22,2019,1,Wake Forest,38,35,Utah State
+23,2019,1,Nevada,34,31,Purdue
+24,2019,1,Colorado,52,31,Colorado State
+25,2019,1,Oregon State,36,52,Oklahoma State
+26,2019,1,Memphis,15,10,Ole Miss
+27,2019,1,Nebraska,35,21,South Alabama
+28,2019,1,Kansas,24,17,Indiana State
+29,2019,1,Illinois,42,3,Akron
+30,2019,1,Louisiana,28,38,Mississippi State
+31,2019,1,Kentucky,38,24,Toledo
+32,2019,1,Iowa State,29,26,Northern Iowa
+33,2019,1,Ohio State,45,21,Florida Atlantic
+34,2019,1,Ball State,24,34,Indiana
+35,2019,1,Maryland,79,0,Howard
+36,2019,1,Florida State,31,36,Boise State
+37,2019,1,NC State,34,6,East Carolina
+38,2019,1,Ohio,41,20,Rhode Island
+39,2019,1,West Virginia,20,13,James Madison
+40,2019,1,Washington,47,14,Eastern Washington
+41,2019,1,Temple,56,12,Bucknell
+42,2019,1,Tennessee,30,38,Georgia State
+43,2019,1,App State,42,7,East Tennessee State
+44,2019,1,Air Force,48,7,Colgate
+45,2019,1,Penn State,79,7,Idaho
+46,2019,1,Navy,45,7,Holy Cross
+47,2019,1,Coastal Carolina,23,30,Eastern Michigan
+48,2019,1,Alabama,42,3,Duke
+49,2019,1,North Carolina,24,20,South Carolina
+50,2019,1,Texas Tech,45,10,Montana State
+51,2019,1,Stanford,17,7,Northwestern
+52,2019,1,Arkansas,20,13,Portland State
+53,2019,1,Boston College,35,28,Virginia Tech
+54,2019,1,UTSA,35,7,Incarnate Word
+55,2019,1,Troy,43,14,Campbell
+56,2019,1,New Mexico,39,31,Sam Houston
+57,2019,1,Liberty,0,24,Syracuse
+58,2019,1,California,27,13,UC Davis
+59,2019,1,Marshall,56,17,VMI
+60,2019,1,Western Michigan,48,13,Monmouth
+61,2019,1,Old Dominion,24,21,Norfolk State
+62,2019,1,Southern Miss,38,10,Alcorn State
+63,2019,1,Arkansas State,30,37,SMU
+64,2019,1,Northern Illinois,24,10,Illinois State
+65,2019,1,Baylor,56,17,Stephen F. Austin
+66,2019,1,Kansas State,49,14,Nicholls
+67,2019,1,LSU,55,3,Georgia Southern
+68,2019,1,Iowa,38,14,Miami (OH)
+69,2019,1,North Texas,51,31,Abilene Christian
+70,2019,1,Wyoming,37,31,Missouri
+71,2019,1,Auburn,27,21,Oregon
+72,2019,1,Vanderbilt,6,30,Georgia
+73,2019,1,Michigan,40,21,Middle Tennessee
+74,2019,1,Pittsburgh,14,30,Virginia
+75,2019,1,TCU,39,7,Arkansas-Pine Bluff
+76,2019,1,UTEP,36,34,Houston Christian
+77,2019,1,Texas,45,14,Louisiana Tech
+78,2019,1,UL Monroe,31,9,Grambling
+79,2019,1,San Diego State,6,0,Weber State
+80,2019,1,UNLV,56,23,Southern Utah
+81,2019,1,Washington State,58,7,New Mexico State
+82,2019,1,USC,31,23,Fresno State
+83,2019,1,Oklahoma,49,31,Houston
+84,2019,1,Louisville,17,35,Notre Dame
+85,2019,2,Rice,21,41,Wake Forest
+86,2019,2,Virginia,52,17,William & Mary
+87,2019,2,Boise State,14,7,Marshall
+88,2019,2,Arizona State,19,7,Sacramento State
+89,2019,2,Pittsburgh,20,10,Ohio
+90,2019,2,Kansas State,52,0,Bowling Green
+91,2019,2,Memphis,55,24,Southern
+92,2019,2,South Carolina,72,10,Charleston Southern
+93,2019,2,Kent State,26,23,Kennesaw State
+94,2019,2,Virginia Tech,31,17,Old Dominion
+95,2019,2,Akron,20,31,UAB
+96,2019,2,Iowa,30,0,Rutgers
+97,2019,2,Missouri,38,7,West Virginia
+98,2019,2,Maryland,63,20,Syracuse
+99,2019,2,Purdue,42,24,Vanderbilt
+100,2019,2,Ohio State,42,0,Cincinnati
+101,2019,2,Michigan,24,21,Army
+102,2019,2,NC State,41,0,Western Carolina
+103,2019,2,Utah,35,17,Northern Illinois
+104,2019,2,Ball State,57,29,Fordham
+105,2019,2,Georgia Tech,14,10,South Florida
+106,2019,2,Miami (OH),48,17,Tennessee Tech
+107,2019,2,Colorado,34,31,Nebraska
+108,2019,2,UConn,23,31,Illinois
+109,2019,2,Clemson,24,10,Texas A&M
+110,2019,2,Boston College,45,13,Richmond
+111,2019,2,Massachusetts,20,45,Southern Illinois
+112,2019,2,Mississippi State,38,15,Southern Miss
+113,2019,2,Louisiana Tech,20,14,Grambling
+114,2019,2,Wisconsin,61,0,Central Michigan
+115,2019,2,App State,56,41,Charlotte
+116,2019,2,Indiana,52,0,Eastern Illinois
+117,2019,2,Georgia,63,17,Murray State
+118,2019,2,Baylor,63,14,UTSA
+119,2019,2,Colorado State,38,13,Western Illinois
+120,2019,2,Alabama,62,10,New Mexico State
+121,2019,2,UCLA,14,23,San Diego State
+122,2019,2,Washington State,59,17,Northern Colorado
+123,2019,2,Florida State,45,44,UL Monroe
+124,2019,2,Georgia Southern,26,18,Maine
+125,2019,2,Duke,45,13,North Carolina A&T
+126,2019,2,East Carolina,48,9,Gardner-Webb
+127,2019,2,SMU,49,27,North Texas
+128,2019,2,Oklahoma,70,14,South Dakota
+129,2019,2,Middle Tennessee,45,26,Tennessee State
+130,2019,2,Georgia State,48,42,Furman
+131,2019,2,Oklahoma State,56,14,McNeese
+132,2019,2,South Alabama,37,14,Jackson State
+133,2019,2,Florida International,14,20,Western Kentucky
+134,2019,2,Texas State,14,23,Wyoming
+135,2019,2,Tennessee,26,29,BYU
+136,2019,2,Florida Atlantic,14,48,UCF
+137,2019,2,Louisville,42,0,Eastern Kentucky
+138,2019,2,Kansas,7,12,Coastal Carolina
+139,2019,2,Utah State,62,7,Stony Brook
+140,2019,2,Michigan State,51,17,Western Michigan
+141,2019,2,Florida,45,0,UT Martin
+142,2019,2,Texas,38,45,LSU
+143,2019,2,Kentucky,38,17,Eastern Michigan
+144,2019,2,Oregon,77,6,Nevada
+145,2019,2,Louisiana,35,14,Liberty
+146,2019,2,Penn State,45,13,Buffalo
+147,2019,2,Auburn,24,6,Tulane
+148,2019,2,Ole Miss,31,17,Arkansas
+149,2019,2,Texas Tech,38,3,UTEP
+150,2019,2,Houston,37,17,Prairie View A&M
+151,2019,2,North Carolina,28,25,Miami
+152,2019,2,San José State,16,34,Tulsa
+153,2019,2,UNLV,17,43,Arkansas State
+154,2019,2,Fresno State,35,38,Minnesota
+155,2019,2,Washington,19,20,California
+156,2019,2,USC,45,20,Stanford
+157,2019,2,Arizona,65,41,Northern Arizona
+158,2019,2,Hawai'i,31,28,Oregon State
+159,2019,3,Wake Forest,24,18,North Carolina
+160,2019,3,Boston College,24,48,Kansas
+161,2019,3,Houston,24,31,Washington State
+162,2019,3,West Virginia,44,27,NC State
+163,2019,3,Mississippi State,24,31,Kansas State
+164,2019,3,Georgia,55,0,Arkansas State
+165,2019,3,Illinois,31,34,Eastern Michigan
+166,2019,3,Indiana,10,51,Ohio State
+167,2019,3,Virginia Tech,24,17,Furman
+168,2019,3,Cincinnati,35,13,Miami (OH)
+169,2019,3,Penn State,17,10,Pittsburgh
+170,2019,3,Tennessee,45,0,Chattanooga
+171,2019,3,Temple,20,17,Maryland
+172,2019,3,Georgia Tech,24,27,The Citadel
+173,2019,3,Colorado,23,30,Air Force
+174,2019,3,Ball State,31,41,Florida Atlantic
+175,2019,3,Coastal Carolina,46,7,Norfolk State
+176,2019,3,Notre Dame,66,14,New Mexico
+177,2019,3,Central Michigan,45,24,Akron
+178,2019,3,South Carolina,23,47,Alabama
+179,2019,3,UTSA,13,31,Army
+180,2019,3,South Alabama,6,42,Memphis
+181,2019,3,Navy,42,10,East Carolina
+182,2019,3,BYU,30,27,USC
+183,2019,3,UCF,45,27,Stanford
+184,2019,3,Minnesota,35,32,Georgia Southern
+185,2019,3,Northwestern,30,14,UNLV
+186,2019,3,Tulsa,21,40,Oklahoma State
+187,2019,3,Arkansas,55,34,Colorado State
+188,2019,3,Iowa State,17,18,Iowa
+189,2019,3,Ole Miss,40,29,SE Louisiana
+190,2019,3,Michigan State,7,10,Arizona State
+191,2019,3,Miami,63,0,Bethune-Cookman
+192,2019,3,Western Kentucky,21,38,Louisville
+193,2019,3,Utah,31,0,Idaho State
+194,2019,3,California,23,17,North Texas
+195,2019,3,Oregon State,45,7,Cal Poly
+196,2019,3,Bowling Green,7,35,Louisiana Tech
+197,2019,3,Wyoming,21,16,Idaho
+198,2019,3,South Florida,55,16,South Carolina State
+199,2019,3,Liberty,35,17,Buffalo
+200,2019,3,Troy,42,47,Southern Miss
+201,2019,3,Charlotte,52,17,Massachusetts
+202,2019,3,Marshall,33,31,Ohio
+203,2019,3,Nevada,19,13,Weber State
+204,2019,3,Florida International,30,17,New Hampshire
+205,2019,3,Texas A&M,62,3,Lamar
+206,2019,3,Kentucky,21,29,Florida
+207,2019,3,SMU,47,17,Texas State
+208,2019,3,Auburn,55,16,Kent State
+209,2019,3,Western Michigan,57,10,Georgia State
+210,2019,3,Middle Tennessee,18,41,Duke
+211,2019,3,Toledo,45,0,Murray State
+212,2019,3,Virginia,31,24,Florida State
+213,2019,3,LSU,65,14,Northwestern State
+214,2019,3,Syracuse,6,41,Clemson
+215,2019,3,Louisiana,77,6,Texas Southern
+216,2019,3,Missouri,50,0,Southeast Missouri State
+217,2019,3,Purdue,13,34,TCU
+218,2019,3,Washington,52,20,Hawai'i
+219,2019,3,New Mexico State,10,31,San Diego State
+220,2019,3,Tulane,58,6,Missouri State
+221,2019,3,Nebraska,44,8,Northern Illinois
+222,2019,3,Rice,13,48,Texas
+223,2019,3,UCLA,14,48,Oklahoma
+224,2019,3,Boise State,45,10,Portland State
+225,2019,3,Arizona,28,14,Texas Tech
+226,2019,3,Oregon,35,3,Montana
+227,2019,4,Tulane,38,31,Houston
+228,2019,4,Louisiana Tech,43,31,Florida International
+229,2019,4,Boise State,30,19,Air Force
+230,2019,4,USC,30,23,Utah
+231,2019,4,Ole Miss,20,28,California
+232,2019,4,Army,52,21,Morgan State
+233,2019,4,Wisconsin,35,14,Michigan
+234,2019,4,Iowa State,72,20,UL Monroe
+235,2019,4,Northwestern,10,31,Michigan State
+236,2019,4,Alabama,49,7,Southern Miss
+237,2019,4,Indiana,38,3,UConn
+238,2019,4,Wake Forest,49,7,Elon
+239,2019,4,Florida,34,3,Tennessee
+240,2019,4,Syracuse,52,33,Western Michigan
+241,2019,4,Vanderbilt,38,66,LSU
+242,2019,4,Rutgers,16,30,Boston College
+243,2019,4,Massachusetts,28,62,Coastal Carolina
+244,2019,4,Ohio,25,45,Louisiana
+245,2019,4,Akron,7,35,Troy
+246,2019,4,Eastern Michigan,34,29,Central Connecticut
+247,2019,4,Kent State,62,20,Bowling Green
+248,2019,4,Buffalo,38,22,Temple
+249,2019,4,Ohio State,76,5,Miami (OH)
+250,2019,4,Texas A&M,20,28,Auburn
+251,2019,4,Pittsburgh,35,34,UCF
+252,2019,4,BYU,19,45,Washington
+253,2019,4,North Carolina,31,34,App State
+254,2019,4,Tulsa,24,21,Wyoming
+255,2019,4,UAB,35,3,South Alabama
+256,2019,4,TCU,38,41,SMU
+257,2019,4,Florida State,35,24,Louisville
+258,2019,4,Miami,17,12,Central Michigan
+259,2019,4,Mississippi State,28,13,Kentucky
+260,2019,4,Missouri,34,14,South Carolina
+261,2019,4,Kansas,24,29,West Virginia
+262,2019,4,New Mexico,55,52,New Mexico State
+263,2019,4,Liberty,62,27,Hampton
+264,2019,4,Florida Atlantic,42,7,Wagner
+265,2019,4,East Carolina,19,7,William & Mary
+266,2019,4,Arkansas State,41,28,Southern Illinois
+267,2019,4,Texas State,37,34,Georgia State
+268,2019,4,Virginia,28,17,Old Dominion
+269,2019,4,NC State,34,23,Ball State
+270,2019,4,Stanford,6,21,Oregon
+271,2019,4,Rice,13,21,Baylor
+272,2019,4,Texas,36,30,Oklahoma State
+273,2019,4,Clemson,52,10,Charlotte
+274,2019,4,Arkansas,24,31,San José State
+275,2019,4,North Texas,45,3,UTSA
+276,2019,4,UTEP,21,37,Nevada
+277,2019,4,Georgia,23,17,Notre Dame
+278,2019,4,Illinois,38,42,Nebraska
+279,2019,4,Fresno State,34,20,Sacramento State
+280,2019,4,Arizona State,31,34,Colorado
+281,2019,4,Colorado State,35,41,Toledo
+282,2019,4,San Diego State,17,23,Utah State
+283,2019,4,Washington State,63,67,UCLA
+284,2019,4,Hawai'i,35,16,Central Arkansas
+285,2019,5,Memphis,35,23,Navy
+286,2019,5,Virginia Tech,10,45,Duke
+287,2019,5,Air Force,41,24,San José State
+288,2019,5,Maryland,0,59,Penn State
+289,2019,5,California,17,24,Arizona State
+290,2019,5,Arkansas,27,31,Texas A&M
+291,2019,5,Wisconsin,24,15,Northwestern
+292,2019,5,TCU,51,14,Kansas
+293,2019,5,Oklahoma,55,16,Texas Tech
+294,2019,5,Iowa,48,3,Middle Tennessee
+295,2019,5,Vanderbilt,24,18,Northern Illinois
+296,2019,5,Toledo,28,21,BYU
+297,2019,5,Syracuse,41,3,Holy Cross
+298,2019,5,Miami (OH),34,20,Buffalo
+299,2019,5,Michigan,52,0,Rutgers
+300,2019,5,Western Michigan,31,15,Central Michigan
+301,2019,5,Pittsburgh,17,14,Delaware
+302,2019,5,Boston College,24,27,Wake Forest
+303,2019,5,Massachusetts,37,29,Akron
+304,2019,5,Alabama,59,31,Ole Miss
+305,2019,5,Washington,28,14,USC
+306,2019,5,Purdue,31,38,Minnesota
+307,2019,5,Baylor,23,21,Iowa State
+308,2019,5,Michigan State,40,31,Indiana
+309,2019,5,App State,56,37,Coastal Carolina
+310,2019,5,Temple,24,2,Georgia Tech
+311,2019,5,Charlotte,27,45,Florida Atlantic
+312,2019,5,Notre Dame,35,20,Virginia
+313,2019,5,North Carolina,20,21,Clemson
+314,2019,5,South Florida,21,48,SMU
+315,2019,5,Florida,38,0,Towson
+316,2019,5,Marshall,14,52,Cincinnati
+317,2019,5,Troy,43,50,Arkansas State
+318,2019,5,Old Dominion,21,24,East Carolina
+319,2019,5,Georgia Southern,24,37,Louisiana
+320,2019,5,Liberty,17,10,New Mexico
+321,2019,5,Rice,20,23,Louisiana Tech
+322,2019,5,Texas State,24,3,Nicholls
+323,2019,5,Oklahoma State,26,13,Kansas State
+324,2019,5,Oregon State,28,31,Stanford
+325,2019,5,UL Monroe,30,17,South Alabama
+326,2019,5,UCF,56,21,UConn
+327,2019,5,Southern Miss,31,13,UTEP
+328,2019,5,Western Kentucky,20,13,UAB
+329,2019,5,Auburn,56,23,Mississippi State
+330,2019,5,Utah State,34,24,Colorado State
+331,2019,5,Nebraska,7,48,Ohio State
+332,2019,5,Florida State,31,13,NC State
+333,2019,5,South Carolina,24,7,Kentucky
+334,2019,5,New Mexico State,17,30,Fresno State
+335,2019,5,North Texas,25,46,Houston
+336,2019,5,Wyoming,53,17,UNLV
+337,2019,5,Utah,38,13,Washington State
+338,2019,5,Arizona,20,17,UCLA
+339,2019,5,Nevada,3,54,Hawai'i
+340,2019,6,South Alabama,17,20,Georgia Southern
+341,2019,6,East Carolina,17,27,Temple
+342,2019,6,Cincinnati,27,24,UCF
+343,2019,6,San José State,32,21,New Mexico
+344,2019,6,Rutgers,7,48,Maryland
+345,2019,6,Kansas,20,45,Oklahoma
+346,2019,6,Army,33,42,Tulane
+347,2019,6,Penn State,35,7,Purdue
+348,2019,6,Texas Tech,45,35,Oklahoma State
+349,2019,6,Michigan,10,3,Iowa
+350,2019,6,LSU,42,6,Utah State
+351,2019,6,UConn,22,48,South Florida
+352,2019,6,Wisconsin,48,0,Kent State
+353,2019,6,Louisville,41,39,Boston College
+354,2019,6,Iowa State,49,24,TCU
+355,2019,6,Central Michigan,42,16,Eastern Michigan
+356,2019,6,West Virginia,31,42,Texas
+357,2019,6,Georgia State,52,38,Arkansas State
+358,2019,6,Miami,35,42,Virginia Tech
+359,2019,6,Kansas State,12,31,Baylor
+360,2019,6,Minnesota,40,17,Illinois
+361,2019,6,Buffalo,20,21,Ohio
+362,2019,6,Toledo,31,24,Western Michigan
+363,2019,6,Northern Illinois,20,27,Ball State
+364,2019,6,Navy,34,25,Air Force
+365,2019,6,Notre Dame,52,0,Bowling Green
+366,2019,6,Florida,24,13,Auburn
+367,2019,6,Middle Tennessee,24,13,Marshall
+368,2019,6,UL Monroe,33,52,Memphis
+369,2019,6,Missouri,42,10,Troy
+370,2019,6,Georgia Tech,22,38,North Carolina
+371,2019,6,Nebraska,13,10,Northwestern
+372,2019,6,Colorado,30,35,Arizona
+373,2019,6,Old Dominion,3,20,Western Kentucky
+374,2019,6,UAB,35,20,Rice
+375,2019,6,Florida International,44,0,Massachusetts
+376,2019,6,Tennessee,14,43,Georgia
+377,2019,6,Ole Miss,31,6,Vanderbilt
+378,2019,6,SMU,43,37,Tulsa
+379,2019,6,Ohio State,34,10,Michigan State
+380,2019,6,Duke,30,33,Pittsburgh
+381,2019,6,UTEP,16,26,UTSA
+382,2019,6,Oregon,17,7,California
+383,2019,6,New Mexico State,13,20,Liberty
+384,2019,6,UCLA,31,48,Oregon State
+385,2019,6,Colorado State,10,24,San Diego State
+386,2019,6,Stanford,23,13,Washington
+387,2019,6,UNLV,13,38,Boise State
+388,2019,7,Louisiana,7,17,App State
+389,2019,7,NC State,16,10,Syracuse
+390,2019,7,Texas State,14,24,UL Monroe
+391,2019,7,Miami,17,9,Virginia
+392,2019,7,New Mexico,21,35,Colorado State
+393,2019,7,Oregon,45,3,Colorado
+394,2019,7,Georgia,17,20,South Carolina
+395,2019,7,Tennessee,20,10,Mississippi State
+396,2019,7,Bowling Green,20,7,Toledo
+397,2019,7,Purdue,40,14,Maryland
+398,2019,7,Illinois,25,42,Michigan
+399,2019,7,Western Michigan,38,16,Miami (OH)
+400,2019,7,Temple,30,28,Memphis
+401,2019,7,Texas,27,34,Oklahoma
+402,2019,7,Indiana,35,0,Rutgers
+403,2019,7,Duke,41,23,Georgia Tech
+404,2019,7,Eastern Michigan,23,29,Ball State
+405,2019,7,Marshall,31,17,Old Dominion
+406,2019,7,Central Michigan,42,28,New Mexico State
+407,2019,7,South Florida,27,23,BYU
+408,2019,7,Texas A&M,28,47,Alabama
+409,2019,7,Ohio,36,39,Northern Illinois
+410,2019,7,Clemson,45,14,Florida State
+411,2019,7,Wisconsin,38,0,Michigan State
+412,2019,7,Akron,3,26,Kent State
+413,2019,7,Arizona State,38,34,Washington State
+414,2019,7,Houston,23,38,Cincinnati
+415,2019,7,Tulane,49,7,UConn
+416,2019,7,Nevada,41,38,San José State
+417,2019,7,West Virginia,14,38,Iowa State
+418,2019,7,Vanderbilt,10,34,UNLV
+419,2019,7,Baylor,33,30,Texas Tech
+420,2019,7,Virginia Tech,34,17,Rhode Island
+421,2019,7,Florida Atlantic,28,13,Middle Tennessee
+422,2019,7,Coastal Carolina,21,31,Georgia State
+423,2019,7,UTSA,14,33,UAB
+424,2019,7,Missouri,38,27,Ole Miss
+425,2019,7,Air Force,43,24,Fresno State
+426,2019,7,Western Kentucky,17,8,Army
+427,2019,7,Southern Miss,45,27,North Texas
+428,2019,7,Florida International,48,23,Charlotte
+429,2019,7,Louisiana Tech,69,21,Massachusetts
+430,2019,7,Notre Dame,30,27,USC
+431,2019,7,Minnesota,34,7,Nebraska
+432,2019,7,Wake Forest,59,62,Louisville
+433,2019,7,Kentucky,24,20,Arkansas
+434,2019,7,Tulsa,17,45,Navy
+435,2019,7,Iowa,12,17,Penn State
+436,2019,7,Oregon State,7,52,Utah
+437,2019,7,LSU,42,28,Florida
+438,2019,7,Boise State,59,37,Hawai'i
+439,2019,7,San Diego State,26,22,Wyoming
+440,2019,7,Arizona,27,51,Washington
+441,2019,8,Troy,37,13,South Alabama
+442,2019,8,Arkansas State,20,37,Louisiana
+443,2019,8,Stanford,16,34,UCLA
+444,2019,8,Florida Atlantic,31,36,Marshall
+445,2019,8,Syracuse,20,27,Pittsburgh
+446,2019,8,Northwestern,3,52,Ohio State
+447,2019,8,Fresno State,56,27,UNLV
+448,2019,8,South Carolina,27,38,Florida
+449,2019,8,Texas Tech,24,34,Iowa State
+450,2019,8,Ohio,45,38,Kent State
+451,2019,8,UConn,17,24,Houston
+452,2019,8,Boston College,45,24,NC State
+453,2019,8,Oklahoma,52,14,West Virginia
+454,2019,8,Arkansas,10,51,Auburn
+455,2019,8,Iowa,26,20,Purdue
+456,2019,8,Illinois,24,23,Wisconsin
+457,2019,8,Louisville,10,45,Clemson
+458,2019,8,Miami,21,28,Georgia Tech
+459,2019,8,Ball State,52,14,Toledo
+460,2019,8,Bowling Green,20,38,Central Michigan
+461,2019,8,Miami (OH),27,24,Northern Illinois
+462,2019,8,Kansas State,24,17,TCU
+463,2019,8,California,17,21,Oregon State
+464,2019,8,Wyoming,23,10,New Mexico
+465,2019,8,Georgia Southern,30,27,Coastal Carolina
+466,2019,8,Washington,31,35,Oregon
+467,2019,8,Navy,35,3,South Florida
+468,2019,8,Akron,0,21,Buffalo
+469,2019,8,Rutgers,7,42,Minnesota
+470,2019,8,App State,52,7,UL Monroe
+471,2019,8,Virginia Tech,43,41,North Carolina
+472,2019,8,Mississippi State,13,36,LSU
+473,2019,8,Cincinnati,24,13,Tulsa
+474,2019,8,Louisiana Tech,45,30,Southern Miss
+475,2019,8,SMU,45,21,Temple
+476,2019,8,Maryland,28,34,Indiana
+477,2019,8,Virginia,48,14,Duke
+478,2019,8,Western Kentucky,30,14,Charlotte
+479,2019,8,North Texas,33,30,Middle Tennessee
+480,2019,8,UAB,38,14,Old Dominion
+481,2019,8,Oklahoma State,27,45,Baylor
+482,2019,8,Vanderbilt,21,14,Missouri
+483,2019,8,Utah,21,3,Arizona State
+484,2019,8,UTSA,31,27,Rice
+485,2019,8,Liberty,59,44,Maine
+486,2019,8,Georgia,21,0,Kentucky
+487,2019,8,Washington State,41,10,Colorado
+488,2019,8,UCF,41,28,East Carolina
+489,2019,8,Florida International,32,17,UTEP
+490,2019,8,Texas,50,48,Kansas
+491,2019,8,Memphis,47,17,Tulane
+492,2019,8,San José State,17,27,San Diego State
+493,2019,8,Eastern Michigan,34,27,Western Michigan
+494,2019,8,Georgia State,28,21,Army
+495,2019,8,Ole Miss,17,24,Texas A&M
+496,2019,8,Wake Forest,22,20,Florida State
+497,2019,8,Penn State,28,21,Michigan
+498,2019,8,Alabama,35,13,Tennessee
+499,2019,8,USC,41,14,Arizona
+500,2019,8,BYU,28,25,Boise State
+501,2019,8,Utah State,36,10,Nevada
+502,2019,8,Hawai'i,26,56,Air Force
+503,2019,9,Houston,31,34,SMU
+504,2019,9,Colorado,31,35,USC
+505,2019,9,Army,29,34,San José State
+506,2019,9,South Alabama,3,30,App State
+507,2019,9,Pittsburgh,12,16,Miami
+508,2019,9,Purdue,6,24,Illinois
+509,2019,9,Texas A&M,49,30,Mississippi State
+510,2019,9,Western Michigan,49,10,Bowling Green
+511,2019,9,Kansas State,48,41,Oklahoma
+512,2019,9,Rutgers,44,34,Liberty
+513,2019,9,Ohio State,38,7,Wisconsin
+514,2019,9,Northwestern,0,20,Iowa
+515,2019,9,Rice,6,20,Southern Miss
+516,2019,9,Ball State,21,34,Ohio
+517,2019,9,Wyoming,31,3,Nevada
+518,2019,9,Marshall,26,23,Western Kentucky
+519,2019,9,Georgia Southern,41,7,New Mexico State
+520,2019,9,Iowa State,27,34,Oklahoma State
+521,2019,9,Navy,41,38,Tulane
+522,2019,9,LSU,23,20,Auburn
+523,2019,9,Michigan State,7,28,Penn State
+524,2019,9,Minnesota,52,10,Maryland
+525,2019,9,Old Dominion,3,41,Florida Atlantic
+526,2019,9,Middle Tennessee,50,17,Florida International
+527,2019,9,Buffalo,43,20,Central Michigan
+528,2019,9,Stanford,41,31,Arizona
+529,2019,9,Kent State,16,23,Miami (OH)
+530,2019,9,Charlotte,39,38,North Texas
+531,2019,9,TCU,37,27,Texas
+532,2019,9,Toledo,37,34,Eastern Michigan
+533,2019,9,Nebraska,31,38,Indiana
+534,2019,9,Louisville,28,21,Virginia
+535,2019,9,Northern Illinois,49,0,Akron
+536,2019,9,Massachusetts,35,56,UConn
+537,2019,9,Florida State,35,17,Syracuse
+538,2019,9,East Carolina,20,45,South Florida
+539,2019,9,North Carolina,20,17,Duke
+540,2019,9,Tennessee,41,21,South Carolina
+541,2019,9,New Mexico,31,45,Hawai'i
+542,2019,9,Temple,21,63,UCF
+543,2019,9,Arkansas State,38,14,Texas State
+544,2019,9,Georgia State,52,33,Troy
+545,2019,9,Alabama,48,7,Arkansas
+546,2019,9,Kansas,37,34,Texas Tech
+547,2019,9,Tulsa,41,42,Memphis
+548,2019,9,Clemson,59,7,Boston College
+549,2019,9,Michigan,45,14,Notre Dame
+550,2019,9,Kentucky,29,7,Missouri
+551,2019,9,Fresno State,31,41,Colorado State
+552,2019,9,UCLA,42,32,Arizona State
+553,2019,9,UTEP,21,42,Louisiana Tech
+554,2019,9,Utah,35,0,California
+555,2019,9,Air Force,31,7,Utah State
+556,2019,9,UNLV,17,20,San Diego State
+557,2019,9,Oregon,37,35,Washington State
+558,2019,10,Baylor,17,14,West Virginia
+559,2019,10,App State,21,24,Georgia Southern
+560,2019,10,UConn,10,56,Navy
+561,2019,10,Eastern Michigan,14,43,Buffalo
+562,2019,10,Massachusetts,21,63,Liberty
+563,2019,10,Florida International,24,17,Old Dominion
+564,2019,10,Maryland,7,38,Michigan
+565,2019,10,Texas A&M,45,14,UTSA
+566,2019,10,Central Michigan,48,10,Northern Illinois
+567,2019,10,Syracuse,27,58,Boston College
+568,2019,10,Wake Forest,44,10,NC State
+569,2019,10,UCF,44,29,Houston
+570,2019,10,Purdue,31,27,Nebraska
+571,2019,10,Bowling Green,35,6,Akron
+572,2019,10,Notre Dame,21,20,Virginia Tech
+573,2019,10,Coastal Carolina,36,35,Troy
+574,2019,10,North Texas,52,26,UTEP
+575,2019,10,Kansas,10,38,Kansas State
+576,2019,10,Oklahoma State,34,27,TCU
+577,2019,10,Air Force,17,13,Army
+578,2019,10,Florida State,10,27,Miami
+579,2019,10,Charlotte,34,20,Middle Tennessee
+580,2019,10,Colorado State,37,17,UNLV
+581,2019,10,Florida,17,24,Georgia
+582,2019,10,Illinois,38,10,Rutgers
+583,2019,10,Rice,7,20,Marshall
+584,2019,10,UL Monroe,41,48,Arkansas State
+585,2019,10,Clemson,59,14,Wofford
+586,2019,10,Western Kentucky,24,35,Florida Atlantic
+587,2019,10,Washington,28,33,Utah
+588,2019,10,Tulane,38,26,Tulsa
+589,2019,10,Arkansas,24,54,Mississippi State
+590,2019,10,Georgia Tech,10,20,Pittsburgh
+591,2019,10,Arizona,38,56,Oregon State
+592,2019,10,Louisiana,31,3,Texas State
+593,2019,10,Indiana,34,3,Northwestern
+594,2019,10,Tennessee,30,7,UAB
+595,2019,10,Auburn,20,14,Ole Miss
+596,2019,10,East Carolina,43,46,Cincinnati
+597,2019,10,North Carolina,31,38,Virginia
+598,2019,10,South Carolina,24,7,Vanderbilt
+599,2019,10,Memphis,54,48,SMU
+600,2019,10,USC,24,56,Oregon
+601,2019,10,UCLA,31,14,Colorado
+602,2019,10,Utah State,14,42,BYU
+603,2019,10,San José State,42,52,Boise State
+604,2019,10,Nevada,21,10,New Mexico
+605,2019,10,Hawai'i,38,41,Fresno State
+606,2019,11,Toledo,35,33,Kent State
+607,2019,11,Western Michigan,35,31,Ball State
+608,2019,11,Ohio,21,24,Miami (OH)
+609,2019,11,Coastal Carolina,7,48,Louisiana
+610,2019,11,South Florida,7,17,Temple
+611,2019,11,Tulsa,34,31,UCF
+612,2019,11,Oregon State,7,19,Washington
+613,2019,11,Ohio State,73,14,Maryland
+614,2019,11,SMU,59,51,East Carolina
+615,2019,11,Minnesota,31,26,Penn State
+616,2019,11,Northwestern,22,24,Purdue
+617,2019,11,Boston College,31,38,Florida State
+618,2019,11,West Virginia,17,38,Texas Tech
+619,2019,11,Army,63,7,Massachusetts
+620,2019,11,Arkansas,19,45,Western Kentucky
+621,2019,11,Florida,56,0,Vanderbilt
+622,2019,11,TCU,23,29,Baylor
+623,2019,11,Virginia,33,28,Georgia Tech
+624,2019,11,Old Dominion,23,24,UTSA
+625,2019,11,UTEP,21,28,Charlotte
+626,2019,11,Texas State,30,28,South Alabama
+627,2019,11,Colorado,16,13,Stanford
+628,2019,11,Texas,27,24,Kansas State
+629,2019,11,Cincinnati,48,3,UConn
+630,2019,11,Michigan State,34,37,Illinois
+631,2019,11,Virginia Tech,36,17,Wake Forest
+632,2019,11,Troy,49,28,Georgia Southern
+633,2019,11,Southern Miss,37,2,UAB
+634,2019,11,Miami,52,27,Louisville
+635,2019,11,Arizona State,26,31,USC
+636,2019,11,Alabama,41,46,LSU
+637,2019,11,Wisconsin,24,22,Iowa
+638,2019,11,Ole Miss,41,3,New Mexico State
+639,2019,11,Louisiana Tech,52,17,North Texas
+640,2019,11,UL Monroe,45,31,Georgia State
+641,2019,11,Florida Atlantic,37,7,Florida International
+642,2019,11,South Carolina,15,20,App State
+643,2019,11,California,33,20,Washington State
+644,2019,11,Georgia,27,0,Missouri
+645,2019,11,Fresno State,35,37,Utah State
+646,2019,11,BYU,31,24,Liberty
+647,2019,11,Kentucky,13,17,Tennessee
+648,2019,11,Duke,7,38,Notre Dame
+649,2019,11,NC State,10,55,Clemson
+650,2019,11,Oklahoma,42,41,Iowa State
+651,2019,11,Boise State,20,17,Wyoming
+652,2019,11,San Diego State,13,17,Nevada
+653,2019,11,Hawai'i,42,40,San José State
+654,2019,12,Akron,14,42,Eastern Michigan
+655,2019,12,Ohio,34,37,Western Michigan
+656,2019,12,Miami (OH),44,3,Bowling Green
+657,2019,12,Toledo,28,31,Northern Illinois
+658,2019,12,Kent State,30,27,Buffalo
+659,2019,12,Pittsburgh,34,27,North Carolina
+660,2019,12,Marshall,31,10,Louisiana Tech
+661,2019,12,San Diego State,17,7,Fresno State
+662,2019,12,Oklahoma State,31,13,Kansas
+663,2019,12,Missouri,6,23,Florida
+664,2019,12,Texas Tech,31,33,TCU
+665,2019,12,Northwestern,45,6,Massachusetts
+666,2019,12,Michigan,44,10,Michigan State
+667,2019,12,Temple,29,21,Tulane
+668,2019,12,Nebraska,21,37,Wisconsin
+669,2019,12,Mississippi State,7,38,Alabama
+670,2019,12,Penn State,34,27,Indiana
+671,2019,12,Florida State,49,12,Alabama State
+672,2019,12,Army,47,6,VMI
+673,2019,12,UAB,37,10,UTEP
+674,2019,12,Notre Dame,52,20,Navy
+675,2019,12,Georgia Southern,51,29,UL Monroe
+676,2019,12,Texas State,27,63,Troy
+677,2019,12,Arkansas State,28,27,Coastal Carolina
+678,2019,12,BYU,42,10,Idaho State
+679,2019,12,Iowa State,23,21,Texas
+680,2019,12,Houston,27,45,Memphis
+681,2019,12,Ball State,44,45,Central Michigan
+682,2019,12,Clemson,52,3,Wake Forest
+683,2019,12,Georgia Tech,0,45,Virginia Tech
+684,2019,12,Vanderbilt,14,38,Kentucky
+685,2019,12,Kansas State,20,24,West Virginia
+686,2019,12,Auburn,14,21,Georgia
+687,2019,12,Rutgers,21,56,Ohio State
+688,2019,12,UNLV,7,21,Hawai'i
+689,2019,12,Duke,6,49,Syracuse
+690,2019,12,Utah State,26,21,Wyoming
+691,2019,12,Iowa,23,19,Minnesota
+692,2019,12,New Mexico State,41,28,Incarnate Word
+693,2019,12,Middle Tennessee,28,31,Rice
+694,2019,12,Washington State,49,22,Stanford
+695,2019,12,South Alabama,27,37,Louisiana
+696,2019,12,UTSA,17,36,Southern Miss
+697,2019,12,Colorado State,21,38,Air Force
+698,2019,12,South Florida,17,20,Cincinnati
+699,2019,12,Ole Miss,37,58,LSU
+700,2019,12,Texas A&M,30,6,South Carolina
+701,2019,12,Georgia State,27,56,App State
+702,2019,12,Baylor,31,34,Oklahoma
+703,2019,12,Oregon State,35,34,Arizona State
+704,2019,12,NC State,20,34,Louisville
+705,2019,12,Utah,49,3,UCLA
+706,2019,12,Boise State,42,9,New Mexico
+707,2019,12,Oregon,34,6,Arizona
+708,2019,12,California,17,41,USC
+709,2019,13,Northern Illinois,17,45,Eastern Michigan
+710,2019,13,Bowling Green,24,66,Ohio
+711,2019,13,Buffalo,49,30,Toledo
+712,2019,13,Miami (OH),20,17,Akron
+713,2019,13,Georgia Tech,28,26,NC State
+714,2019,13,Wyoming,17,7,Colorado State
+715,2019,13,Tulane,31,34,UCF
+716,2019,13,Kent State,41,38,Ball State
+717,2019,13,Virginia,55,27,Liberty
+718,2019,13,Alabama,66,3,Western Carolina
+719,2019,13,UConn,24,31,East Carolina
+720,2019,13,Northwestern,22,38,Minnesota
+721,2019,13,Ohio State,28,17,Penn State
+722,2019,13,Iowa State,41,31,Kansas
+723,2019,13,Rutgers,0,27,Michigan State
+724,2019,13,Massachusetts,24,56,BYU
+725,2019,13,West Virginia,13,20,Oklahoma State
+726,2019,13,Auburn,52,0,Samford
+727,2019,13,Iowa,19,10,Illinois
+728,2019,13,New Mexico,22,44,Air Force
+729,2019,13,Georgia State,28,15,South Alabama
+730,2019,13,App State,35,13,Texas State
+731,2019,13,Notre Dame,40,7,Boston College
+732,2019,13,Arkansas State,38,33,Georgia Southern
+733,2019,13,Georgia,19,13,Texas A&M
+734,2019,13,Maryland,7,54,Nebraska
+735,2019,13,USC,52,35,UCLA
+736,2019,13,Southern Miss,10,28,Western Kentucky
+737,2019,13,UAB,20,14,Louisiana Tech
+738,2019,13,Virginia Tech,28,0,Pittsburgh
+739,2019,13,Indiana,14,39,Michigan
+740,2019,13,Charlotte,24,13,Marshall
+741,2019,13,Navy,35,28,SMU
+742,2019,13,Rice,20,14,North Texas
+743,2019,13,North Carolina,56,7,Mercer
+744,2019,13,Vanderbilt,38,0,East Tennessee State
+745,2019,13,Kentucky,50,7,UT Martin
+746,2019,13,Baylor,24,10,Texas
+747,2019,13,Louisville,56,34,Syracuse
+748,2019,13,New Mexico State,44,35,UTEP
+749,2019,13,South Florida,10,49,Memphis
+750,2019,13,Wisconsin,45,24,Purdue
+751,2019,13,UNLV,38,35,San José State
+752,2019,13,Stanford,20,24,California
+753,2019,13,Middle Tennessee,38,17,Old Dominion
+754,2019,13,Louisiana,53,3,Troy
+755,2019,13,UL Monroe,45,42,Coastal Carolina
+756,2019,13,UTSA,26,40,Florida Atlantic
+757,2019,13,Texas Tech,27,30,Kansas State
+758,2019,13,Florida International,30,24,Miami
+759,2019,13,LSU,56,20,Arkansas
+760,2019,13,Cincinnati,15,13,Temple
+761,2019,13,Mississippi State,45,7,Abilene Christian
+762,2019,13,Tulsa,14,24,Houston
+763,2019,13,Missouri,20,24,Tennessee
+764,2019,13,Wake Forest,39,27,Duke
+765,2019,13,Arizona State,31,28,Oregon
+766,2019,13,Oklahoma,28,24,TCU
+767,2019,13,Washington State,54,53,Oregon State
+768,2019,13,Colorado,20,14,Washington
+769,2019,13,Arizona,7,35,Utah
+770,2019,13,Fresno State,28,35,Nevada
+771,2019,13,Utah State,21,56,Boise State
+772,2019,13,Hawai'i,14,11,San Diego State
+773,2019,14,Akron,3,52,Ohio
+774,2019,14,Northern Illinois,17,14,Western Michigan
+775,2019,14,Mississippi State,21,20,Ole Miss
+776,2019,14,Ball State,41,27,Miami (OH)
+777,2019,14,Central Michigan,49,7,Toledo
+778,2019,14,Eastern Michigan,26,34,Kent State
+779,2019,14,Buffalo,49,7,Bowling Green
+780,2019,14,Virginia,39,30,Virginia Tech
+781,2019,14,Texas,49,24,Texas Tech
+782,2019,14,Nebraska,24,27,Iowa
+783,2019,14,Arkansas,14,24,Missouri
+784,2019,14,Memphis,34,24,Cincinnati
+785,2019,14,Colorado State,24,31,Boise State
+786,2019,14,Washington,31,13,Washington State
+787,2019,14,TCU,17,20,West Virginia
+788,2019,14,South Alabama,34,30,Arkansas State
+789,2019,14,Troy,13,48,App State
+790,2019,14,UCF,34,7,South Florida
+791,2019,14,Kentucky,45,13,Louisville
+792,2019,14,South Carolina,3,38,Clemson
+793,2019,14,Michigan,27,56,Ohio State
+794,2019,14,Coastal Carolina,24,21,Texas State
+795,2019,14,Georgia Tech,7,52,Georgia
+796,2019,14,East Carolina,24,49,Tulsa
+797,2019,14,Illinois,10,29,Northwestern
+798,2019,14,Purdue,41,44,Indiana
+799,2019,14,Marshall,30,27,Florida International
+800,2019,14,Syracuse,39,30,Wake Forest
+801,2019,14,Western Kentucky,31,26,Middle Tennessee
+802,2019,14,Old Dominion,22,38,Charlotte
+803,2019,14,Liberty,49,28,New Mexico State
+804,2019,14,Air Force,20,6,Wyoming
+805,2019,14,Nevada,30,33,UNLV
+806,2019,14,UTEP,16,30,Rice
+807,2019,14,Duke,27,17,Miami
+808,2019,14,Kansas,6,61,Baylor
+809,2019,14,Temple,49,17,UConn
+810,2019,14,Florida Atlantic,34,17,Southern Miss
+811,2019,14,Pittsburgh,19,26,Boston College
+812,2019,14,Louisiana Tech,41,27,UTSA
+813,2019,14,Minnesota,17,38,Wisconsin
+814,2019,14,Auburn,48,45,Alabama
+815,2019,14,Penn State,27,6,Rutgers
+816,2019,14,Michigan State,19,16,Maryland
+817,2019,14,SMU,37,20,Tulane
+818,2019,14,Oregon,24,10,Oregon State
+819,2019,14,New Mexico,25,38,Utah State
+820,2019,14,Stanford,24,45,Notre Dame
+821,2019,14,Tennessee,28,10,Vanderbilt
+822,2019,14,North Texas,21,26,UAB
+823,2019,14,Georgia Southern,38,10,Georgia State
+824,2019,14,NC State,10,41,North Carolina
+825,2019,14,Houston,41,56,Navy
+826,2019,14,Kansas State,27,17,Iowa State
+827,2019,14,LSU,50,7,Texas A&M
+828,2019,14,Louisiana,31,30,UL Monroe
+829,2019,14,Utah,45,15,Colorado
+830,2019,14,Florida,40,17,Florida State
+831,2019,14,Oklahoma State,16,34,Oklahoma
+832,2019,14,San Diego State,13,3,BYU
+833,2019,14,Arizona State,24,14,Arizona
+834,2019,14,UCLA,18,28,California
+835,2019,14,San José State,17,16,Fresno State
+836,2019,14,Hawai'i,52,31,Army
+837,2019,15,Oregon,37,15,Utah
+838,2019,15,App State,45,38,Louisiana
+839,2019,15,Central Michigan,21,26,Miami (OH)
+840,2019,15,Oklahoma,30,23,Baylor
+841,2019,15,Florida Atlantic,49,6,UAB
+842,2019,15,Memphis,29,24,Cincinnati
+843,2019,15,Boise State,31,10,Hawai'i
+844,2019,15,LSU,37,10,Georgia
+845,2019,15,Clemson,62,17,Virginia
+846,2019,15,Wisconsin,21,34,Ohio State
+847,2019,15,Navy,31,7,Army
+848,2019,1,Charlotte,9,31,Buffalo
+849,2019,1,Kent State,51,41,Utah State
+850,2019,1,San Diego State,48,11,Central Michigan
+851,2019,1,Georgia Southern,16,23,Liberty
+852,2019,1,Florida Atlantic,52,28,SMU
+853,2019,1,Arkansas State,34,26,Florida International
+854,2019,1,Washington,38,7,Boise State
+855,2019,1,UAB,17,31,App State
+856,2019,1,Marshall,25,48,UCF
+857,2019,1,BYU,34,38,Hawai'i
+858,2019,1,Miami,0,14,Louisiana Tech
+859,2019,1,Eastern Michigan,30,34,Pittsburgh
+860,2019,1,Temple,13,55,North Carolina
+861,2019,1,Wake Forest,21,27,Michigan State
+862,2019,1,Texas A&M,24,21,Oklahoma State
+863,2019,1,Iowa,49,24,USC
+864,2019,1,Washington State,21,31,Air Force
+865,2019,1,Penn State,53,39,Memphis
+866,2019,1,Iowa State,9,33,Notre Dame
+867,2019,1,LSU,63,28,Oklahoma
+868,2019,1,Ohio State,23,29,Clemson
+869,2019,1,Western Michigan,20,23,Western Kentucky
+870,2019,1,Louisville,38,28,Mississippi State
+871,2019,1,Illinois,20,35,California
+872,2019,1,Virginia,28,36,Florida
+873,2019,1,Kentucky,37,30,Virginia Tech
+874,2019,1,Arizona State,20,14,Florida State
+875,2019,1,Kansas State,17,20,Navy
+876,2019,1,Georgia State,17,38,Wyoming
+877,2019,1,Texas,38,10,Utah
+878,2019,1,Auburn,24,31,Minnesota
+879,2019,1,Alabama,35,16,Michigan
+880,2019,1,Wisconsin,27,28,Oregon
+881,2019,1,Baylor,14,26,Georgia
+882,2019,1,Cincinnati,38,6,Boston College
+883,2019,1,Tennessee,23,22,Indiana
+884,2019,1,Nevada,21,30,Ohio
+885,2019,1,Tulane,30,13,Southern Miss
+886,2019,1,Miami (OH),17,27,Louisiana
+887,2019,1,LSU,42,25,Clemson

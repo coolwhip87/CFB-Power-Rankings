@@ -1,0 +1,809 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2010,1,Wake Forest,53,13,Presbyterian
+1,2010,1,Central Michigan,33,0,Hampton
+2,2010,1,Ball State,27,10,Southeast Missouri State
+3,2010,1,Buffalo,31,0,Rhode Island
+4,2010,1,Kent State,41,10,Murray State
+5,2010,1,Middle Tennessee,17,24,Minnesota
+6,2010,1,Miami,45,0,Florida A&M
+7,2010,1,South Carolina,41,13,Southern Miss
+8,2010,1,Rutgers,31,0,Norfolk State
+9,2010,1,Indiana,51,17,Towson
+10,2010,1,Ohio State,45,7,Marshall
+11,2010,1,UAB,31,32,Florida Atlantic
+12,2010,1,Tulane,27,21,SE Louisiana
+13,2010,1,Iowa State,27,10,Northern Illinois
+14,2010,1,Utah,27,24,Pittsburgh
+15,2010,1,Idaho,45,0,North Dakota
+16,2010,1,Nevada,49,24,Eastern Washington
+17,2010,1,Hawai'i,36,49,USC
+18,2010,1,Temple,31,24,Villanova
+19,2010,1,Toledo,2,41,Arizona
+20,2010,1,Michigan State,38,14,Western Michigan
+21,2010,1,Penn State,44,14,Youngstown State
+22,2010,1,Florida State,59,6,Samford
+23,2010,1,Florida,34,12,Miami (OH)
+24,2010,1,Iowa,37,7,Eastern Illinois
+25,2010,1,Georgia,55,7,Louisiana
+26,2010,1,Missouri,23,13,Illinois
+27,2010,1,Georgia Tech,41,10,South Carolina State
+28,2010,1,Boston College,38,20,Weber State
+29,2010,1,Colorado State,3,24,Colorado
+30,2010,1,Air Force,65,21,Northwestern State
+31,2010,1,West Virginia,31,0,Coastal Carolina
+32,2010,1,Ole Miss,48,49,Jacksonville State
+33,2010,1,Rice,17,34,Texas
+34,2010,1,Kansas State,31,22,UCLA
+35,2010,1,Michigan,30,10,UConn
+36,2010,1,Louisville,16,23,Kentucky
+37,2010,1,Clemson,35,10,North Texas
+38,2010,1,Notre Dame,23,12,Purdue
+39,2010,1,Oregon,72,0,New Mexico
+40,2010,1,California,52,3,UC Davis
+41,2010,1,Virginia,34,13,Richmond
+42,2010,1,Akron,3,29,Syracuse
+43,2010,1,NC State,48,7,Western Carolina
+44,2010,1,UCF,38,7,South Dakota
+45,2010,1,Tennessee,50,0,UT Martin
+46,2010,1,Stanford,52,17,Sacramento State
+47,2010,1,Alabama,48,3,San José State
+48,2010,1,Grambling,6,20,Louisiana Tech
+49,2010,1,Baylor,34,3,Sam Houston
+50,2010,1,Auburn,52,26,Arkansas State
+51,2010,1,Nebraska,49,10,Western Kentucky
+52,2010,1,Arkansas,44,3,Tennessee Tech
+53,2010,1,Duke,41,27,Elon
+54,2010,1,Ohio,33,10,Wofford
+55,2010,1,Texas A&M,48,7,Stephen F. Austin
+56,2010,1,Kansas,3,6,North Dakota State
+57,2010,1,Mississippi State,49,7,Memphis
+58,2010,1,Oklahoma,31,24,Utah State
+59,2010,1,Oklahoma State,65,17,Washington State
+60,2010,1,BYU,23,17,Washington
+61,2010,1,Troy,30,27,Bowling Green
+62,2010,1,Eastern Michigan,27,31,Army
+63,2010,1,South Florida,59,14,Stony Brook
+64,2010,1,Vanderbilt,21,23,Northwestern
+65,2010,1,TCU,30,21,Oregon State
+66,2010,1,Houston,68,28,Texas State
+67,2010,1,San Diego State,47,0,Nicholls
+68,2010,1,North Carolina,24,30,LSU
+69,2010,1,Wyoming,28,20,Southern Utah
+70,2010,1,UTEP,31,10,Arkansas-Pine Bluff
+71,2010,1,Arizona State,54,9,Portland State
+72,2010,1,Fresno State,28,14,Cincinnati
+73,2010,1,UNLV,21,41,Wisconsin
+74,2010,1,East Carolina,51,49,Tulsa
+75,2010,1,Texas Tech,35,27,SMU
+76,2010,1,Maryland,17,14,Navy
+77,2010,1,Virginia Tech,30,33,Boise State
+78,2010,2,Temple,13,10,Central Michigan
+79,2010,2,Mississippi State,14,17,Auburn
+80,2010,2,Marshall,21,24,West Virginia
+81,2010,2,Houston,54,24,UTEP
+82,2010,2,East Carolina,49,27,Memphis
+83,2010,2,Northwestern,37,3,Illinois State
+84,2010,2,Akron,37,38,Gardner-Webb
+85,2010,2,Purdue,31,21,Western Illinois
+86,2010,2,UConn,62,3,Texas Southern
+87,2010,2,Minnesota,38,41,South Dakota
+88,2010,2,Cincinnati,40,7,Indiana State
+89,2010,2,Army,28,31,Hawai'i
+90,2010,2,Florida Atlantic,17,30,Michigan State
+91,2010,2,Wisconsin,27,14,San José State
+92,2010,2,South Carolina,17,6,Georgia
+93,2010,2,Kansas,28,25,Georgia Tech
+94,2010,2,Wake Forest,54,48,Duke
+95,2010,2,Florida,38,14,South Florida
+96,2010,2,Nebraska,38,17,Idaho
+97,2010,2,Pittsburgh,38,16,New Hampshire
+98,2010,2,Virginia Tech,16,21,James Madison
+99,2010,2,Miami (OH),28,21,Eastern Michigan
+100,2010,2,Ohio State,36,24,Miami
+101,2010,2,Notre Dame,24,28,Michigan
+102,2010,2,Louisville,23,13,Eastern Kentucky
+103,2010,2,Clemson,58,21,Presbyterian
+104,2010,2,Louisiana,31,24,Arkansas State
+105,2010,2,Iowa,35,7,Iowa State
+106,2010,2,California,52,7,Colorado
+107,2010,2,Oklahoma,47,17,Florida State
+108,2010,2,Navy,13,7,Georgia Southern
+109,2010,2,Boston College,26,13,Kent State
+110,2010,2,Air Force,35,14,BYU
+111,2010,2,Utah,38,10,UNLV
+112,2010,2,Maryland,62,3,Morgan State
+113,2010,2,Alabama,24,3,Penn State
+114,2010,2,Southern Miss,34,7,Prairie View A&M
+115,2010,2,Northern Illinois,23,17,North Dakota
+116,2010,2,Middle Tennessee,56,33,Austin Peay
+117,2010,2,Western Michigan,49,14,Nicholls
+118,2010,2,Washington State,23,22,Montana State
+119,2010,2,Ohio,13,20,Toledo
+120,2010,2,Baylor,34,6,Buffalo
+121,2010,2,Missouri,50,6,McNeese
+122,2010,2,Ball State,23,27,Liberty
+123,2010,2,TCU,62,7,Tennessee Tech
+124,2010,2,Washington,41,20,Syracuse
+125,2010,2,Oklahoma State,41,38,Troy
+126,2010,2,Tulsa,33,20,Bowling Green
+127,2010,2,Vanderbilt,3,27,LSU
+128,2010,2,UL Monroe,7,31,Arkansas
+129,2010,2,Tennessee,13,48,Oregon
+130,2010,2,Texas,34,7,Wyoming
+131,2010,2,Texas A&M,48,16,Louisiana Tech
+132,2010,2,North Texas,31,32,Rice
+133,2010,2,Kansas State,48,24,Missouri State
+134,2010,2,Illinois,35,3,Southern Illinois
+135,2010,2,UCF,21,28,NC State
+136,2010,2,Kentucky,63,28,Western Kentucky
+137,2010,2,New Mexico,17,52,Texas Tech
+138,2010,2,SMU,28,7,UAB
+139,2010,2,New Mexico State,21,41,San Diego State
+140,2010,2,Utah State,38,17,Idaho State
+141,2010,2,Florida International,14,19,Rutgers
+142,2010,2,Tulane,13,27,Ole Miss
+143,2010,2,Arizona,52,6,The Citadel
+144,2010,2,Arizona State,41,20,Northern Arizona
+145,2010,2,UCLA,0,35,Stanford
+146,2010,2,Nevada,51,6,Colorado State
+147,2010,2,USC,17,14,Virginia
+148,2010,3,NC State,30,19,Cincinnati
+149,2010,3,Southern Miss,31,16,Kansas
+150,2010,3,Nevada,52,31,California
+151,2010,3,West Virginia,31,17,Maryland
+152,2010,3,Georgia,24,31,Arkansas
+153,2010,3,Penn State,24,0,Kent State
+154,2010,3,Temple,30,16,UConn
+155,2010,3,Kansas State,27,20,Iowa State
+156,2010,3,Purdue,24,13,Ball State
+157,2010,3,Ohio State,43,7,Ohio
+158,2010,3,Army,24,0,North Texas
+159,2010,3,Michigan,42,37,Massachusetts
+160,2010,3,Illinois,28,22,Northern Illinois
+161,2010,3,North Carolina,24,30,Georgia Tech
+162,2010,3,Ole Miss,14,28,Vanderbilt
+163,2010,3,Virginia Tech,49,27,East Carolina
+164,2010,3,Colorado,31,13,Hawai'i
+165,2010,3,Florida State,34,10,BYU
+166,2010,3,Wisconsin,20,19,Arizona State
+167,2010,3,SMU,35,21,Washington State
+168,2010,3,Miami (OH),31,10,Colorado State
+169,2010,3,Washington,21,56,Nebraska
+170,2010,3,Duke,13,62,Alabama
+171,2010,3,Tennessee,17,31,Florida
+172,2010,3,Minnesota,21,32,USC
+173,2010,3,Oklahoma,27,24,Air Force
+174,2010,3,UAB,34,33,Troy
+175,2010,3,Eastern Michigan,14,52,Central Michigan
+176,2010,3,TCU,45,10,Baylor
+177,2010,3,Western Kentucky,21,38,Indiana
+178,2010,3,Oregon State,35,28,Louisville
+179,2010,3,Oregon,69,0,Portland State
+180,2010,3,Buffalo,10,24,UCF
+181,2010,3,South Carolina,38,19,Furman
+182,2010,3,Kentucky,47,10,Akron
+183,2010,3,Western Michigan,24,37,Toledo
+184,2010,3,Auburn,27,24,Clemson
+185,2010,3,LSU,29,7,Mississippi State
+186,2010,3,Rice,13,30,Northwestern
+187,2010,3,Missouri,27,24,San Diego State
+188,2010,3,Memphis,24,17,Middle Tennessee
+189,2010,3,Bowling Green,44,28,Marshall
+190,2010,3,Louisiana Tech,23,37,Navy
+191,2010,3,Oklahoma State,65,28,Tulsa
+192,2010,3,Texas A&M,27,20,Florida International
+193,2010,3,Syracuse,38,14,Maine
+194,2010,3,San José State,16,11,Southern Utah
+195,2010,3,Utah State,24,41,Fresno State
+196,2010,3,Arkansas State,34,20,UL Monroe
+197,2010,3,Michigan State,34,31,Notre Dame
+198,2010,3,New Mexico,14,56,Utah
+199,2010,3,Texas Tech,14,24,Texas
+200,2010,3,Wyoming,6,51,Boise State
+201,2010,3,UTEP,42,10,New Mexico State
+202,2010,3,UCLA,31,13,Houston
+203,2010,3,Idaho,30,7,UNLV
+204,2010,3,Arizona,34,27,Iowa
+205,2010,3,Stanford,68,24,Wake Forest
+206,2010,4,Pittsburgh,3,31,Miami
+207,2010,4,SMU,24,41,TCU
+208,2010,4,Wisconsin,70,3,Austin Peay
+209,2010,4,Northwestern,30,25,Central Michigan
+210,2010,4,Iowa,45,0,Ball State
+211,2010,4,Boston College,0,19,Virginia Tech
+212,2010,4,Georgia Tech,28,45,NC State
+213,2010,4,Michigan State,45,7,Northern Colorado
+214,2010,4,Michigan,65,21,Bowling Green
+215,2010,4,Purdue,20,31,Toledo
+216,2010,4,Maryland,42,28,Florida International
+217,2010,4,UConn,45,21,Buffalo
+218,2010,4,Tennessee,32,29,UAB
+219,2010,4,Kansas State,17,13,UCF
+220,2010,4,Virginia,48,7,VMI
+221,2010,4,Missouri,51,13,Miami (OH)
+222,2010,4,Wyoming,14,20,Air Force
+223,2010,4,Washington State,16,50,USC
+224,2010,4,Duke,21,35,Army
+225,2010,4,Notre Dame,14,37,Stanford
+226,2010,4,Florida State,31,0,Wake Forest
+227,2010,4,Arkansas,20,24,Alabama
+228,2010,4,Ohio State,73,20,Eastern Michigan
+229,2010,4,Penn State,22,13,Temple
+230,2010,4,Syracuse,42,7,Colgate
+231,2010,4,Texas,12,34,UCLA
+232,2010,4,Houston,42,23,Tulane
+233,2010,4,Rutgers,13,17,North Carolina
+234,2010,4,Troy,35,28,Arkansas State
+235,2010,4,Colorado State,36,34,Idaho
+236,2010,4,BYU,13,27,Nevada
+237,2010,4,Cincinnati,29,31,Oklahoma
+238,2010,4,Tulsa,41,14,Central Arkansas
+239,2010,4,Mississippi State,24,12,Georgia
+240,2010,4,Kansas,42,16,New Mexico State
+241,2010,4,Louisiana Tech,12,13,Southern Miss
+242,2010,4,Marshall,24,23,Ohio
+243,2010,4,UL Monroe,21,20,SE Louisiana
+244,2010,4,Iowa State,27,0,Northern Iowa
+245,2010,4,Florida Atlantic,17,21,North Texas
+246,2010,4,Louisiana,14,34,Middle Tennessee
+247,2010,4,Florida,48,14,Kentucky
+248,2010,4,Indiana,35,20,Akron
+249,2010,4,Nebraska,17,3,South Dakota State
+250,2010,4,South Florida,24,12,Western Kentucky
+251,2010,4,Ole Miss,55,38,Fresno State
+252,2010,4,Auburn,35,27,South Carolina
+253,2010,4,Boise State,37,24,Oregon State
+254,2010,4,San Diego State,41,7,Utah State
+255,2010,4,Rice,13,30,Baylor
+256,2010,4,Utah,56,3,San José State
+257,2010,4,Minnesota,23,34,Northern Illinois
+258,2010,4,LSU,20,14,West Virginia
+259,2010,4,UTEP,16,13,Memphis
+260,2010,4,Arizona,10,9,California
+261,2010,4,UNLV,45,10,New Mexico
+262,2010,4,Arizona State,31,42,Oregon
+263,2010,4,Hawai'i,66,7,Charleston Southern
+264,2010,5,Oklahoma State,38,35,Texas A&M
+265,2010,5,Utah State,31,16,BYU
+266,2010,5,UConn,40,21,Vanderbilt
+267,2010,5,Auburn,52,3,UL Monroe
+268,2010,5,Army,35,42,Temple
+269,2010,5,Minnesota,28,29,Northwestern
+270,2010,5,Baylor,55,7,Kansas
+271,2010,5,Illinois,13,24,Ohio State
+272,2010,5,Virginia,14,34,Florida State
+273,2010,5,Eastern Michigan,17,30,Ohio
+274,2010,5,Clemson,21,30,Miami
+275,2010,5,Mississippi State,49,16,Alcorn State
+276,2010,5,Ole Miss,42,35,Kentucky
+277,2010,5,Miami (OH),27,21,Kent State
+278,2010,5,Colorado State,0,27,TCU
+279,2010,5,Rutgers,14,17,Tulane
+280,2010,5,Western Michigan,13,33,Idaho
+281,2010,5,Air Force,14,6,Navy
+282,2010,5,Oklahoma,28,20,Texas
+283,2010,5,Michigan State,34,24,Wisconsin
+284,2010,5,UCLA,42,28,Washington State
+285,2010,5,Pittsburgh,44,17,Florida International
+286,2010,5,Indiana,35,42,Michigan
+287,2010,5,NC State,30,41,Virginia Tech
+288,2010,5,Central Michigan,17,31,Ball State
+289,2010,5,Bowling Green,26,28,Buffalo
+290,2010,5,LSU,16,14,Tennessee
+291,2010,5,North Carolina,42,17,East Carolina
+292,2010,5,New Mexico,20,38,UTEP
+293,2010,5,Akron,14,50,Northern Illinois
+294,2010,5,Maryland,21,16,Duke
+295,2010,5,Oregon State,31,28,Arizona State
+296,2010,5,Arkansas State,24,34,Louisville
+297,2010,5,Rice,31,42,SMU
+298,2010,5,Wake Forest,20,24,Georgia Tech
+299,2010,5,Iowa State,52,38,Texas Tech
+300,2010,5,Memphis,7,48,Tulsa
+301,2010,5,Colorado,29,27,Georgia
+302,2010,5,South Florida,31,3,Florida Atlantic
+303,2010,5,Toledo,15,20,Wyoming
+304,2010,5,North Texas,27,28,Louisiana
+305,2010,5,Southern Miss,41,16,Marshall
+306,2010,5,Alabama,31,6,Florida
+307,2010,5,Oregon,52,31,Stanford
+308,2010,5,New Mexico State,0,59,Boise State
+309,2010,5,USC,31,32,Washington
+310,2010,5,San José State,13,14,UC Davis
+311,2010,5,Boston College,13,31,Notre Dame
+312,2010,5,Iowa,24,3,Penn State
+313,2010,5,Fresno State,38,17,Cal Poly
+314,2010,5,UNLV,26,44,Nevada
+315,2010,5,Hawai'i,41,21,Louisiana Tech
+316,2010,6,Middle Tennessee,13,42,Troy
+317,2010,6,UCF,42,7,UAB
+318,2010,6,Kansas State,13,48,Nebraska
+319,2010,6,Rutgers,27,24,UConn
+320,2010,6,Louisiana,28,54,Oklahoma State
+321,2010,6,Virginia Tech,45,21,Central Michigan
+322,2010,6,NC State,44,17,Boston College
+323,2010,6,Ball State,16,45,Western Michigan
+324,2010,6,Wisconsin,41,23,Minnesota
+325,2010,6,South Florida,9,13,Syracuse
+326,2010,6,Texas Tech,45,38,Baylor
+327,2010,6,Northern Illinois,31,17,Temple
+328,2010,6,Ohio State,38,10,Indiana
+329,2010,6,Penn State,13,33,Illinois
+330,2010,6,Georgia,41,14,Tennessee
+331,2010,6,Louisville,56,0,Memphis
+332,2010,6,Ohio,49,25,Bowling Green
+333,2010,6,Air Force,49,27,Colorado State
+334,2010,6,California,35,7,UCLA
+335,2010,6,Texas A&M,17,24,Arkansas
+336,2010,6,South Carolina,35,21,Alabama
+337,2010,6,Georgia Tech,33,21,Virginia
+338,2010,6,Notre Dame,23,17,Pittsburgh
+339,2010,6,West Virginia,49,10,UNLV
+340,2010,6,Michigan,17,34,Michigan State
+341,2010,6,Kent State,28,17,Akron
+342,2010,6,Tulane,23,41,Army
+343,2010,6,TCU,45,0,Wyoming
+344,2010,6,North Carolina,21,16,Clemson
+345,2010,6,Florida International,28,21,Western Kentucky
+346,2010,6,Louisiana Tech,24,6,Utah State
+347,2010,6,Washington State,23,43,Oregon
+348,2010,6,BYU,24,21,San Diego State
+349,2010,6,Wake Forest,27,28,Navy
+350,2010,6,Cincinnati,45,3,Miami (OH)
+351,2010,6,Iowa State,27,68,Utah
+352,2010,6,Vanderbilt,52,6,Eastern Michigan
+353,2010,6,UL Monroe,20,17,Florida Atlantic
+354,2010,6,North Texas,19,24,Arkansas State
+355,2010,6,Missouri,26,0,Colorado
+356,2010,6,Arizona,27,29,Oregon State
+357,2010,6,Southern Miss,43,44,East Carolina
+358,2010,6,Northwestern,17,20,Purdue
+359,2010,6,Florida,29,33,LSU
+360,2010,6,Kentucky,34,37,Auburn
+361,2010,6,Houston,24,47,Mississippi State
+362,2010,6,Miami,17,45,Florida State
+363,2010,6,SMU,21,18,Tulsa
+364,2010,6,New Mexico State,16,14,New Mexico
+365,2010,6,Stanford,37,35,USC
+366,2010,6,Boise State,57,14,Toledo
+367,2010,6,UTEP,44,24,Rice
+368,2010,6,Washington,14,24,Arizona State
+369,2010,6,Fresno State,27,49,Hawai'i
+370,2010,6,Nevada,35,13,San José State
+371,2010,7,Marshall,14,35,UCF
+372,2010,7,Kansas,7,59,Kansas State
+373,2010,7,West Virginia,20,6,South Florida
+374,2010,7,Louisville,27,35,Cincinnati
+375,2010,7,Indiana,36,34,Arkansas State
+376,2010,7,East Carolina,33,27,NC State
+377,2010,7,Syracuse,14,45,Pittsburgh
+378,2010,7,Clemson,31,7,Maryland
+379,2010,7,Memphis,19,41,Southern Miss
+380,2010,7,Michigan State,26,6,Illinois
+381,2010,7,Florida State,24,19,Boston College
+382,2010,7,Texas A&M,9,30,Missouri
+383,2010,7,Central Michigan,20,27,Miami (OH)
+384,2010,7,Purdue,28,17,Minnesota
+385,2010,7,Georgia,43,0,Vanderbilt
+386,2010,7,Duke,13,28,Miami
+387,2010,7,Temple,28,27,Bowling Green
+388,2010,7,Ball State,38,41,Eastern Michigan
+389,2010,7,Colorado State,43,10,UNLV
+390,2010,7,Rutgers,23,20,Army
+391,2010,7,Ohio,38,10,Akron
+392,2010,7,Notre Dame,44,20,Western Michigan
+393,2010,7,Nebraska,13,20,Texas
+394,2010,7,Michigan,28,38,Iowa
+395,2010,7,Virginia Tech,52,21,Wake Forest
+396,2010,7,Georgia Tech,42,14,Middle Tennessee
+397,2010,7,Northern Illinois,45,14,Buffalo
+398,2010,7,Rice,34,31,Houston
+399,2010,7,USC,48,14,California
+400,2010,7,Auburn,65,43,Arkansas
+401,2010,7,Texas Tech,17,34,Oklahoma State
+402,2010,7,Navy,28,21,SMU
+403,2010,7,Louisiana Tech,48,35,Idaho
+404,2010,7,UAB,21,6,UTEP
+405,2010,7,TCU,31,3,BYU
+406,2010,7,Kentucky,31,28,South Carolina
+407,2010,7,Wyoming,6,30,Utah
+408,2010,7,Virginia,10,44,North Carolina
+409,2010,7,Tulsa,52,24,Tulane
+410,2010,7,Wisconsin,31,18,Ohio State
+411,2010,7,Toledo,34,21,Kent State
+412,2010,7,Florida,7,10,Mississippi State
+413,2010,7,Oklahoma,52,0,Iowa State
+414,2010,7,Troy,31,24,Louisiana
+415,2010,7,Western Kentucky,30,35,UL Monroe
+416,2010,7,Colorado,25,31,Baylor
+417,2010,7,LSU,32,10,McNeese
+418,2010,7,Washington State,7,24,Arizona
+419,2010,7,North Texas,10,34,Florida International
+420,2010,7,San José State,0,48,Boise State
+421,2010,7,San Diego State,27,25,Air Force
+422,2010,7,Alabama,23,10,Ole Miss
+423,2010,7,Washington,35,34,Oregon State
+424,2010,7,Fresno State,33,10,New Mexico State
+425,2010,7,Hawai'i,27,21,Nevada
+426,2010,8,Oregon,60,13,UCLA
+427,2010,8,Cincinnati,30,38,South Florida
+428,2010,8,Minnesota,21,33,Penn State
+429,2010,8,Illinois,43,13,Indiana
+430,2010,8,West Virginia,14,19,Syracuse
+431,2010,8,Texas,21,28,Iowa State
+432,2010,8,Pittsburgh,41,21,Rutgers
+433,2010,8,Virginia Tech,44,7,Duke
+434,2010,8,Buffalo,0,42,Temple
+435,2010,8,Navy,35,17,Notre Dame
+436,2010,8,Northwestern,27,35,Michigan State
+437,2010,8,Ohio State,49,0,Purdue
+438,2010,8,Arkansas,38,24,Ole Miss
+439,2010,8,Arkansas State,37,16,Florida Atlantic
+440,2010,8,Boston College,21,24,Maryland
+441,2010,8,Miami (OH),13,34,Ohio
+442,2010,8,BYU,25,20,Wyoming
+443,2010,8,Louisville,26,0,UConn
+444,2010,8,Oklahoma State,41,51,Nebraska
+445,2010,8,Bowling Green,6,30,Kent State
+446,2010,8,UCF,41,14,Rice
+447,2010,8,Akron,10,56,Western Michigan
+448,2010,8,Iowa,30,31,Wisconsin
+449,2010,8,Colorado,24,27,Texas Tech
+450,2010,8,Clemson,27,13,Georgia Tech
+451,2010,8,SMU,20,45,Houston
+452,2010,8,Auburn,24,17,LSU
+453,2010,8,California,50,17,Arizona State
+454,2010,8,Baylor,47,42,Kansas State
+455,2010,8,Northern Illinois,33,7,Central Michigan
+456,2010,8,East Carolina,37,10,Marshall
+457,2010,8,Middle Tennessee,38,10,UL Monroe
+458,2010,8,Idaho,37,14,New Mexico State
+459,2010,8,Louisiana,21,54,Western Kentucky
+460,2010,8,Stanford,38,28,Washington State
+461,2010,8,Utah State,7,45,Hawai'i
+462,2010,8,Utah,59,6,Colorado State
+463,2010,8,Virginia,48,21,Eastern Michigan
+464,2010,8,Kansas,10,45,Texas A&M
+465,2010,8,Vanderbilt,7,21,South Carolina
+466,2010,8,Toledo,31,24,Ball State
+467,2010,8,Mississippi State,29,24,UAB
+468,2010,8,Tennessee,10,41,Alabama
+469,2010,8,Kentucky,31,44,Georgia
+470,2010,8,Miami,33,10,North Carolina
+471,2010,8,San José State,18,33,Fresno State
+472,2010,8,Missouri,36,27,Oklahoma
+473,2010,8,TCU,38,7,Air Force
+474,2010,8,UTEP,24,34,Tulane
+475,2010,8,New Mexico,20,30,San Diego State
+476,2010,8,Arizona,44,14,Washington
+477,2010,9,Boise State,49,20,Louisiana Tech
+478,2010,9,NC State,28,24,Florida State
+479,2010,9,UConn,16,13,West Virginia
+480,2010,9,Boston College,16,10,Clemson
+481,2010,9,Indiana,17,20,Northwestern
+482,2010,9,Kansas State,14,24,Oklahoma State
+483,2010,9,Virginia,24,19,Miami
+484,2010,9,Southern Miss,49,50,UAB
+485,2010,9,Cincinnati,7,31,Syracuse
+486,2010,9,Western Michigan,21,28,Northern Illinois
+487,2010,9,Army,29,7,VMI
+488,2010,9,Illinois,44,10,Purdue
+489,2010,9,Pittsburgh,20,3,Louisville
+490,2010,9,South Carolina,38,24,Tennessee
+491,2010,9,Temple,30,0,Akron
+492,2010,9,Ohio,38,31,Louisiana
+493,2010,9,Wyoming,38,48,San Diego State
+494,2010,9,Iowa State,28,16,Kansas
+495,2010,9,Notre Dame,27,28,Tulsa
+496,2010,9,Marshall,16,12,UTEP
+497,2010,9,Western Kentucky,6,33,North Texas
+498,2010,9,UCF,49,35,East Carolina
+499,2010,9,Navy,31,34,Duke
+500,2010,9,Texas A&M,45,27,Texas Tech
+501,2010,9,Maryland,62,14,Wake Forest
+502,2010,9,Nebraska,31,17,Missouri
+503,2010,9,North Carolina,21,17,William & Mary
+504,2010,9,Tulane,17,31,SMU
+505,2010,9,UL Monroe,28,14,Troy
+506,2010,9,Buffalo,9,21,Miami (OH)
+507,2010,9,Iowa,37,6,Michigan State
+508,2010,9,UCLA,21,29,Arizona
+509,2010,9,Kent State,33,14,Ball State
+510,2010,9,Georgia,31,34,Florida
+511,2010,9,Oregon State,35,7,California
+512,2010,9,Central Michigan,14,17,Bowling Green
+513,2010,9,New Mexico State,29,27,San José State
+514,2010,9,Eastern Michigan,7,42,Toledo
+515,2010,9,Florida Atlantic,21,9,Florida International
+516,2010,9,Colorado State,38,14,New Mexico
+517,2010,9,Ole Miss,31,51,Auburn
+518,2010,9,Arkansas,49,14,Vanderbilt
+519,2010,9,Memphis,17,56,Houston
+520,2010,9,Arizona State,42,0,Washington State
+521,2010,9,Texas,22,30,Baylor
+522,2010,9,Mississippi State,24,17,Kentucky
+523,2010,9,Washington,0,41,Stanford
+524,2010,9,Air Force,23,28,Utah
+525,2010,9,Penn State,41,31,Michigan
+526,2010,9,USC,32,53,Oregon
+527,2010,9,Minnesota,10,52,Ohio State
+528,2010,9,Oklahoma,43,10,Colorado
+529,2010,9,Nevada,56,42,Utah State
+530,2010,9,UNLV,6,48,TCU
+531,2010,9,Hawai'i,45,10,Idaho
+532,2010,10,Arkansas State,51,24,Middle Tennessee
+533,2010,10,South Florida,28,27,Rutgers
+534,2010,10,Virginia Tech,28,21,Georgia Tech
+535,2010,10,Ohio,34,17,Buffalo
+536,2010,10,Central Michigan,26,22,Western Michigan
+537,2010,10,Houston,33,40,UCF
+538,2010,10,Michigan,67,65,Illinois
+539,2010,10,Miami,26,20,Maryland
+540,2010,10,Indiana,13,18,Iowa
+541,2010,10,Purdue,13,34,Wisconsin
+542,2010,10,Duke,55,48,Virginia
+543,2010,10,Clemson,14,13,NC State
+544,2010,10,Syracuse,20,28,Louisville
+545,2010,10,Michigan State,31,8,Minnesota
+546,2010,10,Army,22,42,Air Force
+547,2010,10,Vanderbilt,14,55,Florida
+548,2010,10,Georgia,55,7,Idaho State
+549,2010,10,Kentucky,49,21,Charleston Southern
+550,2010,10,Oklahoma State,55,28,Baylor
+551,2010,10,Ball State,37,30,Akron
+552,2010,10,Auburn,62,24,Chattanooga
+553,2010,10,BYU,55,7,UNLV
+554,2010,10,Tulsa,64,27,Rice
+555,2010,10,Kent State,10,28,Temple
+556,2010,10,Kansas,52,45,Colorado
+557,2010,10,Utah State,27,22,New Mexico State
+558,2010,10,Florida State,35,37,North Carolina
+559,2010,10,Tulane,30,46,Southern Miss
+560,2010,10,East Carolina,35,76,Navy
+561,2010,10,Oregon,53,16,Washington
+562,2010,10,Wake Forest,13,23,Boston College
+563,2010,10,Utah,7,47,TCU
+564,2010,10,Iowa State,30,31,Nebraska
+565,2010,10,Boise State,42,7,Hawai'i
+566,2010,10,Penn State,35,21,Northwestern
+567,2010,10,LSU,24,21,Alabama
+568,2010,10,Louisiana Tech,34,40,Fresno State
+569,2010,10,Washington State,13,20,California
+570,2010,10,UAB,17,31,Marshall
+571,2010,10,Western Kentucky,16,17,Florida Atlantic
+572,2010,10,Idaho,17,63,Nevada
+573,2010,10,New Mexico,34,31,Wyoming
+574,2010,10,South Carolina,20,41,Arkansas
+575,2010,10,North Texas,35,41,Troy
+576,2010,10,UCLA,17,14,Oregon State
+577,2010,10,Ole Miss,43,21,Louisiana
+578,2010,10,Texas A&M,33,19,Oklahoma
+579,2010,10,Florida International,42,35,UL Monroe
+580,2010,10,Stanford,42,17,Arizona
+581,2010,10,Texas Tech,24,17,Missouri
+582,2010,10,Memphis,14,50,Tennessee
+583,2010,10,Kansas State,39,14,Texas
+584,2010,10,UTEP,28,14,SMU
+585,2010,10,San Diego State,24,19,Colorado State
+586,2010,10,USC,34,33,Arizona State
+587,2010,11,Northern Illinois,65,30,Toledo
+588,2010,11,Bowling Green,21,24,Miami (OH)
+589,2010,11,UConn,30,28,Pittsburgh
+590,2010,11,UAB,42,54,East Carolina
+591,2010,11,Buffalo,3,20,Ball State
+592,2010,11,Idaho,14,52,Boise State
+593,2010,11,Purdue,16,27,Michigan
+594,2010,11,Illinois,34,38,Minnesota
+595,2010,11,Northwestern,21,17,Iowa
+596,2010,11,Duke,16,21,Boston College
+597,2010,11,Wisconsin,83,20,Indiana
+598,2010,11,Georgia Tech,10,35,Miami
+599,2010,11,West Virginia,37,10,Cincinnati
+600,2010,11,Tennessee,52,14,Ole Miss
+601,2010,11,Louisville,21,24,South Florida
+602,2010,11,UCF,21,31,Southern Miss
+603,2010,11,Kentucky,38,20,Vanderbilt
+604,2010,11,Missouri,38,28,Kansas State
+605,2010,11,Colorado,34,14,Iowa State
+606,2010,11,NC State,38,3,Wake Forest
+607,2010,11,Western Michigan,45,30,Eastern Michigan
+608,2010,11,Colorado State,10,49,BYU
+609,2010,11,Kent State,28,45,Army
+610,2010,11,Notre Dame,28,3,Utah
+611,2010,11,Marshall,28,13,Memphis
+612,2010,11,Arkansas State,35,36,Western Kentucky
+613,2010,11,Rutgers,10,13,Syracuse
+614,2010,11,Virginia,23,42,Maryland
+615,2010,11,Tulane,54,49,Rice
+616,2010,11,North Carolina,10,26,Virginia Tech
+617,2010,11,Oklahoma,45,7,Texas Tech
+618,2010,11,Navy,38,37,Central Michigan
+619,2010,11,Middle Tennessee,17,23,North Texas
+620,2010,11,Troy,35,52,Florida International
+621,2010,11,Ohio State,38,14,Penn State
+622,2010,11,Auburn,49,31,Georgia
+623,2010,11,TCU,40,35,San Diego State
+624,2010,11,Oregon State,14,31,Washington State
+625,2010,11,Air Force,48,23,New Mexico
+626,2010,11,New Mexico State,20,41,Louisiana Tech
+627,2010,11,Baylor,30,42,Texas A&M
+628,2010,11,Nebraska,20,3,Kansas
+629,2010,11,LSU,51,0,UL Monroe
+630,2010,11,Arkansas,58,21,UTEP
+631,2010,11,Florida Atlantic,24,23,Louisiana
+632,2010,11,Florida,14,36,South Carolina
+633,2010,11,Alabama,30,10,Mississippi State
+634,2010,11,Arizona State,13,17,Stanford
+635,2010,11,California,13,15,Oregon
+636,2010,11,Texas,16,33,Oklahoma State
+637,2010,11,Houston,25,28,Tulsa
+638,2010,11,San José State,34,38,Utah State
+639,2010,11,Arizona,21,24,USC
+640,2010,11,Florida State,16,13,Clemson
+641,2010,11,UNLV,42,16,Wyoming
+642,2010,11,Fresno State,34,35,Nevada
+643,2010,12,Temple,23,31,Ohio
+644,2010,12,Akron,14,19,Miami (OH)
+645,2010,12,Toledo,33,14,Bowling Green
+646,2010,12,Alabama,63,7,Georgia State
+647,2010,12,Washington,24,7,UCLA
+648,2010,12,UNLV,20,35,Air Force
+649,2010,12,Boise State,51,0,Fresno State
+650,2010,12,Kansas,14,48,Oklahoma State
+651,2010,12,Michigan,28,48,Wisconsin
+652,2010,12,Louisville,10,17,West Virginia
+653,2010,12,North Carolina,25,29,NC State
+654,2010,12,Michigan State,35,31,Purdue
+655,2010,12,Boston College,17,13,Virginia
+656,2010,12,Indiana,24,41,Penn State
+657,2010,12,South Florida,10,17,Pittsburgh
+658,2010,12,Ball State,21,59,Northern Illinois
+659,2010,12,South Carolina,69,24,Troy
+660,2010,12,Florida,48,10,App State
+661,2010,12,Rice,62,38,East Carolina
+662,2010,12,Georgia Tech,30,20,Duke
+663,2010,12,Wake Forest,10,30,Clemson
+664,2010,12,Wyoming,44,0,Colorado State
+665,2010,12,Tulsa,31,28,UTEP
+666,2010,12,Buffalo,17,21,Eastern Michigan
+667,2010,12,Western Michigan,38,3,Kent State
+668,2010,12,Colorado,44,36,Kansas State
+669,2010,12,Texas Tech,64,21,Weber State
+670,2010,12,Utah State,6,28,Idaho
+671,2010,12,SMU,31,17,Marshall
+672,2010,12,LSU,43,36,Ole Miss
+673,2010,12,Northwestern,27,48,Illinois
+674,2010,12,Tulane,14,61,UCF
+675,2010,12,Navy,35,19,Arkansas State
+676,2010,12,California,14,48,Stanford
+677,2010,12,Iowa,17,20,Ohio State
+678,2010,12,Miami,17,31,Virginia Tech
+679,2010,12,Texas,51,17,Florida Atlantic
+680,2010,12,UL Monroe,49,37,North Texas
+681,2010,12,UAB,31,15,Memphis
+682,2010,12,Nevada,52,6,New Mexico State
+683,2010,12,Western Kentucky,26,27,Middle Tennessee
+684,2010,12,BYU,40,7,New Mexico
+685,2010,12,Notre Dame,27,3,Army
+686,2010,12,Iowa State,0,14,Missouri
+687,2010,12,Mississippi State,31,38,Arkansas
+688,2010,12,Syracuse,6,23,UConn
+689,2010,12,Louisiana,17,38,Florida International
+690,2010,12,Vanderbilt,10,24,Tennessee
+691,2010,12,Cincinnati,69,38,Rutgers
+692,2010,12,Maryland,16,30,Florida State
+693,2010,12,Southern Miss,59,41,Houston
+694,2010,12,Oregon State,36,7,USC
+695,2010,12,Baylor,24,53,Oklahoma
+696,2010,12,Texas A&M,9,6,Nebraska
+697,2010,12,San Diego State,34,38,Utah
+698,2010,12,Hawai'i,41,7,San José State
+699,2010,13,Miami (OH),23,3,Temple
+700,2010,13,Texas,17,24,Texas A&M
+701,2010,13,Rutgers,13,40,Louisville
+702,2010,13,Kent State,28,6,Ohio
+703,2010,13,Pittsburgh,10,35,West Virginia
+704,2010,13,Eastern Michigan,3,71,Northern Illinois
+705,2010,13,East Carolina,38,45,SMU
+706,2010,13,Akron,22,14,Buffalo
+707,2010,13,Bowling Green,7,41,Western Michigan
+708,2010,13,Toledo,42,31,Central Michigan
+709,2010,13,Alabama,27,28,Auburn
+710,2010,13,Nebraska,45,17,Colorado
+711,2010,13,Arizona State,55,34,UCLA
+712,2010,13,Tulsa,56,50,Southern Miss
+713,2010,13,Oregon,48,29,Arizona
+714,2010,13,Nevada,34,31,Boise State
+715,2010,13,Memphis,17,37,UCF
+716,2010,13,Syracuse,7,16,Boston College
+717,2010,13,Penn State,22,28,Michigan State
+718,2010,13,Ohio State,37,7,Michigan
+719,2010,13,Marshall,38,23,Tulane
+720,2010,13,Purdue,31,34,Indiana
+721,2010,13,Virginia Tech,37,7,Virginia
+722,2010,13,UConn,38,17,Cincinnati
+723,2010,13,Miami,20,23,South Florida
+724,2010,13,Tennessee,24,14,Kentucky
+725,2010,13,Missouri,35,7,Kansas
+726,2010,13,New Mexico State,24,59,Hawai'i
+727,2010,13,Rice,28,23,UAB
+728,2010,13,Minnesota,27,24,Iowa
+729,2010,13,California,13,16,Washington
+730,2010,13,Duke,19,24,North Carolina
+731,2010,13,Middle Tennessee,38,14,Florida Atlantic
+732,2010,13,Troy,28,14,Western Kentucky
+733,2010,13,Wisconsin,70,23,Northwestern
+734,2010,13,Arkansas,31,23,LSU
+735,2010,13,Florida State,31,7,Florida
+736,2010,13,Florida International,31,24,Arkansas State
+737,2010,13,Utah,17,16,BYU
+738,2010,13,Maryland,38,31,NC State
+739,2010,13,UL Monroe,22,23,Louisiana
+740,2010,13,North Texas,41,49,Kansas State
+741,2010,13,New Mexico,17,66,TCU
+742,2010,13,Clemson,7,29,South Carolina
+743,2010,13,Ole Miss,23,31,Mississippi State
+744,2010,13,Vanderbilt,13,34,Wake Forest
+745,2010,13,Stanford,38,0,Oregon State
+746,2010,13,Georgia,42,34,Georgia Tech
+747,2010,13,San Diego State,48,14,UNLV
+748,2010,13,Oklahoma State,41,47,Oklahoma
+749,2010,13,Texas Tech,35,20,Houston
+750,2010,13,San José State,38,45,Louisiana Tech
+751,2010,13,USC,16,20,Notre Dame
+752,2010,13,Fresno State,23,20,Idaho
+753,2010,14,Arizona,29,30,Arizona State
+754,2010,14,Miami (OH),26,21,Northern Illinois
+755,2010,14,Fresno State,25,23,Illinois
+756,2010,14,Cincinnati,10,28,Pittsburgh
+757,2010,14,West Virginia,35,14,Rutgers
+758,2010,14,UCF,17,7,SMU
+759,2010,14,Florida Atlantic,7,44,Troy
+760,2010,14,Boise State,50,14,Utah State
+761,2010,14,Louisiana Tech,17,35,Nevada
+762,2010,14,Oregon State,20,37,Oregon
+763,2010,14,South Carolina,17,56,Auburn
+764,2010,14,Idaho,26,23,San José State
+765,2010,14,Florida International,27,28,Middle Tennessee
+766,2010,14,Washington State,28,35,Washington
+767,2010,14,Virginia Tech,44,33,Florida State
+768,2010,14,Nebraska,20,23,Oklahoma
+769,2010,14,South Florida,16,19,UConn
+770,2010,14,Hawai'i,59,21,UNLV
+771,2010,14,UCLA,14,28,USC
+772,2010,15,Army,17,31,Navy
+773,2010,1,UTEP,24,52,BYU
+774,2010,1,Fresno State,17,40,Northern Illinois
+775,2010,1,Troy,48,21,Ohio
+776,2010,1,Louisville,31,28,Southern Miss
+777,2010,1,Boise State,26,3,Utah
+778,2010,1,San Diego State,35,14,Navy
+779,2010,1,Tulsa,62,35,Hawai'i
+780,2010,1,Toledo,32,34,Florida International
+781,2010,1,Georgia Tech,7,14,Air Force
+782,2010,1,NC State,23,7,West Virginia
+783,2010,1,Iowa,27,24,Missouri
+784,2010,1,Maryland,51,20,East Carolina
+785,2010,1,Baylor,14,38,Illinois
+786,2010,1,Arizona,10,36,Oklahoma State
+787,2010,1,SMU,14,16,Army
+788,2010,1,Syracuse,36,34,Kansas State
+789,2010,1,Tennessee,27,30,North Carolina
+790,2010,1,Washington,19,7,Nebraska
+791,2010,1,Clemson,26,31,South Florida
+792,2010,1,Miami,17,33,Notre Dame
+793,2010,1,UCF,10,6,Georgia
+794,2010,1,Florida State,26,17,South Carolina
+795,2010,1,Texas Tech,45,38,Northwestern
+796,2010,1,Penn State,24,37,Florida
+797,2010,1,Michigan State,7,49,Alabama
+798,2010,1,Michigan,14,52,Mississippi State
+799,2010,1,TCU,21,19,Wisconsin
+800,2010,1,Oklahoma,48,20,UConn
+801,2010,1,Virginia Tech,12,40,Stanford
+802,2010,1,Arkansas,26,31,Ohio State
+803,2010,1,Miami (OH),35,21,Middle Tennessee
+804,2010,1,Texas A&M,24,41,LSU
+805,2010,1,Kentucky,10,27,Pittsburgh
+806,2010,1,Boston College,13,20,Nevada
+807,2010,1,Oregon,19,22,Auburn

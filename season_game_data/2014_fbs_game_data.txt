@@ -1,0 +1,869 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2014,1,Georgia State,38,37,Abilene Christian
+1,2014,1,South Carolina,28,52,Texas A&M
+2,2014,1,Akron,41,0,Howard
+3,2014,1,Northern Illinois,55,3,Presbyterian
+4,2014,1,UL Monroe,17,10,Wake Forest
+5,2014,1,Minnesota,42,20,Eastern Illinois
+6,2014,1,Central Michigan,20,16,Chattanooga
+7,2014,1,Utah,56,14,Idaho State
+8,2014,1,New Mexico State,28,10,Cal Poly
+9,2014,1,Ole Miss,35,13,Boise State
+10,2014,1,Tulsa,38,31,Tulane
+11,2014,1,Washington State,38,41,Rutgers
+12,2014,1,San José State,42,10,North Dakota
+13,2014,1,Arizona State,45,14,Weber State
+14,2014,1,Vanderbilt,7,37,Temple
+15,2014,1,UConn,10,35,BYU
+16,2014,1,Michigan State,45,7,Jacksonville State
+17,2014,1,Western Kentucky,59,31,Bowling Green
+18,2014,1,Syracuse,27,26,Villanova
+19,2014,1,Colorado,17,31,Colorado State
+20,2014,1,Houston,7,27,UTSA
+21,2014,1,Arizona,58,13,UNLV
+22,2014,1,UCF,24,26,Penn State
+23,2014,1,Michigan,52,14,App State
+24,2014,1,UAB,48,10,Troy
+25,2014,1,Pittsburgh,62,0,Delaware
+26,2014,1,Virginia,20,28,UCLA
+27,2014,1,Navy,17,34,Ohio State
+28,2014,1,Purdue,43,34,Western Michigan
+29,2014,1,Iowa State,14,34,North Dakota State
+30,2014,1,Indiana,28,10,Indiana State
+31,2014,1,Illinois,28,17,Youngstown State
+32,2014,1,Kentucky,59,14,UT Martin
+33,2014,1,Iowa,31,23,Northern Iowa
+34,2014,1,Georgia Tech,38,19,Wofford
+35,2014,1,NC State,24,23,Georgia Southern
+36,2014,1,Air Force,44,16,Nicholls
+37,2014,1,Ball State,30,10,Colgate
+38,2014,1,Nevada,28,19,Southern Utah
+39,2014,1,Massachusetts,7,30,Boston College
+40,2014,1,Notre Dame,48,17,Rice
+41,2014,1,Nebraska,55,7,Florida Atlantic
+42,2014,1,Alabama,33,23,West Virginia
+43,2014,1,Maryland,52,7,James Madison
+44,2014,1,Miami (OH),27,42,Marshall
+45,2014,1,Northwestern,24,31,California
+46,2014,1,Old Dominion,41,28,Hampton
+47,2014,1,Missouri,38,18,South Dakota State
+48,2014,1,Buffalo,38,28,Duquesne
+49,2014,1,Oregon State,29,14,Portland State
+50,2014,1,Virginia Tech,34,9,William & Mary
+51,2014,1,Wyoming,17,12,Montana
+52,2014,1,Stanford,45,0,UC Davis
+53,2014,1,Auburn,45,21,Arkansas
+54,2014,1,Georgia,45,21,Clemson
+55,2014,1,Kent State,14,17,Ohio
+56,2014,1,North Carolina,56,29,Liberty
+57,2014,1,Eastern Michigan,31,28,Morgan State
+58,2014,1,Duke,52,13,Elon
+59,2014,1,Arkansas State,37,10,Montana State
+60,2014,1,Toledo,54,20,New Hampshire
+61,2014,1,Middle Tennessee,61,7,Savannah St
+62,2014,1,San Diego State,38,7,Northern Arizona
+63,2014,1,Memphis,63,0,Austin Peay
+64,2014,1,TCU,48,14,Samford
+65,2014,1,Texas Tech,42,35,Central Arkansas
+66,2014,1,Louisiana,45,6,Southern
+67,2014,1,Texas State,65,0,Arkansas-Pine Bluff
+68,2014,1,Florida International,12,14,Bethune-Cookman
+69,2014,1,South Florida,36,31,Western Carolina
+70,2014,1,Oklahoma,48,16,Louisiana Tech
+71,2014,1,Kansas State,55,16,Stephen F. Austin
+72,2014,1,Mississippi State,49,0,Southern Miss
+73,2014,1,USC,52,13,Fresno State
+74,2014,1,Oklahoma State,31,37,Florida State
+75,2014,1,Texas,38,7,North Texas
+76,2014,1,New Mexico,24,31,UTEP
+77,2014,1,East Carolina,52,7,North Carolina Central
+78,2014,1,LSU,28,24,Wisconsin
+79,2014,1,Hawai'i,16,17,Washington
+80,2014,1,Oregon,62,13,South Dakota
+81,2014,1,Tennessee,38,7,Utah State
+82,2014,1,Baylor,45,0,SMU
+83,2014,1,Louisville,31,13,Miami
+84,2014,2,UTSA,23,26,Arizona
+85,2014,2,Boston College,20,30,Pittsburgh
+86,2014,2,Nevada,24,13,Washington State
+87,2014,2,Penn State,21,3,Akron
+88,2014,2,North Texas,43,6,SMU
+89,2014,2,Nebraska,31,24,McNeese
+90,2014,2,Wisconsin,37,3,Western Illinois
+91,2014,2,Alabama,41,0,Florida Atlantic
+92,2014,2,UConn,19,16,Stony Brook
+93,2014,2,Purdue,17,38,Central Michigan
+94,2014,2,Army,47,39,Buffalo
+95,2014,2,Rutgers,38,25,Howard
+96,2014,2,Toledo,24,49,Missouri
+97,2014,2,Iowa State,28,32,Kansas State
+98,2014,2,Tennessee,34,19,Arkansas State
+99,2014,2,Illinois,42,34,Western Kentucky
+100,2014,2,Tulsa,7,52,Oklahoma
+101,2014,2,Clemson,73,7,South Carolina State
+102,2014,2,Temple,24,31,Navy
+103,2014,2,Kent State,13,23,South Alabama
+104,2014,2,Georgia State,31,34,New Mexico State
+105,2014,2,Mississippi State,47,34,UAB
+106,2014,2,Massachusetts,38,41,Colorado
+107,2014,2,Utah,59,27,Fresno State
+108,2014,2,California,55,14,Sacramento State
+109,2014,2,Washington,59,52,Eastern Washington
+110,2014,2,South Florida,17,24,Maryland
+111,2014,2,Oklahoma State,40,23,Missouri State
+112,2014,2,Bowling Green,48,7,VMI
+113,2014,2,Miami (OH),10,17,Eastern Kentucky
+114,2014,2,Minnesota,35,24,Middle Tennessee
+115,2014,2,Northwestern,15,23,Northern Illinois
+116,2014,2,Virginia,45,13,Richmond
+117,2014,2,Kentucky,20,3,Ohio
+118,2014,2,Iowa,17,13,Ball State
+119,2014,2,Stanford,10,13,USC
+120,2014,2,Tulane,21,38,Georgia Tech
+121,2014,2,Arkansas,73,7,Nicholls
+122,2014,2,Florida,65,0,Eastern Michigan
+123,2014,2,Vanderbilt,3,41,Ole Miss
+124,2014,2,Georgia Southern,83,9,Savannah St
+125,2014,2,App State,66,0,Campbell
+126,2014,2,Florida International,34,3,Wagner
+127,2014,2,NC State,46,34,Old Dominion
+128,2014,2,Wake Forest,23,7,Gardner-Webb
+129,2014,2,Oregon,46,27,Michigan State
+130,2014,2,Louisville,66,21,Murray State
+131,2014,2,Louisiana,20,48,Louisiana Tech
+132,2014,2,Southern Miss,26,20,Alcorn State
+133,2014,2,Kansas,34,28,Southeast Missouri State
+134,2014,2,Miami,41,7,Florida A&M
+135,2014,2,South Carolina,33,23,East Carolina
+136,2014,2,Auburn,59,13,San José State
+137,2014,2,Marshall,48,7,Rhode Island
+138,2014,2,Troy,17,34,Duke
+139,2014,2,New Mexico,23,58,Arizona State
+140,2014,2,UL Monroe,38,31,Idaho
+141,2014,2,Notre Dame,31,0,Michigan
+142,2014,2,LSU,56,0,Sam Houston
+143,2014,2,Florida State,37,12,The Citadel
+144,2014,2,Baylor,70,6,Northwestern State
+145,2014,2,Texas,7,41,BYU
+146,2014,2,West Virginia,54,0,Towson
+147,2014,2,Texas A&M,73,3,Lamar
+148,2014,2,Ohio State,21,35,Virginia Tech
+149,2014,2,North Carolina,31,27,San Diego State
+150,2014,2,Houston,47,0,Grambling
+151,2014,2,Utah State,40,20,Idaho State
+152,2014,2,UNLV,13,12,Northern Colorado
+153,2014,2,UCLA,42,35,Memphis
+154,2014,2,Wyoming,17,13,Air Force
+155,2014,2,Boise State,37,24,Colorado State
+156,2014,2,Hawai'i,30,38,Oregon State
+157,2014,2,UTEP,26,30,Texas Tech
+158,2014,3,North Texas,21,42,Louisiana Tech
+159,2014,3,BYU,33,25,Houston
+160,2014,3,Cincinnati,58,34,Toledo
+161,2014,3,Buffalo,21,63,Baylor
+162,2014,3,Georgia Tech,42,38,Georgia Southern
+163,2014,3,Vanderbilt,34,31,Massachusetts
+164,2014,3,Bowling Green,45,42,Indiana
+165,2014,3,Maryland,37,40,West Virginia
+166,2014,3,Ohio State,66,0,Kent State
+167,2014,3,Missouri,38,10,UCF
+168,2014,3,Virginia Tech,21,28,East Carolina
+169,2014,3,Florida International,25,42,Pittsburgh
+170,2014,3,Central Michigan,3,40,Syracuse
+171,2014,3,Marshall,44,14,Ohio
+172,2014,3,UConn,21,38,Boise State
+173,2014,3,Virginia,23,21,Louisville
+174,2014,3,Georgia State,38,48,Air Force
+175,2014,3,Oregon,48,14,Wyoming
+176,2014,3,Colorado State,49,21,UC Davis
+177,2014,3,Ball State,20,27,Indiana State
+178,2014,3,UAB,41,14,Alabama A&M
+179,2014,3,Michigan,34,10,Miami (OH)
+180,2014,3,South Carolina,38,35,Georgia
+181,2014,3,Miami,41,20,Arkansas State
+182,2014,3,Texas Tech,28,49,Arkansas
+183,2014,3,South Florida,17,49,NC State
+184,2014,3,Duke,41,3,Kansas
+185,2014,3,Iowa,17,20,Iowa State
+186,2014,3,Washington,44,19,Illinois
+187,2014,3,Ole Miss,56,15,Louisiana
+188,2014,3,TCU,30,7,Minnesota
+189,2014,3,South Alabama,3,35,Mississippi State
+190,2014,3,Idaho,33,45,Western Michigan
+191,2014,3,Stanford,35,0,Army
+192,2014,3,Alabama,52,12,Southern Miss
+193,2014,3,Old Dominion,17,3,Eastern Michigan
+194,2014,3,UNLV,34,48,Northern Illinois
+195,2014,3,Oklahoma State,43,13,UTSA
+196,2014,3,Utah State,36,24,Wake Forest
+197,2014,3,Middle Tennessee,50,47,Western Kentucky
+198,2014,3,LSU,31,0,UL Monroe
+199,2014,3,Troy,35,38,Abilene Christian
+200,2014,3,Florida Atlantic,50,21,Tulsa
+201,2014,3,Notre Dame,30,14,Purdue
+202,2014,3,Florida,36,30,Kentucky
+203,2014,3,UTEP,42,24,New Mexico State
+204,2014,3,Texas State,21,35,Navy
+205,2014,3,Rutgers,10,13,Penn State
+206,2014,3,Washington State,59,21,Portland State
+207,2014,3,Boston College,37,31,USC
+208,2014,3,Oklahoma,34,10,Tennessee
+209,2014,3,Tulane,35,20,SE Louisiana
+210,2014,3,Texas,17,20,UCLA
+211,2014,3,Texas A&M,38,10,Rice
+212,2014,3,Colorado,24,38,Arizona State
+213,2014,3,Fresno State,19,55,Nebraska
+214,2014,3,Arizona,35,28,Nevada
+215,2014,3,Hawai'i,27,24,Northern Iowa
+216,2014,4,Kansas State,14,20,Auburn
+217,2014,4,South Florida,17,14,UConn
+218,2014,4,Rice,42,45,Old Dominion
+219,2014,4,Michigan State,73,14,Eastern Michigan
+220,2014,4,Pittsburgh,20,24,Iowa
+221,2014,4,Georgia,66,0,Troy
+222,2014,4,Northwestern,24,7,Western Illinois
+223,2014,4,Purdue,35,13,Southern Illinois
+224,2014,4,Wisconsin,68,17,Bowling Green
+225,2014,4,Virginia Tech,24,27,Georgia Tech
+226,2014,4,Duke,47,13,Tulane
+227,2014,4,Syracuse,20,34,Maryland
+228,2014,4,Temple,59,0,Delaware State
+229,2014,4,Boston College,40,10,Maine
+230,2014,4,Colorado,21,12,Hawai'i
+231,2014,4,Akron,17,48,Marshall
+232,2014,4,North Texas,77,3,Nicholls
+233,2014,4,SMU,6,58,Texas A&M
+234,2014,4,Michigan,10,26,Utah
+235,2014,4,Alabama,42,21,Florida
+236,2014,4,BYU,41,33,Virginia
+237,2014,4,Florida International,3,34,Louisville
+238,2014,4,Kansas,24,10,Central Michigan
+239,2014,4,East Carolina,70,41,North Carolina
+240,2014,4,Navy,24,31,Rutgers
+241,2014,4,Buffalo,36,7,Norfolk State
+242,2014,4,Wake Forest,24,21,Army
+243,2014,4,Missouri,27,31,Indiana
+244,2014,4,Wyoming,20,19,Florida Atlantic
+245,2014,4,Penn State,48,7,Massachusetts
+246,2014,4,Illinois,42,35,Texas State
+247,2014,4,Minnesota,24,7,San José State
+248,2014,4,Washington,45,14,Georgia State
+249,2014,4,UCF,41,7,Bethune-Cookman
+250,2014,4,NC State,42,0,Presbyterian
+251,2014,4,Cincinnati,31,24,Miami (OH)
+252,2014,4,Ohio,36,24,Idaho
+253,2014,4,LSU,29,34,Mississippi State
+254,2014,4,Arkansas State,21,14,Utah State
+255,2014,4,Louisiana Tech,27,30,Northwestern State
+256,2014,4,Western Michigan,45,14,Murray State
+257,2014,4,Arkansas,52,14,Northern Illinois
+258,2014,4,Memphis,36,17,Middle Tennessee
+259,2014,4,Toledo,34,23,Ball State
+260,2014,4,Southern Miss,21,20,App State
+261,2014,4,South Alabama,6,28,Georgia Southern
+262,2014,4,West Virginia,33,45,Oklahoma
+263,2014,4,Vanderbilt,34,48,South Carolina
+264,2014,4,Nebraska,41,31,Miami
+265,2014,4,Houston,47,14,UNLV
+266,2014,4,New Mexico State,35,38,New Mexico
+267,2014,4,Florida State,23,17,Clemson
+268,2014,4,Fresno State,56,16,Southern Utah
+269,2014,4,Arizona,49,45,California
+270,2014,4,Washington State,31,38,Oregon
+271,2014,4,Oregon State,28,7,San Diego State
+272,2014,4,Boise State,34,9,Louisiana
+273,2014,5,Georgia Southern,34,14,App State
+274,2014,5,Oklahoma State,45,35,Texas Tech
+275,2014,5,Arizona State,27,62,UCLA
+276,2014,5,Old Dominion,28,41,Middle Tennessee
+277,2014,5,New Mexico,24,35,Fresno State
+278,2014,5,Kentucky,17,7,Vanderbilt
+279,2014,5,Wisconsin,27,10,South Florida
+280,2014,5,Michigan State,56,14,Wyoming
+281,2014,5,Georgia,35,32,Tennessee
+282,2014,5,Rutgers,31,6,Tulane
+283,2014,5,Purdue,10,24,Iowa
+284,2014,5,Penn State,6,29,Northwestern
+285,2014,5,SMU,0,56,TCU
+286,2014,5,Kansas State,58,28,UTEP
+287,2014,5,Virginia Tech,35,17,Western Michigan
+288,2014,5,Boston College,21,24,Colorado State
+289,2014,5,Yale,49,43,Army
+290,2014,5,Pittsburgh,10,21,Akron
+291,2014,5,Indiana,15,37,Maryland
+292,2014,5,Ohio,34,19,Eastern Illinois
+293,2014,5,Massachusetts,42,47,Bowling Green
+294,2014,5,UAB,20,34,Florida International
+295,2014,5,Louisville,20,10,Wake Forest
+296,2014,5,Buffalo,35,27,Miami (OH)
+297,2014,5,Texas A&M,35,28,Arkansas
+298,2014,5,Navy,27,36,Western Kentucky
+299,2014,5,Michigan,14,30,Minnesota
+300,2014,5,NC State,41,56,Florida State
+301,2014,5,Virginia,45,13,Kent State
+302,2014,5,California,59,56,Colorado
+303,2014,5,UConn,10,36,Temple
+304,2014,5,Auburn,45,17,Louisiana Tech
+305,2014,5,Kansas,0,23,Texas
+306,2014,5,Washington,13,20,Stanford
+307,2014,5,Idaho,10,34,South Alabama
+308,2014,5,Florida Atlantic,41,37,UTSA
+309,2014,5,Ohio State,50,28,Cincinnati
+310,2014,5,South Carolina,20,21,Missouri
+311,2014,5,Toledo,42,28,Central Michigan
+312,2014,5,UL Monroe,22,20,Troy
+313,2014,5,Air Force,28,14,Boise State
+314,2014,5,Clemson,50,35,North Carolina
+315,2014,5,Southern Miss,23,41,Rice
+316,2014,5,LSU,63,7,New Mexico State
+317,2014,5,Miami,22,10,Duke
+318,2014,5,Ole Miss,24,3,Memphis
+319,2014,5,Utah,27,28,Washington State
+320,2014,5,Tulsa,34,37,Texas State
+321,2014,5,San Diego State,34,17,UNLV
+322,2014,5,Syracuse,15,31,Notre Dame
+323,2014,5,Iowa State,28,49,Baylor
+324,2014,5,Nebraska,45,14,Illinois
+325,2014,5,San José State,10,21,Nevada
+326,2014,5,USC,35,10,Oregon State
+327,2014,6,Houston,12,17,UCF
+328,2014,6,Florida International,38,10,Florida Atlantic
+329,2014,6,Oregon,24,31,Arizona
+330,2014,6,Syracuse,6,28,Louisville
+331,2014,6,Fresno State,24,13,San Diego State
+332,2014,6,BYU,20,35,Utah State
+333,2014,6,Mississippi State,48,31,Texas A&M
+334,2014,6,Tennessee,9,10,Florida
+335,2014,6,Old Dominion,14,56,Marshall
+336,2014,6,East Carolina,45,24,SMU
+337,2014,6,Middle Tennessee,37,31,Southern Miss
+338,2014,6,Army,33,24,Ball State
+339,2014,6,Illinois,27,38,Purdue
+340,2014,6,Oklahoma State,37,20,Iowa State
+341,2014,6,Maryland,24,52,Ohio State
+342,2014,6,North Carolina,17,34,Virginia Tech
+343,2014,6,Akron,31,6,Eastern Michigan
+344,2014,6,Miami (OH),42,41,Massachusetts
+345,2014,6,Indiana,49,24,North Texas
+346,2014,6,Colorado State,42,17,Tulsa
+347,2014,6,Bowling Green,36,35,Buffalo
+348,2014,6,Central Michigan,28,10,Ohio
+349,2014,6,Northwestern,20,14,Wisconsin
+350,2014,6,Florida State,43,3,Wake Forest
+351,2014,6,Notre Dame,17,14,Stanford
+352,2014,6,Ole Miss,23,17,Alabama
+353,2014,6,Texas,7,28,Baylor
+354,2014,6,TCU,37,33,Oklahoma
+355,2014,6,UTSA,9,21,New Mexico
+356,2014,6,Clemson,41,0,NC State
+357,2014,6,Air Force,30,21,Navy
+358,2014,6,West Virginia,33,14,Kansas
+359,2014,6,Colorado,31,36,Oregon State
+360,2014,6,Georgia,44,17,Vanderbilt
+361,2014,6,Northern Illinois,17,14,Kent State
+362,2014,6,App State,21,47,South Alabama
+363,2014,6,Western Michigan,19,20,Toledo
+364,2014,6,Western Kentucky,39,42,UAB
+365,2014,6,Rice,28,14,Hawai'i
+366,2014,6,Louisiana,34,31,Georgia State
+367,2014,6,Arkansas State,28,14,UL Monroe
+368,2014,6,Cincinnati,14,41,Memphis
+369,2014,6,Kansas State,45,13,Texas Tech
+370,2014,6,Louisiana Tech,55,3,UTEP
+371,2014,6,Rutgers,26,24,Michigan
+372,2014,6,Texas State,35,30,Idaho
+373,2014,6,Auburn,41,7,LSU
+374,2014,6,Virginia,24,19,Pittsburgh
+375,2014,6,Georgia Tech,28,17,Miami
+376,2014,6,USC,34,38,Arizona State
+377,2014,6,Kentucky,45,38,South Carolina
+378,2014,6,Michigan State,27,22,Nebraska
+379,2014,6,San José State,33,10,UNLV
+380,2014,6,New Mexico State,28,36,Georgia Southern
+381,2014,6,UCLA,28,30,Utah
+382,2014,6,Washington State,59,60,California
+383,2014,6,Nevada,46,51,Boise State
+384,2014,7,UCF,31,24,BYU
+385,2014,7,Stanford,34,17,Washington State
+386,2014,7,New Mexico,14,24,San Diego State
+387,2014,7,UNLV,30,27,Fresno State
+388,2014,7,Oklahoma,31,26,Texas
+389,2014,7,Iowa,45,29,Indiana
+390,2014,7,Syracuse,20,38,Florida State
+391,2014,7,Miami,55,34,Cincinnati
+392,2014,7,Minnesota,24,17,Northwestern
+393,2014,7,Temple,35,24,Tulsa
+394,2014,7,Texas Tech,34,37,West Virginia
+395,2014,7,Army,21,41,Rice
+396,2014,7,Kentucky,48,14,UL Monroe
+397,2014,7,Wisconsin,38,28,Illinois
+398,2014,7,Marshall,49,24,Middle Tennessee
+399,2014,7,Missouri,0,34,Georgia
+400,2014,7,Georgia Tech,25,31,Duke
+401,2014,7,Eastern Michigan,37,27,Buffalo
+402,2014,7,Ohio,13,31,Bowling Green
+403,2014,7,Akron,29,19,Miami (OH)
+404,2014,7,Georgia State,10,52,Arkansas State
+405,2014,7,Kent State,17,40,Massachusetts
+406,2014,7,Ball State,38,42,Western Michigan
+407,2014,7,Troy,41,24,New Mexico State
+408,2014,7,Notre Dame,50,43,North Carolina
+409,2014,7,Navy,51,14,VMI
+410,2014,7,UAB,56,21,North Texas
+411,2014,7,NC State,14,30,Boston College
+412,2014,7,Mississippi State,38,23,Auburn
+413,2014,7,UCLA,30,42,Oregon
+414,2014,7,App State,48,55,Liberty
+415,2014,7,Iowa State,37,30,Toledo
+416,2014,7,Clemson,23,17,Louisville
+417,2014,7,Baylor,61,58,TCU
+418,2014,7,Purdue,31,45,Michigan State
+419,2014,7,Kansas,20,27,Oklahoma State
+420,2014,7,Tennessee,45,10,Chattanooga
+421,2014,7,Northern Illinois,17,34,Central Michigan
+422,2014,7,Arkansas,13,14,Alabama
+423,2014,7,Georgia Southern,47,24,Idaho
+424,2014,7,California,7,31,Washington
+425,2014,7,South Florida,17,28,East Carolina
+426,2014,7,Michigan,18,13,Penn State
+427,2014,7,Memphis,24,28,Houston
+428,2014,7,UTSA,16,13,Florida International
+429,2014,7,Florida,27,30,LSU
+430,2014,7,Vanderbilt,21,20,Charleston Southern
+431,2014,7,Tulane,12,3,UConn
+432,2014,7,UTEP,42,35,Old Dominion
+433,2014,7,Texas A&M,20,35,Ole Miss
+434,2014,7,Utah State,34,16,Air Force
+435,2014,7,Arizona,26,28,USC
+436,2014,7,Nevada,24,31,Colorado State
+437,2014,7,Hawai'i,38,28,Wyoming
+438,2014,8,Texas State,10,34,Louisiana
+439,2014,8,Pittsburgh,21,16,Virginia Tech
+440,2014,8,Oregon State,23,29,Utah
+441,2014,8,Boise State,37,27,Fresno State
+442,2014,8,Houston,31,10,Temple
+443,2014,8,Minnesota,39,38,Purdue
+444,2014,8,Oklahoma,30,31,Kansas State
+445,2014,8,UCF,20,13,Tulane
+446,2014,8,Florida Atlantic,45,38,Western Kentucky
+447,2014,8,Louisiana Tech,27,20,UTSA
+448,2014,8,Wake Forest,7,30,Syracuse
+449,2014,8,Maryland,38,31,Iowa
+450,2014,8,Tulsa,30,38,South Florida
+451,2014,8,South Carolina,41,10,Furman
+452,2014,8,West Virginia,41,27,Baylor
+453,2014,8,Duke,20,13,Virginia
+454,2014,8,Ohio,23,20,Akron
+455,2014,8,Bowling Green,14,26,Western Michigan
+456,2014,8,Massachusetts,36,14,Eastern Michigan
+457,2014,8,Troy,14,53,App State
+458,2014,8,Central Michigan,29,32,Ball State
+459,2014,8,Texas Tech,34,21,Kansas
+460,2014,8,Kent State,39,17,Army
+461,2014,8,Ohio State,56,17,Rutgers
+462,2014,8,Alabama,59,0,Texas A&M
+463,2014,8,California,34,36,UCLA
+464,2014,8,Boston College,13,17,Clemson
+465,2014,8,Louisville,30,18,NC State
+466,2014,8,Air Force,35,31,New Mexico
+467,2014,8,Middle Tennessee,34,22,UAB
+468,2014,8,SMU,3,41,Cincinnati
+469,2014,8,Indiana,17,56,Michigan State
+470,2014,8,Wyoming,20,27,San José State
+471,2014,8,Arkansas,32,45,Georgia
+472,2014,8,TCU,42,9,Oklahoma State
+473,2014,8,Idaho,29,17,New Mexico State
+474,2014,8,Northern Illinois,51,41,Miami (OH)
+475,2014,8,USC,56,28,Colorado
+476,2014,8,Florida International,13,45,Marshall
+477,2014,8,Colorado State,16,13,Utah State
+478,2014,8,North Texas,20,30,Southern Miss
+479,2014,8,Florida,13,42,Missouri
+480,2014,8,North Carolina,48,43,Georgia Tech
+481,2014,8,Ole Miss,34,3,Tennessee
+482,2014,8,South Alabama,30,27,Georgia State
+483,2014,8,LSU,41,3,Kentucky
+484,2014,8,Northwestern,17,38,Nebraska
+485,2014,8,Oregon,45,20,Washington
+486,2014,8,Florida State,31,27,Notre Dame
+487,2014,8,Texas,48,45,Iowa State
+488,2014,8,BYU,35,42,Nevada
+489,2014,8,San Diego State,20,10,Hawai'i
+490,2014,8,Arizona State,26,10,Stanford
+491,2014,9,Louisiana,55,40,Arkansas State
+492,2014,9,East Carolina,31,21,UConn
+493,2014,9,Virginia Tech,6,30,Miami
+494,2014,9,Cincinnati,34,17,South Florida
+495,2014,9,South Alabama,27,13,Troy
+496,2014,9,Boise State,55,30,BYU
+497,2014,9,California,41,59,Oregon
+498,2014,9,Rice,41,21,North Texas
+499,2014,9,Kansas State,23,0,Texas
+500,2014,9,SMU,10,48,Memphis
+501,2014,9,Illinois,28,24,Minnesota
+502,2014,9,Wisconsin,52,7,Maryland
+503,2014,9,Nebraska,42,24,Rutgers
+504,2014,9,Arkansas,45,17,UAB
+505,2014,9,Virginia,27,28,North Carolina
+506,2014,9,Navy,41,31,San José State
+507,2014,9,Eastern Michigan,17,28,Northern Illinois
+508,2014,9,Toledo,42,35,Massachusetts
+509,2014,9,Western Michigan,42,21,Ohio
+510,2014,9,Ball State,35,21,Akron
+511,2014,9,Colorado,37,40,UCLA
+512,2014,9,Georgia State,31,69,Georgia Southern
+513,2014,9,Miami (OH),10,3,Kent State
+514,2014,9,Oklahoma State,10,34,West Virginia
+515,2014,9,Wake Forest,17,23,Boston College
+516,2014,9,Michigan State,35,11,Michigan
+517,2014,9,Kentucky,31,45,Mississippi State
+518,2014,9,Southern Miss,20,31,Louisiana Tech
+519,2014,9,Buffalo,14,20,Central Michigan
+520,2014,9,Pittsburgh,28,56,Georgia Tech
+521,2014,9,Marshall,35,16,Florida Atlantic
+522,2014,9,TCU,82,27,Texas Tech
+523,2014,9,Stanford,38,14,Oregon State
+524,2014,9,Utah State,34,20,UNLV
+525,2014,9,Western Kentucky,66,51,Old Dominion
+526,2014,9,Missouri,24,14,Vanderbilt
+527,2014,9,UCF,34,14,Temple
+528,2014,9,Washington State,37,59,Arizona
+529,2014,9,Clemson,16,6,Syracuse
+530,2014,9,UTSA,0,34,UTEP
+531,2014,9,Colorado State,45,31,Wyoming
+532,2014,9,UL Monroe,18,22,Texas State
+533,2014,9,LSU,10,7,Ole Miss
+534,2014,9,Tennessee,20,34,Alabama
+535,2014,9,Auburn,42,35,South Carolina
+536,2014,9,Penn State,24,31,Ohio State
+537,2014,9,Utah,24,21,USC
+538,2014,9,Washington,10,24,Arizona State
+539,2014,9,Hawai'i,18,26,Nevada
+540,2014,10,Georgia Southern,42,10,Troy
+541,2014,10,Louisville,31,42,Florida State
+542,2014,10,Memphis,40,20,Tulsa
+543,2014,10,Tulane,14,38,Cincinnati
+544,2014,10,Army,6,23,Air Force
+545,2014,10,Penn State,19,20,Maryland
+546,2014,10,Rutgers,0,37,Wisconsin
+547,2014,10,Pittsburgh,48,51,Duke
+548,2014,10,Iowa State,14,59,Oklahoma
+549,2014,10,Texas A&M,21,16,UL Monroe
+550,2014,10,UConn,37,29,UCF
+551,2014,10,Iowa,48,7,Northwestern
+552,2014,10,Temple,20,10,East Carolina
+553,2014,10,Florida International,17,31,Rice
+554,2014,10,Miami,47,20,North Carolina
+555,2014,10,Virginia Tech,31,33,Boston College
+556,2014,10,Eastern Michigan,7,38,Central Michigan
+557,2014,10,Colorado,23,38,Washington
+558,2014,10,Miami (OH),10,41,Western Michigan
+559,2014,10,Syracuse,17,24,NC State
+560,2014,10,Louisiana Tech,59,10,Western Kentucky
+561,2014,10,Michigan,34,10,Indiana
+562,2014,10,Georgia Tech,35,10,Virginia
+563,2014,10,App State,44,0,Georgia State
+564,2014,10,Georgia,20,38,Florida
+565,2014,10,Middle Tennessee,7,27,BYU
+566,2014,10,Nebraska,35,14,Purdue
+567,2014,10,West Virginia,30,31,TCU
+568,2014,10,Missouri,20,10,Kentucky
+569,2014,10,Baylor,60,14,Kansas
+570,2014,10,South Florida,3,27,Houston
+571,2014,10,New Mexico State,29,37,Texas State
+572,2014,10,Washington State,17,44,USC
+573,2014,10,Idaho,28,44,Arkansas State
+574,2014,10,Louisiana,19,9,South Alabama
+575,2014,10,UNLV,28,31,New Mexico
+576,2014,10,Vanderbilt,42,28,Old Dominion
+577,2014,10,San José State,31,38,Colorado State
+578,2014,10,Florida Atlantic,28,31,UAB
+579,2014,10,Ole Miss,31,35,Auburn
+580,2014,10,Mississippi State,17,10,Arkansas
+581,2014,10,South Carolina,42,45,Tennessee
+582,2014,10,Texas Tech,13,34,Texas
+583,2014,10,Oregon,45,16,Stanford
+584,2014,10,Kansas State,48,14,Oklahoma State
+585,2014,10,Navy,39,49,Notre Dame
+586,2014,10,Ohio State,55,14,Illinois
+587,2014,10,UTEP,35,14,Southern Miss
+588,2014,10,UCLA,17,7,Arizona
+589,2014,10,Oregon State,31,45,California
+590,2014,10,Nevada,30,14,San Diego State
+591,2014,10,Fresno State,17,45,Wyoming
+592,2014,10,Arizona State,19,16,Utah
+593,2014,10,Hawai'i,14,35,Utah State
+594,2014,11,Kent State,20,30,Toledo
+595,2014,11,Akron,10,27,Bowling Green
+596,2014,11,Ohio,37,14,Buffalo
+597,2014,11,Ball State,21,35,Northern Illinois
+598,2014,11,Wake Forest,20,34,Clemson
+599,2014,11,Temple,13,16,Memphis
+600,2014,11,Wyoming,3,20,Utah State
+601,2014,11,Rice,17,7,UTSA
+602,2014,11,Kentucky,31,63,Georgia
+603,2014,11,Oklahoma,14,48,Baylor
+604,2014,11,Indiana,7,13,Penn State
+605,2014,11,UAB,24,40,Louisiana Tech
+606,2014,11,Minnesota,51,14,Iowa
+607,2014,11,Ole Miss,48,0,Presbyterian
+608,2014,11,Tulsa,38,28,SMU
+609,2014,11,Purdue,16,34,Wisconsin
+610,2014,11,Syracuse,10,27,Duke
+611,2014,11,NC State,23,56,Georgia Tech
+612,2014,11,Troy,45,21,Georgia State
+613,2014,11,Arkansas State,45,10,South Alabama
+614,2014,11,Houston,24,31,Tulane
+615,2014,11,Army,35,21,UConn
+616,2014,11,Texas,33,16,West Virginia
+617,2014,11,App State,31,29,UL Monroe
+618,2014,11,Northwestern,9,10,Michigan
+619,2014,11,Old Dominion,38,35,Florida International
+620,2014,11,Auburn,38,41,Texas A&M
+621,2014,11,Arizona State,55,31,Notre Dame
+622,2014,11,Kansas,34,14,Iowa State
+623,2014,11,Oregon State,32,39,Washington State
+624,2014,11,Mississippi State,45,16,UT Martin
+625,2014,11,Texas State,25,28,Georgia Southern
+626,2014,11,Western Kentucky,35,27,UTEP
+627,2014,11,UNLV,21,48,Air Force
+628,2014,11,San Diego State,35,21,Idaho
+629,2014,11,Florida State,34,20,Virginia
+630,2014,11,New Mexico,49,60,Boise State
+631,2014,11,Southern Miss,17,63,Marshall
+632,2014,11,Washington,30,44,UCLA
+633,2014,11,Colorado State,49,22,Hawai'i
+634,2014,11,North Texas,31,10,Florida Atlantic
+635,2014,11,Boston College,19,38,Louisville
+636,2014,11,TCU,41,20,Kansas State
+637,2014,11,Vanderbilt,10,34,Florida
+638,2014,11,Michigan State,37,49,Ohio State
+639,2014,11,Arizona,38,20,Colorado
+640,2014,11,New Mexico State,16,44,Louisiana
+641,2014,11,LSU,13,20,Alabama
+642,2014,11,Utah,27,51,Oregon
+643,2014,11,Fresno State,38,24,San José State
+644,2014,12,Buffalo,55,24,Akron
+645,2014,12,Northern Illinois,27,24,Toledo
+646,2014,12,Bowling Green,30,20,Kent State
+647,2014,12,Massachusetts,24,10,Ball State
+648,2014,12,Cincinnati,54,46,East Carolina
+649,2014,12,UTSA,12,10,Southern Miss
+650,2014,12,USC,38,30,California
+651,2014,12,UCF,31,7,Tulsa
+652,2014,12,Duke,16,17,Virginia Tech
+653,2014,12,Illinois,14,30,Iowa
+654,2014,12,Penn State,30,13,Temple
+655,2014,12,Florida,20,23,South Carolina
+656,2014,12,Georgia Tech,28,6,Clemson
+657,2014,12,Western Kentucky,52,24,Army
+658,2014,12,Minnesota,24,31,Ohio State
+659,2014,12,North Carolina,40,35,Pittsburgh
+660,2014,12,Central Michigan,34,27,Miami (OH)
+661,2014,12,Air Force,45,38,Nevada
+662,2014,12,Western Michigan,51,7,Eastern Michigan
+663,2014,12,Marshall,41,14,Rice
+664,2014,12,NC State,42,13,Wake Forest
+665,2014,12,Kansas,30,34,TCU
+666,2014,12,Arkansas State,32,37,App State
+667,2014,12,Texas Tech,30,42,Oklahoma
+668,2014,12,Navy,52,19,Georgia Southern
+669,2014,12,Tulane,7,38,Memphis
+670,2014,12,Wisconsin,59,24,Nebraska
+671,2014,12,Rutgers,45,23,Indiana
+672,2014,12,Arizona,27,26,Washington
+673,2014,12,Florida International,38,28,Middle Tennessee
+674,2014,12,Notre Dame,40,43,Northwestern
+675,2014,12,Alabama,25,20,Mississippi State
+676,2014,12,Tennessee,50,16,Kentucky
+677,2014,12,Utah State,28,21,New Mexico
+678,2014,12,San José State,0,13,Hawai'i
+679,2014,12,Idaho,17,34,Troy
+680,2014,12,Stanford,17,20,Utah
+681,2014,12,UL Monroe,27,34,Louisiana
+682,2014,12,BYU,42,23,UNLV
+683,2014,12,Georgia,34,7,Auburn
+684,2014,12,Texas A&M,27,34,Missouri
+685,2014,12,Oklahoma State,7,28,Texas
+686,2014,12,South Alabama,24,20,Texas State
+687,2014,12,SMU,13,14,South Florida
+688,2014,12,Arkansas,17,0,LSU
+689,2014,12,Miami,26,30,Florida State
+690,2014,12,Maryland,15,37,Michigan State
+691,2014,12,UTEP,35,17,North Texas
+692,2014,12,Boise State,38,29,San Diego State
+693,2014,12,Oregon State,35,27,Arizona State
+694,2014,13,Akron,30,6,Massachusetts
+695,2014,13,Ohio,14,21,Northern Illinois
+696,2014,13,Toledo,27,20,Bowling Green
+697,2014,13,West Virginia,20,26,Kansas State
+698,2014,13,Duke,20,45,North Carolina
+699,2014,13,Texas State,45,27,Arkansas State
+700,2014,13,Rice,31,13,UTEP
+701,2014,13,San Diego State,30,14,Air Force
+702,2014,13,Utah State,41,7,San José State
+703,2014,13,UAB,18,23,Marshall
+704,2014,13,Western Kentucky,45,7,UTSA
+705,2014,13,Army,42,31,Fordham
+706,2014,13,Ohio State,42,27,Indiana
+707,2014,13,Purdue,14,38,Northwestern
+708,2014,13,Florida,52,3,Eastern Kentucky
+709,2014,13,Nebraska,24,28,Minnesota
+710,2014,13,Georgia,55,9,Charleston Southern
+711,2014,13,Houston,38,28,Tulsa
+712,2014,13,South Carolina,37,12,South Alabama
+713,2014,13,Illinois,16,14,Penn State
+714,2014,13,UCF,53,7,SMU
+715,2014,13,Michigan State,45,3,Rutgers
+716,2014,13,Wake Forest,6,3,Virginia Tech
+717,2014,13,Old Dominion,30,27,Louisiana Tech
+718,2014,13,Arizona State,52,31,Washington State
+719,2014,13,Central Michigan,20,32,Western Michigan
+720,2014,13,Oklahoma,44,7,Kansas
+721,2014,13,Colorado State,58,20,New Mexico
+722,2014,13,Louisiana,16,35,App State
+723,2014,13,Ball State,45,30,Eastern Michigan
+724,2014,13,BYU,64,0,Savannah St
+725,2014,13,Iowa State,31,34,Texas Tech
+726,2014,13,Pittsburgh,30,7,Syracuse
+727,2014,13,Michigan,16,23,Maryland
+728,2014,13,Florida State,20,17,Boston College
+729,2014,13,Iowa,24,26,Wisconsin
+730,2014,13,Clemson,28,0,Georgia State
+731,2014,13,East Carolina,34,6,Tulane
+732,2014,13,Notre Dame,28,31,Louisville
+733,2014,13,Arkansas,30,0,Ole Miss
+734,2014,13,Utah,10,42,Arizona
+735,2014,13,North Texas,17,14,Florida International
+736,2014,13,California,17,38,Stanford
+737,2014,13,Alabama,48,14,Western Carolina
+738,2014,13,New Mexico State,17,30,UL Monroe
+739,2014,13,Memphis,31,20,South Florida
+740,2014,13,Oregon,44,10,Colorado
+741,2014,13,Auburn,31,7,Samford
+742,2014,13,Middle Tennessee,35,34,Florida Atlantic
+743,2014,13,Virginia,30,13,Miami
+744,2014,13,Baylor,49,28,Oklahoma State
+745,2014,13,Tennessee,21,29,Missouri
+746,2014,13,Mississippi State,51,0,Vanderbilt
+747,2014,13,UConn,0,41,Cincinnati
+748,2014,13,UCLA,38,20,USC
+749,2014,13,Wyoming,14,63,Boise State
+750,2014,13,Nevada,20,40,Fresno State
+751,2014,13,Washington,37,13,Oregon State
+752,2014,13,Hawai'i,37,35,UNLV
+753,2014,14,Miami (OH),21,24,Ohio
+754,2014,14,Texas,10,48,TCU
+755,2014,14,Texas A&M,17,23,LSU
+756,2014,14,Western Michigan,21,31,Northern Illinois
+757,2014,14,Marshall,66,67,Western Kentucky
+758,2014,14,SMU,9,35,Houston
+759,2014,14,South Florida,0,16,UCF
+760,2014,14,Iowa,34,37,Nebraska
+761,2014,14,Bowling Green,24,41,Ball State
+762,2014,14,Eastern Michigan,16,52,Toledo
+763,2014,14,Kent State,27,24,Akron
+764,2014,14,Massachusetts,21,41,Buffalo
+765,2014,14,Missouri,21,14,Arkansas
+766,2014,14,South Alabama,40,42,Navy
+767,2014,14,Air Force,27,24,Colorado State
+768,2014,14,UCLA,10,31,Stanford
+769,2014,14,Arizona,42,35,Arizona State
+770,2014,14,Virginia Tech,24,20,Virginia
+771,2014,14,Tulsa,32,49,East Carolina
+772,2014,14,Temple,6,14,Cincinnati
+773,2014,14,Louisiana Tech,76,31,Rice
+774,2014,14,Florida Atlantic,28,31,Old Dominion
+775,2014,14,Northwestern,33,47,Illinois
+776,2014,14,Ohio State,42,28,Michigan
+777,2014,14,UTSA,34,27,North Texas
+778,2014,14,Louisville,44,40,Kentucky
+779,2014,14,Georgia,24,30,Georgia Tech
+780,2014,14,Iowa State,24,37,West Virginia
+781,2014,14,Indiana,23,16,Purdue
+782,2014,14,Clemson,35,17,South Carolina
+783,2014,14,Troy,23,42,Louisiana
+784,2014,14,North Carolina,7,35,NC State
+785,2014,14,Boston College,28,7,Syracuse
+786,2014,14,Colorado,34,38,Utah
+787,2014,14,Georgia State,31,54,Texas State
+788,2014,14,App State,45,28,Idaho
+789,2014,14,Arkansas State,68,35,New Mexico State
+790,2014,14,New Mexico,36,30,Wyoming
+791,2014,14,Wisconsin,34,24,Minnesota
+792,2014,14,USC,49,14,Notre Dame
+793,2014,14,Maryland,38,41,Rutgers
+794,2014,14,Penn State,10,34,Michigan State
+795,2014,14,Southern Miss,24,45,UAB
+796,2014,14,Florida State,24,19,Florida
+797,2014,14,San Diego State,38,7,San José State
+798,2014,14,Ole Miss,31,17,Mississippi State
+799,2014,14,Texas Tech,46,48,Baylor
+800,2014,14,Vanderbilt,17,24,Tennessee
+801,2014,14,Kansas State,51,13,Kansas
+802,2014,14,Memphis,41,10,UConn
+803,2014,14,California,35,42,BYU
+804,2014,14,Georgia Southern,22,16,UL Monroe
+805,2014,14,Duke,41,21,Wake Forest
+806,2014,14,Miami,23,35,Pittsburgh
+807,2014,14,UTEP,24,21,Middle Tennessee
+808,2014,14,Fresno State,28,21,Hawai'i
+809,2014,14,Alabama,55,44,Auburn
+810,2014,14,Oregon State,19,47,Oregon
+811,2014,14,Boise State,50,19,Utah State
+812,2014,14,UNLV,27,49,Nevada
+813,2014,14,Washington State,13,31,Washington
+814,2014,15,East Carolina,30,32,UCF
+815,2014,15,Bowling Green,17,51,Northern Illinois
+816,2014,15,Oregon,51,13,Arizona
+817,2014,15,Cincinnati,38,31,Houston
+818,2014,15,UConn,20,27,SMU
+819,2014,15,Marshall,26,23,Louisiana Tech
+820,2014,15,TCU,55,3,Iowa State
+821,2014,15,Oklahoma,35,38,Oklahoma State
+822,2014,15,Missouri,13,42,Alabama
+823,2014,15,Tulane,3,10,Temple
+824,2014,15,Baylor,38,27,Kansas State
+825,2014,15,Georgia Tech,35,37,Florida State
+826,2014,15,Ohio State,59,0,Wisconsin
+827,2014,15,Boise State,28,14,Fresno State
+828,2014,16,Army,10,17,Navy
+829,2014,1,Louisiana,16,3,Nevada
+830,2014,1,UTEP,6,21,Utah State
+831,2014,1,Colorado State,10,45,Utah
+832,2014,1,Air Force,38,24,Western Michigan
+833,2014,1,Bowling Green,33,28,South Alabama
+834,2014,1,Memphis,55,48,BYU
+835,2014,1,Northern Illinois,23,52,Marshall
+836,2014,1,San Diego State,16,17,Navy
+837,2014,1,Western Kentucky,49,48,Central Michigan
+838,2014,1,Rice,30,6,Fresno State
+839,2014,1,Louisiana Tech,35,18,Illinois
+840,2014,1,North Carolina,21,40,Rutgers
+841,2014,1,UCF,27,34,NC State
+842,2014,1,Virginia Tech,33,17,Cincinnati
+843,2014,1,Duke,31,36,Arizona State
+844,2014,1,South Carolina,24,21,Miami
+845,2014,1,Penn State,31,30,Boston College
+846,2014,1,USC,45,42,Nebraska
+847,2014,1,West Virginia,37,45,Texas A&M
+848,2014,1,Clemson,40,6,Oklahoma
+849,2014,1,Texas,7,31,Arkansas
+850,2014,1,LSU,28,31,Notre Dame
+851,2014,1,Louisville,14,37,Georgia
+852,2014,1,Stanford,45,21,Maryland
+853,2014,1,TCU,42,3,Ole Miss
+854,2014,1,Arizona,30,38,Boise State
+855,2014,1,Georgia Tech,49,34,Mississippi State
+856,2014,1,Wisconsin,34,31,Auburn
+857,2014,1,Baylor,41,42,Michigan State
+858,2014,1,Minnesota,17,33,Missouri
+859,2014,1,Florida State,20,59,Oregon
+860,2014,1,Ohio State,42,35,Alabama
+861,2014,1,Pittsburgh,34,35,Houston
+862,2014,1,Tennessee,45,28,Iowa
+863,2014,1,UCLA,40,35,Kansas State
+864,2014,1,Oklahoma State,30,22,Washington
+865,2014,1,Florida,28,20,East Carolina
+866,2014,1,Arkansas State,44,63,Toledo
+867,2014,1,Ohio State,42,20,Oregon

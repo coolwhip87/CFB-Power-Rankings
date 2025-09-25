@@ -1,0 +1,874 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2016,1,California,51,31,Hawai'i
+1,2016,1,UConn,24,21,Maine
+2,2016,1,Louisville,70,14,Charlotte
+3,2016,1,Central Michigan,49,3,Presbyterian
+4,2016,1,Wake Forest,7,3,Tulane
+5,2016,1,Cincinnati,28,7,UT Martin
+6,2016,1,Tennessee,20,13,App State
+7,2016,1,NC State,48,14,William & Mary
+8,2016,1,Florida International,13,34,Indiana
+9,2016,1,Utah State,45,6,Weber State
+10,2016,1,Utah,24,0,Southern Utah
+11,2016,1,Western Kentucky,46,14,Rice
+12,2016,1,Vanderbilt,10,13,South Carolina
+13,2016,1,New Mexico,48,21,South Dakota
+14,2016,1,Idaho,20,17,Montana State
+15,2016,1,Minnesota,30,23,Oregon State
+16,2016,1,UNLV,63,13,Jackson State
+17,2016,1,Eastern Michigan,61,14,Mississippi Valley State
+18,2016,1,Michigan State,28,13,Furman
+19,2016,1,Buffalo,16,22,UAlbany
+20,2016,1,Syracuse,33,7,Colgate
+21,2016,1,Temple,13,28,Army
+22,2016,1,Georgia State,21,31,Ball State
+23,2016,1,Baylor,55,7,Northwestern State
+24,2016,1,Colorado,44,7,Colorado State
+25,2016,1,Stanford,26,13,Kansas State
+26,2016,1,Arkansas State,10,31,Toledo
+27,2016,1,Nevada,30,27,Cal Poly
+28,2016,1,Boston College,14,17,Georgia Tech
+29,2016,1,Northwestern,21,22,Western Michigan
+30,2016,1,Purdue,45,24,Eastern Kentucky
+31,2016,1,Mississippi State,20,21,South Alabama
+32,2016,1,Maryland,52,13,Howard
+33,2016,1,West Virginia,26,11,Missouri
+34,2016,1,Louisiana,10,45,Boise State
+35,2016,1,Ohio State,77,10,Bowling Green
+36,2016,1,Navy,52,16,Fordham
+37,2016,1,Michigan,63,3,Hawai'i
+38,2016,1,Houston,33,23,Oklahoma
+39,2016,1,Virginia Tech,36,13,Liberty
+40,2016,1,Pittsburgh,28,7,Villanova
+41,2016,1,Washington,48,13,Rutgers
+42,2016,1,Air Force,37,21,Abilene Christian
+43,2016,1,Texas A&M,31,24,UCLA
+44,2016,1,Iowa,45,21,Miami (OH)
+45,2016,1,Oklahoma State,61,7,SE Louisiana
+46,2016,1,Ohio,54,56,Texas State
+47,2016,1,Penn State,33,13,Kent State
+48,2016,1,Virginia,20,37,Richmond
+49,2016,1,Illinois,52,3,Murray State
+50,2016,1,Wisconsin,16,14,LSU
+51,2016,1,Arkansas,21,20,Louisiana Tech
+52,2016,1,Oregon,53,28,UC Davis
+53,2016,1,North Carolina,24,33,Georgia
+54,2016,1,Georgia Southern,54,0,Savannah St
+55,2016,1,Duke,49,6,North Carolina Central
+56,2016,1,Florida Atlantic,38,30,Southern Illinois
+57,2016,1,East Carolina,52,7,Western Carolina
+58,2016,1,Troy,57,17,Austin Peay
+59,2016,1,Miami,70,3,Florida A&M
+60,2016,1,Akron,47,24,VMI
+61,2016,1,Tulsa,45,10,San José State
+62,2016,1,Memphis,35,17,Southeast Missouri State
+63,2016,1,South Florida,56,20,Towson
+64,2016,1,Kansas,55,6,Rhode Island
+65,2016,1,UCF,38,0,South Carolina State
+66,2016,1,UTSA,26,13,Alabama State
+67,2016,1,Middle Tennessee,55,0,Alabama A&M
+68,2016,1,UL Monroe,38,21,Southern
+69,2016,1,North Texas,21,34,SMU
+70,2016,1,Florida,24,7,Massachusetts
+71,2016,1,Kentucky,35,44,Southern Miss
+72,2016,1,Alabama,52,6,USC
+73,2016,1,Nebraska,43,10,Fresno State
+74,2016,1,UTEP,38,22,New Mexico State
+75,2016,1,Washington State,42,45,Eastern Washington
+76,2016,1,Texas Tech,69,17,Stephen F. Austin
+77,2016,1,Iowa State,20,25,Northern Iowa
+78,2016,1,TCU,59,41,South Dakota State
+79,2016,1,San Diego State,31,0,New Hampshire
+80,2016,1,Auburn,13,19,Clemson
+81,2016,1,Wyoming,40,34,Northern Illinois
+82,2016,1,Arizona,16,18,BYU
+83,2016,1,Arizona State,44,13,Northern Arizona
+84,2016,1,Old Dominion,54,21,Hampton
+85,2016,1,Texas,50,47,Notre Dame
+86,2016,1,Florida State,45,34,Ole Miss
+87,2016,2,Florida International,14,41,Maryland
+88,2016,2,Syracuse,28,62,Louisville
+89,2016,2,Georgia,26,24,Nicholls
+90,2016,2,Texas A&M,67,0,Prairie View A&M
+91,2016,2,Rutgers,52,14,Howard
+92,2016,2,Purdue,20,38,Cincinnati
+93,2016,2,Oklahoma State,27,30,Central Michigan
+94,2016,2,Nebraska,52,17,Wyoming
+95,2016,2,Army,31,14,Rice
+96,2016,2,Minnesota,58,28,Indiana State
+97,2016,2,Houston,42,0,Lamar
+98,2016,2,Pittsburgh,42,39,Penn State
+99,2016,2,Massachusetts,7,26,Boston College
+100,2016,2,East Carolina,33,30,NC State
+101,2016,2,Michigan,51,14,UCF
+102,2016,2,Florida State,52,8,Charleston Southern
+103,2016,2,Clemson,30,24,Troy
+104,2016,2,Temple,38,0,Stony Brook
+105,2016,2,USC,45,7,Utah State
+106,2016,2,Air Force,48,14,Georgia State
+107,2016,2,West Virginia,38,21,Youngstown State
+108,2016,2,Kansas,21,37,Ohio
+109,2016,2,Georgia Tech,35,10,Mercer
+110,2016,2,Baylor,40,13,SMU
+111,2016,2,Alabama,38,10,Western Kentucky
+112,2016,2,Navy,28,24,UConn
+113,2016,2,Florida,45,7,Kentucky
+114,2016,2,Northwestern,7,9,Illinois State
+115,2016,2,Bowling Green,27,26,North Dakota
+116,2016,2,Ohio State,48,3,Tulsa
+117,2016,2,Notre Dame,39,10,Nevada
+118,2016,2,App State,31,7,Old Dominion
+119,2016,2,Wisconsin,54,10,Akron
+120,2016,2,Duke,14,24,Wake Forest
+121,2016,2,Colorado State,23,14,UTSA
+122,2016,2,Indiana,30,20,Ball State
+123,2016,2,Ole Miss,38,13,Wofford
+124,2016,2,Vanderbilt,47,24,Middle Tennessee
+125,2016,2,Miami (OH),17,21,Eastern Illinois
+126,2016,2,San José State,66,35,Portland State
+127,2016,2,Washington,59,14,Idaho
+128,2016,2,Colorado,56,7,Idaho State
+129,2016,2,Miami,38,10,Florida Atlantic
+130,2016,2,Marshall,62,0,Morgan State
+131,2016,2,Charlotte,47,14,Elon
+132,2016,2,Kent State,36,39,North Carolina A&T
+133,2016,2,Toledo,45,3,Maine
+134,2016,2,Western Michigan,70,21,North Carolina Central
+135,2016,2,Louisiana Tech,53,24,South Carolina State
+136,2016,2,North Texas,41,20,Bethune-Cookman
+137,2016,2,Louisiana,30,22,McNeese
+138,2016,2,Mississippi State,27,14,South Carolina
+139,2016,2,TCU,38,41,Arkansas
+140,2016,2,Texas,41,7,UTEP
+141,2016,2,South Alabama,9,24,Georgia Southern
+142,2016,2,Southern Miss,56,0,Savannah St
+143,2016,2,South Florida,48,17,Northern Illinois
+144,2016,2,Oklahoma,59,17,UL Monroe
+145,2016,2,Missouri,61,21,Eastern Michigan
+146,2016,2,Iowa,42,3,Iowa State
+147,2016,2,Utah,20,19,BYU
+148,2016,2,LSU,34,13,Jacksonville State
+149,2016,2,Illinois,23,48,North Carolina
+150,2016,2,Auburn,51,14,Arkansas State
+151,2016,2,UCLA,42,21,UNLV
+152,2016,2,Tennessee,45,24,Virginia Tech
+153,2016,2,Tulane,66,21,Southern
+154,2016,2,New Mexico State,32,31,New Mexico
+155,2016,2,Fresno State,31,3,Sacramento State
+156,2016,2,Arizona State,68,55,Texas Tech
+157,2016,2,Boise State,31,28,Washington State
+158,2016,2,San Diego State,45,40,California
+159,2016,2,Oregon,44,26,Virginia
+160,2016,2,Arizona,31,21,Grambling
+161,2016,2,Hawai'i,41,36,UT Martin
+162,2016,3,Cincinnati,16,40,Houston
+163,2016,3,Rice,10,38,Baylor
+164,2016,3,Utah State,34,20,Arkansas State
+165,2016,3,UTSA,28,32,Arizona State
+166,2016,3,Bowling Green,21,41,Middle Tennessee
+167,2016,3,Louisville,63,20,Florida State
+168,2016,3,Penn State,34,27,Temple
+169,2016,3,Memphis,43,7,Kansas
+170,2016,3,App State,10,45,Miami
+171,2016,3,Marshall,38,65,Akron
+172,2016,3,Clemson,59,0,South Carolina State
+173,2016,3,Wisconsin,23,17,Georgia State
+174,2016,3,TCU,41,20,Iowa State
+175,2016,3,Rutgers,37,28,New Mexico
+176,2016,3,Tennessee,28,19,Ohio
+177,2016,3,Iowa,21,23,North Dakota State
+178,2016,3,Georgia Tech,38,7,Vanderbilt
+179,2016,3,UConn,13,10,Virginia
+180,2016,3,Washington State,56,6,Idaho
+181,2016,3,Tulsa,58,21,North Carolina A&T
+182,2016,3,Kansas State,63,7,Florida Atlantic
+183,2016,3,Ball State,41,14,Eastern Kentucky
+184,2016,3,Toledo,52,17,Fresno State
+185,2016,3,Central Michigan,44,21,UNLV
+186,2016,3,Nebraska,35,32,Oregon
+187,2016,3,Syracuse,20,45,South Florida
+188,2016,3,Miami (OH),24,31,Western Kentucky
+189,2016,3,Virginia Tech,49,0,Boston College
+190,2016,3,Massachusetts,21,13,Florida International
+191,2016,3,North Carolina,56,28,James Madison
+192,2016,3,Michigan,45,28,Colorado
+193,2016,3,Northern Illinois,28,42,San Diego State
+194,2016,3,Ole Miss,43,48,Alabama
+195,2016,3,Oklahoma State,45,38,Pittsburgh
+196,2016,3,Kent State,27,7,Monmouth
+197,2016,3,Colorado State,47,21,Northern Colorado
+198,2016,3,South Carolina,20,15,East Carolina
+199,2016,3,Wyoming,45,22,UC Davis
+200,2016,3,Illinois,10,34,Western Michigan
+201,2016,3,Kentucky,62,42,New Mexico State
+202,2016,3,Oregon State,37,7,Idaho State
+203,2016,3,Georgia Southern,23,21,UL Monroe
+204,2016,3,NC State,49,22,Old Dominion
+205,2016,3,Charlotte,19,37,Eastern Michigan
+206,2016,3,Wake Forest,38,21,Delaware
+207,2016,3,UTEP,14,66,Army
+208,2016,3,Texas Tech,59,45,Louisiana Tech
+209,2016,3,Southern Miss,31,37,Troy
+210,2016,3,SMU,29,14,Liberty
+211,2016,3,Auburn,16,29,Texas A&M
+212,2016,3,UCF,24,30,Maryland
+213,2016,3,Tulane,14,21,Navy
+214,2016,3,Louisiana,28,23,South Alabama
+215,2016,3,LSU,23,20,Mississippi State
+216,2016,3,Oklahoma,24,45,Ohio State
+217,2016,3,Notre Dame,28,36,Michigan State
+218,2016,3,Florida,32,0,North Texas
+219,2016,3,Arkansas,42,3,Texas State
+220,2016,3,Missouri,27,28,Georgia
+221,2016,3,Northwestern,24,13,Duke
+222,2016,3,Stanford,27,10,USC
+223,2016,3,Washington,41,3,Portland State
+224,2016,3,Nevada,38,14,Buffalo
+225,2016,3,BYU,14,17,UCLA
+226,2016,3,California,50,43,Texas
+227,2016,3,San José State,17,34,Utah
+228,2016,3,Arizona,47,28,Hawai'i
+229,2016,4,Georgia Tech,7,26,Clemson
+230,2016,4,Eastern Michigan,27,24,Wyoming
+231,2016,4,SMU,3,33,TCU
+232,2016,4,Utah,31,27,USC
+233,2016,4,Minnesota,31,24,Colorado State
+234,2016,4,Rutgers,7,14,Iowa
+235,2016,4,Purdue,24,14,Nevada
+236,2016,4,South Florida,35,55,Florida State
+237,2016,4,Alabama,48,0,Kent State
+238,2016,4,Michigan State,6,30,Wisconsin
+239,2016,4,Ole Miss,45,14,Georgia
+240,2016,4,Temple,48,20,Charlotte
+241,2016,4,Iowa State,44,10,San José State
+242,2016,4,Virginia,49,35,Central Michigan
+243,2016,4,Virginia Tech,54,17,East Carolina
+244,2016,4,UConn,24,31,Syracuse
+245,2016,4,Boston College,42,10,Wagner
+246,2016,4,Ohio,37,21,Gardner-Webb
+247,2016,4,Massachusetts,35,47,Mississippi State
+248,2016,4,Old Dominion,33,19,UTSA
+249,2016,4,Akron,38,45,App State
+250,2016,4,Oregon State,24,38,Boise State
+251,2016,4,Michigan,49,10,Penn State
+252,2016,4,Cincinnati,27,20,Miami (OH)
+253,2016,4,Indiana,28,33,Wake Forest
+254,2016,4,Notre Dame,35,38,Duke
+255,2016,4,Tennessee,38,28,Florida
+256,2016,4,West Virginia,35,32,BYU
+257,2016,4,Northern Illinois,23,28,Western Illinois
+258,2016,4,North Carolina,37,36,Pittsburgh
+259,2016,4,Missouri,79,0,Delaware State
+260,2016,4,Fresno State,41,48,Tulsa
+261,2016,4,Western Kentucky,30,31,Vanderbilt
+262,2016,4,Oregon,38,41,Colorado
+263,2016,4,Rice,35,42,North Texas
+264,2016,4,Auburn,18,13,LSU
+265,2016,4,Florida Atlantic,27,31,Ball State
+266,2016,4,Troy,52,6,New Mexico State
+267,2016,4,South Alabama,41,40,Nicholls
+268,2016,4,Western Michigan,49,31,Georgia Southern
+269,2016,4,Texas State,3,64,Houston
+270,2016,4,Middle Tennessee,38,34,Louisiana Tech
+271,2016,4,Buffalo,23,20,Army
+272,2016,4,Florida International,14,53,UCF
+273,2016,4,Arkansas State,23,28,Central Arkansas
+274,2016,4,Kansas State,35,0,Missouri State
+275,2016,4,Kentucky,17,10,South Carolina
+276,2016,4,Baylor,35,24,Oklahoma State
+277,2016,4,Northwestern,13,24,Nebraska
+278,2016,4,Tulane,41,39,Louisiana
+279,2016,4,Marshall,28,59,Louisville
+280,2016,4,UCLA,13,22,Stanford
+281,2016,4,UTEP,7,34,Southern Miss
+282,2016,4,Memphis,77,3,Bowling Green
+283,2016,4,UNLV,30,33,Idaho
+284,2016,4,Texas A&M,45,24,Arkansas
+285,2016,4,Arizona State,51,41,California
+286,2016,4,Utah State,20,27,Air Force
+287,2016,4,Arizona,28,35,Washington
+288,2016,5,Houston,42,14,UConn
+289,2016,5,Texas Tech,55,19,Kansas
+290,2016,5,Washington,44,6,Stanford
+291,2016,5,BYU,55,53,Toledo
+292,2016,5,Oklahoma State,49,31,Texas
+293,2016,5,Iowa,31,38,Northwestern
+294,2016,5,Syracuse,33,50,Notre Dame
+295,2016,5,Ohio State,58,0,Rutgers
+296,2016,5,Iowa State,42,45,Baylor
+297,2016,5,Temple,45,20,SMU
+298,2016,5,Georgia Tech,21,35,Miami
+299,2016,5,Vanderbilt,6,13,Florida
+300,2016,5,App State,17,3,Georgia State
+301,2016,5,Arkansas,52,10,Alcorn State
+302,2016,5,East Carolina,29,47,UCF
+303,2016,5,Duke,20,34,Virginia
+304,2016,5,Boston College,35,3,Buffalo
+305,2016,5,Miami (OH),7,17,Ohio
+306,2016,5,Colorado,47,6,Oregon State
+307,2016,5,Bowling Green,25,28,Eastern Michigan
+308,2016,5,NC State,33,16,Wake Forest
+309,2016,5,Michigan,14,7,Wisconsin
+310,2016,5,Florida State,35,37,North Carolina
+311,2016,5,West Virginia,17,16,Kansas State
+312,2016,5,Massachusetts,24,31,Tulane
+313,2016,5,Auburn,58,7,UL Monroe
+314,2016,5,Maryland,50,7,Purdue
+315,2016,5,Air Force,28,14,Navy
+316,2016,5,Ball State,24,31,Northern Illinois
+317,2016,5,Georgia,31,34,Tennessee
+318,2016,5,Nebraska,31,16,Illinois
+319,2016,5,Kent State,27,31,Akron
+320,2016,5,Penn State,29,26,Minnesota
+321,2016,5,South Carolina,13,24,Texas A&M
+322,2016,5,New Mexico,48,41,San José State
+323,2016,5,Idaho,13,34,Troy
+324,2016,5,TCU,46,52,Oklahoma
+325,2016,5,Charlotte,17,52,Old Dominion
+326,2016,5,California,28,23,Utah
+327,2016,5,Ole Miss,48,28,Memphis
+328,2016,5,Alabama,34,6,Kentucky
+329,2016,5,North Texas,13,30,Middle Tennessee
+330,2016,5,Cincinnati,20,45,South Florida
+331,2016,5,Louisiana Tech,28,7,UTEP
+332,2016,5,Western Kentucky,50,3,Houston Christian
+333,2016,5,Central Michigan,10,49,Western Michigan
+334,2016,5,Florida International,33,31,Florida Atlantic
+335,2016,5,Southern Miss,44,28,Rice
+336,2016,5,Texas State,48,17,Incarnate Word
+337,2016,5,LSU,42,7,Missouri
+338,2016,5,Pittsburgh,43,27,Marshall
+339,2016,5,Clemson,42,36,Louisville
+340,2016,5,South Alabama,42,24,San Diego State
+341,2016,5,Indiana,24,21,Michigan State
+342,2016,5,New Mexico State,37,31,Louisiana
+343,2016,5,USC,41,20,Arizona State
+344,2016,5,Washington State,51,33,Oregon
+345,2016,5,Boise State,21,10,Utah State
+346,2016,5,Colorado State,17,38,Wyoming
+347,2016,5,UCLA,45,24,Arizona
+348,2016,5,UNLV,45,20,Fresno State
+349,2016,5,Hawai'i,38,17,Nevada
+350,2016,6,Arkansas State,27,26,Georgia Southern
+351,2016,6,Louisiana Tech,55,52,Western Kentucky
+352,2016,6,Memphis,34,27,Temple
+353,2016,6,Boston College,10,56,Clemson
+354,2016,6,Old Dominion,36,16,Massachusetts
+355,2016,6,Tulsa,43,40,SMU
+356,2016,6,New Mexico,21,49,Boise State
+357,2016,6,UConn,20,9,Cincinnati
+358,2016,6,Minnesota,7,14,Iowa
+359,2016,6,South Florida,38,22,East Carolina
+360,2016,6,Mississippi State,14,38,Auburn
+361,2016,6,Penn State,38,14,Maryland
+362,2016,6,NC State,10,3,Notre Dame
+363,2016,6,Oklahoma,45,40,Texas
+364,2016,6,UTSA,55,32,Southern Miss
+365,2016,6,Kansas,23,24,TCU
+366,2016,6,Pittsburgh,37,34,Georgia Tech
+367,2016,6,Ohio,30,24,Bowling Green
+368,2016,6,Navy,46,40,Houston
+369,2016,6,Akron,35,13,Miami (OH)
+370,2016,6,Eastern Michigan,20,35,Toledo
+371,2016,6,Illinois,31,34,Purdue
+372,2016,6,Georgia State,41,21,Texas State
+373,2016,6,Texas A&M,45,38,Tennessee
+374,2016,6,Michigan State,14,31,BYU
+375,2016,6,North Carolina,3,34,Virginia Tech
+376,2016,6,Ohio State,38,17,Indiana
+377,2016,6,Wyoming,35,26,Air Force
+378,2016,6,Buffalo,20,44,Kent State
+379,2016,6,Oklahoma State,38,31,Iowa State
+380,2016,6,Central Michigan,24,21,Ball State
+381,2016,6,Duke,13,6,Army
+382,2016,6,Kentucky,20,13,Vanderbilt
+383,2016,6,USC,21,17,Colorado
+384,2016,6,San José State,17,34,Hawai'i
+385,2016,6,Western Michigan,45,30,Northern Illinois
+386,2016,6,Wake Forest,28,9,Syracuse
+387,2016,6,North Texas,38,21,Marshall
+388,2016,6,Kansas State,44,38,Texas Tech
+389,2016,6,Rutgers,0,78,Michigan
+390,2016,6,Arkansas,30,49,Alabama
+391,2016,6,UL Monroe,31,34,Idaho
+392,2016,6,Nevada,27,22,Fresno State
+393,2016,6,Oregon,21,70,Washington
+394,2016,6,Miami,19,20,Florida State
+395,2016,6,UTEP,21,35,Florida International
+396,2016,6,Oregon State,47,44,California
+397,2016,6,Utah,36,23,Arizona
+398,2016,6,Colorado State,31,24,Utah State
+399,2016,6,San Diego State,26,7,UNLV
+400,2016,6,Arizona State,23,20,UCLA
+401,2016,6,Stanford,16,42,Washington State
+402,2016,6,Florida Atlantic,23,28,Charlotte
+403,2016,6,South Carolina,14,28,Georgia
+404,2016,7,Louisiana,0,24,App State
+405,2016,7,Louisville,24,14,Duke
+406,2016,7,Tulane,14,24,Memphis
+407,2016,7,Fresno State,3,17,San Diego State
+408,2016,7,BYU,28,21,Mississippi State
+409,2016,7,Maryland,10,31,Minnesota
+410,2016,7,Oklahoma,38,17,Kansas State
+411,2016,7,Clemson,24,17,NC State
+412,2016,7,Georgia,16,17,Vanderbilt
+413,2016,7,Rutgers,7,24,Illinois
+414,2016,7,Texas Tech,17,48,West Virginia
+415,2016,7,Army,62,7,Lafayette
+416,2016,7,Purdue,35,49,Iowa
+417,2016,7,Virginia,31,45,Pittsburgh
+418,2016,7,Georgia Tech,35,24,Georgia Southern
+419,2016,7,Ohio,20,27,Eastern Michigan
+420,2016,7,Middle Tennessee,43,44,Western Kentucky
+421,2016,7,Miami (OH),18,14,Kent State
+422,2016,7,Michigan State,40,54,Northwestern
+423,2016,7,Air Force,40,45,New Mexico
+424,2016,7,Tennessee,10,49,Alabama
+425,2016,7,Miami,13,20,North Carolina
+426,2016,7,Buffalo,21,31,Ball State
+427,2016,7,Northern Illinois,28,34,Central Michigan
+428,2016,7,Toledo,42,35,Bowling Green
+429,2016,7,Akron,0,41,Western Michigan
+430,2016,7,Massachusetts,28,56,Louisiana Tech
+431,2016,7,Arizona,14,48,USC
+432,2016,7,Indiana,22,27,Nebraska
+433,2016,7,Florida State,17,6,Wake Forest
+434,2016,7,Troy,31,21,Georgia State
+435,2016,7,Baylor,49,7,Kansas
+436,2016,7,Syracuse,31,17,Virginia Tech
+437,2016,7,Oregon State,14,19,Utah
+438,2016,7,Florida,40,14,Missouri
+439,2016,7,Idaho,55,23,New Mexico State
+440,2016,7,Charlotte,26,27,Florida International
+441,2016,7,Arkansas State,17,7,South Alabama
+442,2016,7,Houston,38,31,Tulsa
+443,2016,7,UL Monroe,40,34,Texas State
+444,2016,7,South Florida,42,27,UConn
+445,2016,7,Texas,27,6,Iowa State
+446,2016,7,Arkansas,34,30,Ole Miss
+447,2016,7,Marshall,27,21,Florida Atlantic
+448,2016,7,Rice,13,14,UTSA
+449,2016,7,Notre Dame,10,17,Stanford
+450,2016,7,UCF,25,26,Temple
+451,2016,7,LSU,45,10,Southern Miss
+452,2016,7,Colorado,40,16,Arizona State
+453,2016,7,Wisconsin,23,30,Ohio State
+454,2016,7,Boise State,28,23,Colorado State
+455,2016,7,San José State,14,10,Nevada
+456,2016,7,Washington State,27,21,UCLA
+457,2016,7,Hawai'i,38,41,UNLV
+458,2016,8,Virginia Tech,37,16,Miami
+459,2016,8,South Alabama,21,28,Troy
+460,2016,8,Boise State,28,27,BYU
+461,2016,8,Temple,46,30,South Florida
+462,2016,8,California,52,49,Oregon
+463,2016,8,San Diego State,42,3,San José State
+464,2016,8,Army,18,35,North Texas
+465,2016,8,Bowling Green,26,40,Miami (OH)
+466,2016,8,South Carolina,34,28,Massachusetts
+467,2016,8,Toledo,31,17,Central Michigan
+468,2016,8,Kansas,20,44,Oklahoma State
+469,2016,8,UConn,16,24,UCF
+470,2016,8,Minnesota,34,32,Rutgers
+471,2016,8,Northwestern,24,14,Indiana
+472,2016,8,Louisville,54,13,NC State
+473,2016,8,Iowa,9,17,Wisconsin
+474,2016,8,Kansas State,24,21,Texas
+475,2016,8,Boston College,20,28,Syracuse
+476,2016,8,Kent State,10,14,Ohio
+477,2016,8,Air Force,27,34,Hawai'i
+478,2016,8,Stanford,5,10,Colorado
+479,2016,8,Virginia,14,35,North Carolina
+480,2016,8,Ball State,25,35,Akron
+481,2016,8,Western Michigan,45,31,Eastern Michigan
+482,2016,8,App State,37,19,Idaho
+483,2016,8,West Virginia,34,10,TCU
+484,2016,8,Northern Illinois,44,7,Buffalo
+485,2016,8,Nebraska,27,14,Purdue
+486,2016,8,Michigan,41,8,Illinois
+487,2016,8,Navy,42,28,Memphis
+488,2016,8,Rice,65,44,Prairie View A&M
+489,2016,8,Georgia State,31,6,UT Martin
+490,2016,8,Alabama,33,14,Texas A&M
+491,2016,8,Tulsa,50,27,Tulane
+492,2016,8,Missouri,45,51,Middle Tennessee
+493,2016,8,UCLA,45,52,Utah
+494,2016,8,UNLV,23,42,Colorado State
+495,2016,8,Marshall,24,27,Charlotte
+496,2016,8,Auburn,56,3,Arkansas
+497,2016,8,Washington,41,17,Oregon State
+498,2016,8,Cincinnati,31,19,East Carolina
+499,2016,8,UTSA,49,52,UTEP
+500,2016,8,Texas State,3,27,Louisiana
+501,2016,8,Western Kentucky,59,24,Old Dominion
+502,2016,8,Florida International,24,44,Louisiana Tech
+503,2016,8,SMU,38,16,Houston
+504,2016,8,Kentucky,40,38,Mississippi State
+505,2016,8,Maryland,28,17,Michigan State
+506,2016,8,Vanderbilt,35,17,Tennessee State
+507,2016,8,Texas Tech,59,66,Oklahoma
+508,2016,8,New Mexico State,19,22,Georgia Southern
+509,2016,8,Penn State,24,21,Ohio State
+510,2016,8,New Mexico,59,17,UL Monroe
+511,2016,8,LSU,38,21,Ole Miss
+512,2016,8,Arizona State,32,37,Washington State
+513,2016,8,Utah State,38,20,Fresno State
+514,2016,8,Nevada,34,42,Wyoming
+515,2016,9,Pittsburgh,36,39,Virginia Tech
+516,2016,9,Toledo,26,31,Ohio
+517,2016,9,Georgia Southern,10,34,App State
+518,2016,9,Buffalo,41,20,Akron
+519,2016,9,USC,45,24,California
+520,2016,9,South Florida,52,45,Navy
+521,2016,9,Utah State,13,40,San Diego State
+522,2016,9,Fresno State,21,31,Air Force
+523,2016,9,Illinois,17,40,Minnesota
+524,2016,9,East Carolina,41,3,UConn
+525,2016,9,Iowa State,26,31,Kansas State
+526,2016,9,Central Michigan,24,27,Kent State
+527,2016,9,Houston,31,24,UCF
+528,2016,9,Oklahoma State,37,20,West Virginia
+529,2016,9,Purdue,24,62,Penn State
+530,2016,9,Missouri,21,35,Kentucky
+531,2016,9,Michigan State,23,32,Michigan
+532,2016,9,Georgia Tech,38,35,Duke
+533,2016,9,Virginia,25,32,Louisville
+534,2016,9,Massachusetts,34,10,Wagner
+535,2016,9,NC State,14,21,Boston College
+536,2016,9,Eastern Michigan,15,28,Miami (OH)
+537,2016,9,Utah,24,31,Washington
+538,2016,9,Temple,34,13,Cincinnati
+539,2016,9,Georgia,10,24,Florida
+540,2016,9,Texas,35,34,Baylor
+541,2016,9,Florida Atlantic,3,52,Western Kentucky
+542,2016,9,Ohio State,24,20,Northwestern
+543,2016,9,Wake Forest,13,21,Army
+544,2016,9,Notre Dame,30,27,Miami
+545,2016,9,Indiana,42,36,Maryland
+546,2016,9,Mississippi State,56,41,Samford
+547,2016,9,TCU,24,27,Texas Tech
+548,2016,9,Tulane,31,35,SMU
+549,2016,9,South Alabama,13,10,Georgia State
+550,2016,9,Oregon,54,35,Arizona State
+551,2016,9,Wisconsin,23,17,Nebraska
+552,2016,9,UTSA,31,17,North Texas
+553,2016,9,Florida International,35,42,Middle Tennessee
+554,2016,9,Southern Miss,24,14,Marshall
+555,2016,9,Wyoming,30,28,Boise State
+556,2016,9,Oklahoma,56,3,Kansas
+557,2016,9,Arkansas State,51,10,UL Monroe
+558,2016,9,Louisiana Tech,61,16,Rice
+559,2016,9,South Carolina,24,21,Tennessee
+560,2016,9,Ole Miss,29,40,Auburn
+561,2016,9,Texas A&M,52,10,New Mexico State
+562,2016,9,UTEP,21,31,Old Dominion
+563,2016,9,Florida State,34,37,Clemson
+564,2016,9,Memphis,30,59,Tulsa
+565,2016,9,San José State,30,24,UNLV
+566,2016,9,Oregon State,31,35,Washington State
+567,2016,9,Arizona,10,34,Stanford
+568,2016,9,Hawai'i,21,28,New Mexico
+569,2016,10,Ball State,20,52,Western Michigan
+570,2016,10,Northern Illinois,45,20,Bowling Green
+571,2016,10,Akron,17,48,Toledo
+572,2016,10,Ohio,34,10,Buffalo
+573,2016,10,Iowa State,24,34,Oklahoma
+574,2016,10,Georgia State,16,31,Arkansas State
+575,2016,10,Colorado,20,10,UCLA
+576,2016,10,Miami (OH),37,17,Central Michigan
+577,2016,10,UConn,0,21,Temple
+578,2016,10,Boise State,45,31,San José State
+579,2016,10,Navy,28,27,Notre Dame
+580,2016,10,Illinois,31,27,Michigan State
+581,2016,10,Boston College,7,52,Louisville
+582,2016,10,Army,12,31,Air Force
+583,2016,10,Ole Miss,37,27,Georgia Southern
+584,2016,10,Mississippi State,35,28,Texas A&M
+585,2016,10,Northwestern,7,21,Wisconsin
+586,2016,10,Rutgers,27,33,Indiana
+587,2016,10,Texas Tech,37,45,Texas
+588,2016,10,Auburn,23,16,Vanderbilt
+589,2016,10,Miami,51,28,Pittsburgh
+590,2016,10,North Carolina,48,20,Georgia Tech
+591,2016,10,Middle Tennessee,25,45,UTSA
+592,2016,10,Wake Forest,27,20,Virginia
+593,2016,10,Rice,25,42,Florida Atlantic
+594,2016,10,Southern Miss,27,38,Charlotte
+595,2016,10,App State,35,10,Texas State
+596,2016,10,Baylor,22,62,TCU
+597,2016,10,Troy,52,31,Massachusetts
+598,2016,10,Duke,21,24,Virginia Tech
+599,2016,10,Colorado State,37,0,Fresno State
+600,2016,10,Clemson,54,0,Syracuse
+601,2016,10,Arkansas,31,10,Florida
+602,2016,10,Cincinnati,3,20,BYU
+603,2016,10,Michigan,59,3,Maryland
+604,2016,10,Stanford,26,15,Oregon State
+605,2016,10,Minnesota,44,31,Purdue
+606,2016,10,Kansas State,37,43,Oklahoma State
+607,2016,10,Washington State,69,7,Arizona
+608,2016,10,South Carolina,31,21,Missouri
+609,2016,10,SMU,7,51,Memphis
+610,2016,10,Tennessee,55,0,Tennessee Tech
+611,2016,10,UCF,37,6,Tulane
+612,2016,10,UL Monroe,42,35,South Alabama
+613,2016,10,Louisiana,13,23,Idaho
+614,2016,10,Western Kentucky,49,21,Florida International
+615,2016,10,North Texas,24,45,Louisiana Tech
+616,2016,10,San Diego State,55,0,Hawai'i
+617,2016,10,USC,45,20,Oregon
+618,2016,10,West Virginia,48,21,Kansas
+619,2016,10,NC State,20,24,Florida State
+620,2016,10,Old Dominion,38,14,Marshall
+621,2016,10,Kentucky,24,27,Georgia
+622,2016,10,Penn State,41,14,Iowa
+623,2016,10,Ohio State,62,3,Nebraska
+624,2016,10,Tulsa,45,24,East Carolina
+625,2016,10,UTEP,42,10,Houston Christian
+626,2016,10,LSU,0,10,Alabama
+627,2016,10,Wyoming,52,28,Utah State
+628,2016,10,New Mexico,35,26,Nevada
+629,2016,10,California,27,66,Washington
+630,2016,11,Ball State,41,48,Eastern Michigan
+631,2016,11,Kent State,21,37,Western Michigan
+632,2016,11,Akron,28,38,Bowling Green
+633,2016,11,Northern Illinois,24,31,Toledo
+634,2016,11,Georgia Southern,26,33,Louisiana
+635,2016,11,Duke,28,27,North Carolina
+636,2016,11,Arizona State,26,49,Utah
+637,2016,11,Florida State,45,7,Boston College
+638,2016,11,East Carolina,31,55,SMU
+639,2016,11,Kansas,24,31,Iowa State
+640,2016,11,Texas,20,24,West Virginia
+641,2016,11,Tennessee,49,36,Kentucky
+642,2016,11,Michigan State,49,0,Rutgers
+643,2016,11,Indiana,31,45,Penn State
+644,2016,11,Florida,20,7,South Carolina
+645,2016,11,UCF,24,3,Cincinnati
+646,2016,11,Alabama,51,3,Mississippi State
+647,2016,11,Navy,42,40,Tulsa
+648,2016,11,Oklahoma,45,24,Baylor
+649,2016,11,Purdue,17,45,Northwestern
+650,2016,11,Syracuse,20,35,NC State
+651,2016,11,Buffalo,24,35,Miami (OH)
+652,2016,11,Charlotte,21,22,Rice
+653,2016,11,Georgia State,23,37,UL Monroe
+654,2016,11,Virginia,14,34,Miami
+655,2016,11,Arkansas State,41,22,New Mexico State
+656,2016,11,BYU,37,7,Southern Utah
+657,2016,11,Troy,28,24,App State
+658,2016,11,UNLV,69,66,Wyoming
+659,2016,11,Louisiana Tech,63,35,UTSA
+660,2016,11,Western Kentucky,45,7,North Texas
+661,2016,11,Virginia Tech,20,30,Georgia Tech
+662,2016,11,Georgia,13,7,Auburn
+663,2016,11,Wisconsin,48,3,Illinois
+664,2016,11,Clemson,42,43,Pittsburgh
+665,2016,11,Old Dominion,51,35,Southern Miss
+666,2016,11,Missouri,26,17,Vanderbilt
+667,2016,11,Oklahoma State,45,44,Texas Tech
+668,2016,11,Houston,30,18,Tulane
+669,2016,11,Notre Dame,44,6,Army
+670,2016,11,Maryland,3,62,Ohio State
+671,2016,11,Oregon,27,52,Stanford
+672,2016,11,Texas State,14,47,Idaho
+673,2016,11,Florida Atlantic,35,31,UTEP
+674,2016,11,Memphis,42,49,South Florida
+675,2016,11,Marshall,42,17,Middle Tennessee
+676,2016,11,Louisville,44,12,Wake Forest
+677,2016,11,Arkansas,10,38,LSU
+678,2016,11,Hawai'i,16,52,Boise State
+679,2016,11,Washington,13,26,USC
+680,2016,11,Texas A&M,28,29,Ole Miss
+681,2016,11,Nebraska,24,17,Minnesota
+682,2016,11,Iowa,14,13,Michigan
+683,2016,11,UCLA,38,24,Oregon State
+684,2016,11,Arizona,24,49,Colorado
+685,2016,11,Air Force,49,46,Colorado State
+686,2016,11,Utah State,21,24,New Mexico
+687,2016,11,Washington State,56,21,California
+688,2016,11,Nevada,16,46,San Diego State
+689,2016,12,Bowling Green,42,7,Kent State
+690,2016,12,Central Michigan,27,20,Ohio
+691,2016,12,Toledo,37,19,Ball State
+692,2016,12,Eastern Michigan,24,31,Northern Illinois
+693,2016,12,Houston,36,10,Louisville
+694,2016,12,Troy,3,35,Arkansas State
+695,2016,12,Cincinnati,7,34,Memphis
+696,2016,12,Boise State,42,25,UNLV
+697,2016,12,Illinois,0,28,Iowa
+698,2016,12,TCU,6,31,Oklahoma State
+699,2016,12,Texas A&M,23,10,UTSA
+700,2016,12,Georgia,35,21,Louisiana
+701,2016,12,Baylor,21,42,Kansas State
+702,2016,12,Rice,44,24,UTEP
+703,2016,12,Nebraska,28,7,Maryland
+704,2016,12,Michigan State,16,17,Ohio State
+705,2016,12,Army,60,3,Morgan State
+706,2016,12,Purdue,20,49,Wisconsin
+707,2016,12,NC State,13,27,Miami
+708,2016,12,Georgia Tech,31,17,Virginia
+709,2016,12,Boston College,30,0,UConn
+710,2016,12,LSU,10,16,Florida
+711,2016,12,BYU,51,9,Massachusetts
+712,2016,12,Utah,28,30,Oregon
+713,2016,12,Charlotte,31,38,Middle Tennessee
+714,2016,12,Georgia State,30,24,Georgia Southern
+715,2016,12,App State,42,17,UL Monroe
+716,2016,12,Pittsburgh,56,14,Duke
+717,2016,12,Kansas,24,21,Texas
+718,2016,12,Wyoming,34,33,San Diego State
+719,2016,12,Notre Dame,31,34,Virginia Tech
+720,2016,12,Syracuse,14,45,Florida State
+721,2016,12,North Carolina,41,7,The Citadel
+722,2016,12,Minnesota,29,12,Northwestern
+723,2016,12,Michigan,20,10,Indiana
+724,2016,12,Iowa State,66,10,Texas Tech
+725,2016,12,Tennessee,63,37,Missouri
+726,2016,12,Tulane,0,31,Temple
+727,2016,12,Colorado,38,24,Washington State
+728,2016,12,Western Michigan,38,0,Buffalo
+729,2016,12,South Carolina,44,31,Western Carolina
+730,2016,12,East Carolina,31,66,Navy
+731,2016,12,Nevada,38,37,Utah State
+732,2016,12,Kentucky,49,13,Austin Peay
+733,2016,12,New Mexico State,50,10,Texas State
+734,2016,12,North Texas,29,23,Southern Miss
+735,2016,12,California,31,45,Stanford
+736,2016,12,Florida Atlantic,24,42,Old Dominion
+737,2016,12,Fresno State,13,14,Hawai'i
+738,2016,12,Mississippi State,42,58,Arkansas
+739,2016,12,South Alabama,31,7,Presbyterian
+740,2016,12,Alabama,31,3,Chattanooga
+741,2016,12,SMU,27,35,South Florida
+742,2016,12,Florida International,31,14,Marshall
+743,2016,12,Wake Forest,13,35,Clemson
+744,2016,12,Auburn,55,0,Alabama A&M
+745,2016,12,Washington,44,18,Arizona State
+746,2016,12,West Virginia,28,56,Oklahoma
+747,2016,12,Vanderbilt,38,17,Ole Miss
+748,2016,12,Rutgers,0,39,Penn State
+749,2016,12,UCF,20,35,Tulsa
+750,2016,12,Colorado State,49,31,New Mexico
+751,2016,12,San José State,38,41,Air Force
+752,2016,12,UCLA,14,36,USC
+753,2016,12,Oregon State,42,17,Arizona
+754,2016,13,Eastern Michigan,26,21,Central Michigan
+755,2016,13,Ohio,9,3,Akron
+756,2016,13,Miami (OH),21,20,Ball State
+757,2016,13,Texas A&M,39,54,LSU
+758,2016,13,Kent State,21,31,Northern Illinois
+759,2016,13,North Carolina,21,28,NC State
+760,2016,13,Memphis,48,44,Houston
+761,2016,13,Missouri,28,24,Arkansas
+762,2016,13,Bowling Green,27,19,Buffalo
+763,2016,13,Air Force,27,20,Boise State
+764,2016,13,Iowa,40,10,Nebraska
+765,2016,13,Texas,9,31,TCU
+766,2016,13,Washington State,17,45,Washington
+767,2016,13,Southern Miss,39,24,Louisiana Tech
+768,2016,13,Western Michigan,55,35,Toledo
+769,2016,13,Texas Tech,54,35,Baylor
+770,2016,13,Tulsa,40,37,Cincinnati
+771,2016,13,Arizona,56,35,Arizona State
+772,2016,13,Virginia Tech,52,10,Virginia
+773,2016,13,Indiana,26,24,Purdue
+774,2016,13,Georgia,27,28,Georgia Tech
+775,2016,13,Ohio State,30,27,Michigan
+776,2016,13,Louisville,38,41,Kentucky
+777,2016,13,Maryland,31,13,Rutgers
+778,2016,13,Northwestern,42,21,Illinois
+779,2016,13,Louisiana,24,19,Arkansas State
+780,2016,13,South Florida,48,31,UCF
+781,2016,13,Kansas State,34,19,Kansas
+782,2016,13,Pittsburgh,76,61,Syracuse
+783,2016,13,Wake Forest,14,17,Boston College
+784,2016,13,Fresno State,14,16,San José State
+785,2016,13,Alabama,30,12,Auburn
+786,2016,13,Wisconsin,31,17,Minnesota
+787,2016,13,Idaho,38,31,South Alabama
+788,2016,13,Penn State,45,12,Michigan State
+789,2016,13,USC,45,27,Notre Dame
+790,2016,13,Miami,40,21,Duke
+791,2016,13,Ole Miss,20,55,Mississippi State
+792,2016,13,SMU,31,75,Navy
+793,2016,13,Iowa State,19,49,West Virginia
+794,2016,13,Old Dominion,42,28,Florida International
+795,2016,13,Texas State,7,40,Troy
+796,2016,13,UNLV,10,45,Nevada
+797,2016,13,Oregon State,34,24,Oregon
+798,2016,13,UTEP,52,24,North Texas
+799,2016,13,New Mexico State,7,37,App State
+800,2016,13,UConn,13,38,Tulane
+801,2016,13,Middle Tennessee,77,56,Florida Atlantic
+802,2016,13,UTSA,33,14,Charlotte
+803,2016,13,California,36,10,UCLA
+804,2016,13,Marshall,6,60,Western Kentucky
+805,2016,13,Vanderbilt,45,34,Tennessee
+806,2016,13,Temple,37,10,East Carolina
+807,2016,13,Clemson,56,7,South Carolina
+808,2016,13,Colorado,27,22,Utah
+809,2016,13,Stanford,41,17,Rice
+810,2016,13,Florida State,31,13,Florida
+811,2016,13,San Diego State,31,63,Colorado State
+812,2016,13,New Mexico,56,35,Wyoming
+813,2016,13,BYU,28,10,Utah State
+814,2016,13,Hawai'i,46,40,Massachusetts
+815,2016,14,Ohio,23,29,Western Michigan
+816,2016,14,Washington,41,10,Colorado
+817,2016,14,TCU,6,30,Kansas State
+818,2016,14,Georgia Southern,28,24,Troy
+819,2016,14,Western Kentucky,58,44,Louisiana Tech
+820,2016,14,Navy,10,34,Temple
+821,2016,14,Oklahoma,38,20,Oklahoma State
+822,2016,14,South Alabama,35,28,New Mexico State
+823,2016,14,UL Monroe,3,30,Louisiana
+824,2016,14,West Virginia,24,21,Baylor
+825,2016,14,Florida,16,54,Alabama
+826,2016,14,Idaho,37,12,Georgia State
+827,2016,14,Texas State,14,36,Arkansas State
+828,2016,14,Wyoming,24,27,San Diego State
+829,2016,14,Virginia Tech,35,42,Clemson
+830,2016,14,Penn State,38,31,Wisconsin
+831,2016,15,Army,21,17,Navy
+832,2016,1,UTSA,20,23,New Mexico
+833,2016,1,San Diego State,34,10,Houston
+834,2016,1,Toledo,28,31,App State
+835,2016,1,UCF,13,31,Arkansas State
+836,2016,1,Louisiana,21,28,Southern Miss
+837,2016,1,Tulsa,55,10,Central Michigan
+838,2016,1,Western Kentucky,51,31,Memphis
+839,2016,1,Wyoming,21,24,BYU
+840,2016,1,Colorado State,50,61,Idaho
+841,2016,1,Old Dominion,24,20,Eastern Michigan
+842,2016,1,Navy,45,48,Louisiana Tech
+843,2016,1,Troy,28,23,Ohio
+844,2016,1,Middle Tennessee,35,52,Hawai'i
+845,2016,1,Mississippi State,17,16,Miami (OH)
+846,2016,1,Boston College,36,30,Maryland
+847,2016,1,Vanderbilt,17,41,NC State
+848,2016,1,North Texas,31,38,Army
+849,2016,1,Wake Forest,34,26,Temple
+850,2016,1,Washington State,12,17,Minnesota
+851,2016,1,Baylor,31,12,Boise State
+852,2016,1,Northwestern,31,24,Pittsburgh
+853,2016,1,Miami,31,14,West Virginia
+854,2016,1,Utah,26,24,Indiana
+855,2016,1,Kansas State,33,28,Texas A&M
+856,2016,1,South Carolina,39,46,South Florida
+857,2016,1,Virginia Tech,35,24,Arkansas
+858,2016,1,Colorado,8,38,Oklahoma State
+859,2016,1,TCU,23,31,Georgia
+860,2016,1,North Carolina,23,25,Stanford
+861,2016,1,Tennessee,38,24,Nebraska
+862,2016,1,Air Force,45,21,South Alabama
+863,2016,1,Florida State,33,32,Michigan
+864,2016,1,Louisville,9,29,LSU
+865,2016,1,Kentucky,18,33,Georgia Tech
+866,2016,1,Alabama,24,7,Washington
+867,2016,1,Clemson,31,0,Ohio State
+868,2016,1,Iowa,3,30,Florida
+869,2016,1,Wisconsin,24,16,Western Michigan
+870,2016,1,Penn State,49,52,USC
+871,2016,1,Oklahoma,35,19,Auburn
+872,2016,1,Alabama,31,35,Clemson

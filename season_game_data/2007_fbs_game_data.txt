@@ -1,0 +1,799 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2007,1,Cincinnati,59,3,Southeast Missouri State
+1,2007,1,UL Monroe,17,35,Tulsa
+2,2007,1,Ball State,13,14,Miami (OH)
+3,2007,1,Rutgers,38,3,Buffalo
+4,2007,1,Louisville,73,10,Murray State
+5,2007,1,New Mexico State,35,14,SE Louisiana
+6,2007,1,Mississippi State,0,45,LSU
+7,2007,1,Iowa State,14,23,Kent State
+8,2007,1,Utah State,16,23,UNLV
+9,2007,1,Boise State,56,7,Weber State
+10,2007,1,Oregon State,24,7,Utah
+11,2007,1,Temple,19,30,Navy
+12,2007,1,Syracuse,12,42,Washington
+13,2007,1,Michigan State,55,18,UAB
+14,2007,1,Ohio State,38,6,Youngstown State
+15,2007,1,Colorado,31,28,Colorado State
+16,2007,1,Miami,31,3,Marshall
+17,2007,1,Virginia Tech,17,7,East Carolina
+18,2007,1,Penn State,59,0,Florida International
+19,2007,1,Northwestern,27,0,Northeastern
+20,2007,1,Michigan,32,34,App State
+21,2007,1,Florida,49,3,Western Kentucky
+22,2007,1,Wyoming,23,3,Virginia
+23,2007,1,Air Force,34,3,South Carolina State
+24,2007,1,Duke,14,45,UConn
+25,2007,1,Illinois,34,40,Missouri
+26,2007,1,Northern Illinois,3,16,Iowa
+27,2007,1,Memphis,21,23,Ole Miss
+28,2007,1,Nebraska,52,10,Nevada
+29,2007,1,West Virginia,62,24,Western Michigan
+30,2007,1,Notre Dame,3,33,Georgia Tech
+31,2007,1,Boston College,38,28,Wake Forest
+32,2007,1,Oregon,48,27,Houston
+33,2007,1,Wisconsin,42,21,Washington State
+34,2007,1,Stanford,17,45,UCLA
+35,2007,1,Florida Atlantic,27,14,Middle Tennessee
+36,2007,1,BYU,20,7,Arizona
+37,2007,1,NC State,23,25,UCF
+38,2007,1,Pittsburgh,27,3,Eastern Michigan
+39,2007,1,Maryland,31,14,Villanova
+40,2007,1,Kentucky,50,10,Eastern Kentucky
+41,2007,1,TCU,27,0,Baylor
+42,2007,1,North Carolina,37,14,James Madison
+43,2007,1,Georgia,35,14,Oklahoma State
+44,2007,1,Oklahoma,79,10,North Texas
+45,2007,1,Akron,22,14,Army
+46,2007,1,Arkansas,46,26,Troy
+47,2007,1,Texas,21,13,Arkansas State
+48,2007,1,Toledo,24,52,Purdue
+49,2007,1,Louisiana Tech,28,7,Central Arkansas
+50,2007,1,Southern Miss,35,13,UT Martin
+51,2007,1,Ohio,36,14,Gardner-Webb
+52,2007,1,Vanderbilt,41,17,Richmond
+53,2007,1,Kansas,52,7,Central Michigan
+54,2007,1,Texas A&M,38,7,Montana State
+55,2007,1,South Carolina,28,14,Louisiana
+56,2007,1,South Florida,28,13,Elon
+57,2007,1,Alabama,52,6,Western Carolina
+58,2007,1,Auburn,23,13,Kansas State
+59,2007,1,California,45,31,Tennessee
+60,2007,1,Minnesota,31,32,Bowling Green
+61,2007,1,Indiana,55,7,Indiana State
+62,2007,1,Rice,14,16,Nicholls
+63,2007,1,Arizona State,45,3,San José State
+64,2007,1,UTEP,10,6,New Mexico
+65,2007,1,Fresno State,24,3,Sacramento State
+66,2007,1,USC,38,10,Idaho
+67,2007,1,Hawai'i,63,6,Northern Colorado
+68,2007,1,SMU,9,49,Texas Tech
+69,2007,1,Clemson,24,18,Florida State
+70,2007,2,Louisville,58,42,Middle Tennessee
+71,2007,2,Cincinnati,34,3,Oregon State
+72,2007,2,Rutgers,41,24,Navy
+73,2007,2,Marshall,23,48,West Virginia
+74,2007,2,Eastern Michigan,16,38,Ball State
+75,2007,2,Virginia,24,13,Duke
+76,2007,2,Oklahoma,51,13,Miami
+77,2007,2,Pittsburgh,34,10,Grambling
+78,2007,2,Purdue,52,6,Eastern Illinois
+79,2007,2,Minnesota,41,35,Miami (OH)
+80,2007,2,Ohio State,20,2,Akron
+81,2007,2,Wake Forest,17,20,Nebraska
+82,2007,2,Northwestern,36,31,Nevada
+83,2007,2,Michigan State,28,17,Bowling Green
+84,2007,2,Vanderbilt,10,24,Alabama
+85,2007,2,Army,14,7,Rhode Island
+86,2007,2,Temple,7,42,Buffalo
+87,2007,2,Clemson,49,26,UL Monroe
+88,2007,2,Georgia Tech,69,14,Samford
+89,2007,2,Wyoming,32,18,Utah State
+90,2007,2,Colorado State,28,34,California
+91,2007,2,Boston College,37,17,NC State
+92,2007,2,Michigan,7,39,Oregon
+93,2007,2,Texas A&M,47,45,Fresno State
+94,2007,2,Washington,24,10,Boise State
+95,2007,2,Florida State,34,24,UAB
+96,2007,2,Western Kentucky,87,0,West Virginia Institute Of Tech
+97,2007,2,Idaho,20,13,Cal Poly
+98,2007,2,Georgia,12,16,South Carolina
+99,2007,2,Kentucky,56,20,Kent State
+100,2007,2,East Carolina,34,31,North Carolina
+101,2007,2,Florida,59,31,Troy
+102,2007,2,Ole Miss,25,38,Missouri
+103,2007,2,Utah,12,20,Air Force
+104,2007,2,Penn State,31,10,Notre Dame
+105,2007,2,UCLA,27,17,BYU
+106,2007,2,Iowa State,13,24,Northern Iowa
+107,2007,2,Illinois,21,0,Western Illinois
+108,2007,2,UConn,38,0,Maine
+109,2007,2,Central Michigan,52,31,Toledo
+110,2007,2,Texas Tech,45,31,UTEP
+111,2007,2,Texas,34,13,TCU
+112,2007,2,Louisiana,23,31,Ohio
+113,2007,2,Washington State,45,17,San Diego State
+114,2007,2,Tennessee,39,19,Southern Miss
+115,2007,2,Baylor,42,17,Rice
+116,2007,2,Kansas State,34,14,San José State
+117,2007,2,Oklahoma State,42,6,Florida Atlantic
+118,2007,2,Florida International,10,26,Maryland
+119,2007,2,Kansas,62,0,SE Louisiana
+120,2007,2,Tulane,17,38,Mississippi State
+121,2007,2,Louisiana Tech,44,45,Hawai'i
+122,2007,2,Northern Illinois,31,34,Southern Illinois
+123,2007,2,Western Michigan,27,37,Indiana
+124,2007,2,SMU,45,31,North Texas
+125,2007,2,Iowa,35,0,Syracuse
+126,2007,2,Auburn,23,26,South Florida
+127,2007,2,LSU,48,7,Virginia Tech
+128,2007,2,New Mexico,44,34,New Mexico State
+129,2007,2,UNLV,13,20,Wisconsin
+130,2007,2,Arizona,45,24,Northern Arizona
+131,2007,2,Arizona State,33,14,Colorado
+132,2007,3,Maryland,14,31,West Virginia
+133,2007,3,Air Force,20,17,TCU
+134,2007,3,Troy,41,23,Oklahoma State
+135,2007,3,Indiana,41,24,Akron
+136,2007,3,Syracuse,20,41,Illinois
+137,2007,3,Northern Illinois,19,21,Eastern Michigan
+138,2007,3,Purdue,45,22,Central Michigan
+139,2007,3,UConn,22,17,Temple
+140,2007,3,North Carolina,20,22,Virginia
+141,2007,3,Wisconsin,45,31,The Citadel
+142,2007,3,Michigan State,17,13,Pittsburgh
+143,2007,3,Miami (OH),10,47,Cincinnati
+144,2007,3,Penn State,45,24,Buffalo
+145,2007,3,Auburn,14,19,Mississippi State
+146,2007,3,Clemson,38,10,Furman
+147,2007,3,Georgia,45,16,Western Carolina
+148,2007,3,Florida Atlantic,42,39,Minnesota
+149,2007,3,Virginia Tech,28,7,Ohio
+150,2007,3,Iowa State,15,13,Iowa
+151,2007,3,Missouri,52,24,Western Michigan
+152,2007,3,Rice,24,59,Texas Tech
+153,2007,3,Western Kentucky,26,6,Eastern Kentucky
+154,2007,3,Oklahoma,54,3,Utah State
+155,2007,3,Washington,14,33,Ohio State
+156,2007,3,Rutgers,59,0,Norfolk State
+157,2007,3,Florida,59,20,Tennessee
+158,2007,3,Michigan,38,0,Notre Dame
+159,2007,3,Miami,23,9,Florida International
+160,2007,3,Wake Forest,21,10,Army
+161,2007,3,UCF,32,35,Texas
+162,2007,3,Kent State,38,7,Delaware State
+163,2007,3,Marshall,35,48,New Hampshire
+164,2007,3,Navy,31,34,Ball State
+165,2007,3,Utah,44,6,UCLA
+166,2007,3,NC State,38,17,Wofford
+167,2007,3,East Carolina,21,28,Southern Miss
+168,2007,3,Oregon State,61,10,Idaho State
+169,2007,3,California,42,12,Louisiana Tech
+170,2007,3,Alabama,41,38,Arkansas
+171,2007,3,Vanderbilt,31,17,Ole Miss
+172,2007,3,Texas A&M,54,14,UL Monroe
+173,2007,3,Arkansas State,45,28,SMU
+174,2007,3,Oregon,52,21,Fresno State
+175,2007,3,Baylor,34,27,Texas State
+176,2007,3,South Carolina,38,3,South Carolina State
+177,2007,3,Louisiana,17,38,McNeese
+178,2007,3,UAB,22,0,Alcorn State
+179,2007,3,Tulane,10,34,Houston
+180,2007,3,Kansas,45,13,Toledo
+181,2007,3,Kansas State,61,10,Missouri State
+182,2007,3,Kentucky,40,34,Louisville
+183,2007,3,New Mexico State,29,24,UTEP
+184,2007,3,Nebraska,31,49,USC
+185,2007,3,Boise State,24,14,Wyoming
+186,2007,3,Memphis,35,14,Jacksonville State
+187,2007,3,Georgia Tech,10,24,Boston College
+188,2007,3,LSU,44,0,Middle Tennessee
+189,2007,3,Northwestern,14,20,Duke
+190,2007,3,Nevada,52,17,Nicholls
+191,2007,3,Tulsa,55,47,BYU
+192,2007,3,UNLV,14,49,Hawai'i
+193,2007,3,Stanford,37,0,San José State
+194,2007,3,Colorado,6,16,Florida State
+195,2007,3,Washington State,45,28,Idaho
+196,2007,3,Arizona,27,29,New Mexico
+197,2007,3,Arizona State,34,13,San Diego State
+198,2007,4,Middle Tennessee,17,20,Western Kentucky
+199,2007,4,Miami,34,17,Texas A&M
+200,2007,4,Tulsa,21,62,Oklahoma
+201,2007,4,Virginia,28,23,Georgia Tech
+202,2007,4,NC State,20,42,Clemson
+203,2007,4,Indiana,14,27,Illinois
+204,2007,4,Akron,27,20,Kent State
+205,2007,4,West Virginia,48,7,East Carolina
+206,2007,4,Louisville,35,38,Syracuse
+207,2007,4,Bowling Green,48,35,Temple
+208,2007,4,South Florida,37,10,North Carolina
+209,2007,4,Ole Miss,24,30,Florida
+210,2007,4,Nebraska,41,40,Ball State
+211,2007,4,Boston College,37,17,Army
+212,2007,4,Navy,46,43,Duke
+213,2007,4,Virginia Tech,44,3,William & Mary
+214,2007,4,Missouri,38,17,Illinois State
+215,2007,4,Ohio,33,34,Wyoming
+216,2007,4,BYU,31,6,Air Force
+217,2007,4,LSU,28,16,South Carolina
+218,2007,4,Central Michigan,14,44,North Dakota State
+219,2007,4,Eastern Michigan,38,15,Howard
+220,2007,4,Wake Forest,31,24,Maryland
+221,2007,4,Ohio State,58,7,Northwestern
+222,2007,4,Michigan,14,9,Penn State
+223,2007,4,Colorado,42,0,Miami (OH)
+224,2007,4,UCF,56,20,Memphis
+225,2007,4,Oklahoma State,49,45,Texas Tech
+226,2007,4,Notre Dame,14,31,Michigan State
+227,2007,4,Houston,38,27,Colorado State
+228,2007,4,Idaho,35,42,Northern Illinois
+229,2007,4,Buffalo,21,34,Baylor
+230,2007,4,Arkansas,29,42,Kentucky
+231,2007,4,California,45,27,Arizona
+232,2007,4,San Diego State,52,17,Portland State
+233,2007,4,Mississippi State,31,15,Gardner-Webb
+234,2007,4,Texas,58,14,Rice
+235,2007,4,Auburn,55,20,New Mexico State
+236,2007,4,Pittsburgh,14,34,UConn
+237,2007,4,Western Michigan,51,14,Central Connecticut
+238,2007,4,Kansas,55,3,Florida International
+239,2007,4,Tennessee,48,27,Arkansas State
+240,2007,4,North Texas,20,30,Florida Atlantic
+241,2007,4,Louisiana,31,48,Troy
+242,2007,4,Toledo,36,35,Iowa State
+243,2007,4,Cincinnati,40,14,Marshall
+244,2007,4,Alabama,23,26,Georgia
+245,2007,4,USC,47,14,Washington State
+246,2007,4,Wisconsin,17,13,Iowa
+247,2007,4,Utah State,20,23,San José State
+248,2007,4,Tulane,35,27,SE Louisiana
+249,2007,4,New Mexico,58,0,Sacramento State
+250,2007,4,TCU,21,7,SMU
+251,2007,4,Minnesota,31,45,Purdue
+252,2007,4,UTEP,52,12,Texas Southern
+253,2007,4,UNLV,27,0,Utah
+254,2007,4,Stanford,31,55,Oregon
+255,2007,4,Arizona State,44,32,Oregon State
+256,2007,4,UCLA,44,31,Washington
+257,2007,4,Hawai'i,66,10,Charleston Southern
+258,2007,5,Arkansas State,35,31,Memphis
+259,2007,5,Boise State,38,16,Southern Miss
+260,2007,5,South Florida,21,13,West Virginia
+261,2007,5,Army,37,21,Temple
+262,2007,5,Illinois,27,20,Penn State
+263,2007,5,Virginia Tech,17,10,North Carolina
+264,2007,5,Ball State,49,14,Buffalo
+265,2007,5,Miami,24,14,Duke
+266,2007,5,Central Michigan,35,10,Northern Illinois
+267,2007,5,Purdue,33,19,Notre Dame
+268,2007,5,UConn,44,10,Akron
+269,2007,5,Tulane,9,34,LSU
+270,2007,5,Northwestern,16,28,Michigan
+271,2007,5,Iowa,20,38,Indiana
+272,2007,5,Texas A&M,34,10,Baylor
+273,2007,5,South Carolina,38,21,Mississippi State
+274,2007,5,Navy,31,20,Air Force
+275,2007,5,Boston College,24,14,Massachusetts
+276,2007,5,Kentucky,45,17,Florida Atlantic
+277,2007,5,Georgia,45,17,Ole Miss
+278,2007,5,Colorado,27,24,Oklahoma
+279,2007,5,Nebraska,35,17,Iowa State
+280,2007,5,Utah,34,18,Utah State
+281,2007,5,Miami (OH),17,14,Syracuse
+282,2007,5,Ohio,25,33,Kent State
+283,2007,5,Oregon,24,31,California
+284,2007,5,NC State,10,29,Louisville
+285,2007,5,Georgia Tech,13,3,Clemson
+286,2007,5,Wisconsin,37,34,Michigan State
+287,2007,5,Rutgers,24,34,Maryland
+288,2007,5,Texas,21,41,Kansas State
+289,2007,5,San José State,34,14,UC Davis
+290,2007,5,Nevada,27,20,UNLV
+291,2007,5,SMU,45,48,UTEP
+292,2007,5,Idaho,20,48,Hawai'i
+293,2007,5,Florida State,21,14,Alabama
+294,2007,5,UCF,37,19,Louisiana
+295,2007,5,Bowling Green,41,21,Western Kentucky
+296,2007,5,Oregon State,14,40,UCLA
+297,2007,5,Arkansas,66,7,North Texas
+298,2007,5,Vanderbilt,30,7,Eastern Michigan
+299,2007,5,TCU,24,12,Colorado State
+300,2007,5,Middle Tennessee,47,6,Florida International
+301,2007,5,Houston,35,37,East Carolina
+302,2007,5,Virginia,44,14,Pittsburgh
+303,2007,5,Tulsa,38,30,UAB
+304,2007,5,Texas Tech,75,7,Northwestern State
+305,2007,5,Oklahoma State,39,3,Sam Houston
+306,2007,5,Toledo,28,42,Western Michigan
+307,2007,5,Troy,24,7,UL Monroe
+308,2007,5,Florida,17,20,Auburn
+309,2007,5,New Mexico State,20,17,Arkansas-Pine Bluff
+310,2007,5,Washington,24,27,USC
+311,2007,5,Minnesota,7,30,Ohio State
+312,2007,5,New Mexico,24,31,BYU
+313,2007,5,Arizona,48,20,Washington State
+314,2007,5,Fresno State,17,6,Louisiana Tech
+315,2007,5,San Diego State,23,52,Cincinnati
+316,2007,5,Stanford,3,41,Arizona State
+317,2007,6,Memphis,24,21,Marshall
+318,2007,6,Southern Miss,29,31,Rice
+319,2007,6,South Carolina,38,23,Kentucky
+320,2007,6,Louisville,35,44,Utah
+321,2007,6,Maryland,28,26,Georgia Tech
+322,2007,6,Boston College,55,24,Bowling Green
+323,2007,6,Indiana,40,20,Minnesota
+324,2007,6,Michigan,33,22,Eastern Michigan
+325,2007,6,Ball State,38,58,Central Michigan
+326,2007,6,Syracuse,14,55,West Virginia
+327,2007,6,Illinois,31,26,Wisconsin
+328,2007,6,Kansas State,24,30,Kansas
+329,2007,6,North Carolina,33,27,Miami
+330,2007,6,Michigan State,41,48,Northwestern
+331,2007,6,Auburn,35,7,Vanderbilt
+332,2007,6,Temple,16,15,Northern Illinois
+333,2007,6,Buffalo,31,10,Ohio
+334,2007,6,Duke,36,41,Wake Forest
+335,2007,6,Ole Miss,24,0,Louisiana Tech
+336,2007,6,Wyoming,24,21,TCU
+337,2007,6,Mississippi State,30,13,UAB
+338,2007,6,Kent State,13,20,Miami (OH)
+339,2007,6,Alabama,30,24,Houston
+340,2007,6,Florida State,27,10,NC State
+341,2007,6,Texas,21,28,Oklahoma
+342,2007,6,Penn State,27,7,Iowa
+343,2007,6,Florida Atlantic,23,35,South Florida
+344,2007,6,Tennessee,35,14,Georgia
+345,2007,6,San José State,28,20,Idaho
+346,2007,6,Nevada,41,49,Fresno State
+347,2007,6,Washington State,20,23,Arizona State
+348,2007,6,Oregon State,31,16,Arizona
+349,2007,6,Colorado State,20,24,San Diego State
+350,2007,6,Clemson,23,41,Virginia Tech
+351,2007,6,Baylor,23,43,Colorado
+352,2007,6,UL Monroe,30,13,Arkansas State
+353,2007,6,Florida International,16,34,Troy
+354,2007,6,Western Michigan,38,39,Akron
+355,2007,6,Louisiana,38,29,North Texas
+356,2007,6,Army,20,17,Tulane
+357,2007,6,Arkansas,34,15,Chattanooga
+358,2007,6,Texas Tech,42,17,Iowa State
+359,2007,6,USC,23,24,Stanford
+360,2007,6,Toledo,35,34,Liberty
+361,2007,6,Middle Tennessee,21,23,Virginia
+362,2007,6,East Carolina,52,38,UCF
+363,2007,6,Texas A&M,24,23,Oklahoma State
+364,2007,6,Rutgers,23,28,Cincinnati
+365,2007,6,UCLA,6,20,Notre Dame
+366,2007,6,Purdue,7,23,Ohio State
+367,2007,6,LSU,28,24,Florida
+368,2007,6,Air Force,31,14,UNLV
+369,2007,6,UTEP,48,47,Tulsa
+370,2007,6,Missouri,41,6,Nebraska
+371,2007,6,Hawai'i,52,37,Utah State
+372,2007,6,Boise State,58,0,New Mexico State
+373,2007,7,Pittsburgh,45,48,Navy
+374,2007,7,Wake Forest,24,21,Florida State
+375,2007,7,San José State,35,42,Hawai'i
+376,2007,7,Duke,14,43,Virginia Tech
+377,2007,7,Iowa,10,6,Illinois
+378,2007,7,Ohio,48,42,Eastern Michigan
+379,2007,7,Michigan,48,21,Purdue
+380,2007,7,Syracuse,14,38,Rutgers
+381,2007,7,Miami,14,17,Georgia Tech
+382,2007,7,Ohio State,48,3,Kent State
+383,2007,7,South Florida,64,12,UCF
+384,2007,7,Northwestern,49,48,Minnesota
+385,2007,7,Iowa State,3,56,Texas
+386,2007,7,Ole Miss,24,27,Alabama
+387,2007,7,Nebraska,14,45,Oklahoma State
+388,2007,7,Kansas,58,10,Baylor
+389,2007,7,Buffalo,43,33,Toledo
+390,2007,7,Ball State,35,12,Western Kentucky
+391,2007,7,Wyoming,3,20,New Mexico
+392,2007,7,Mississippi State,21,33,Tennessee
+393,2007,7,Miami (OH),47,14,Bowling Green
+394,2007,7,Utah,23,7,San Diego State
+395,2007,7,Houston,56,48,Rice
+396,2007,7,Kentucky,43,37,LSU
+397,2007,7,USC,20,13,Arizona
+398,2007,7,North Carolina,15,21,South Carolina
+399,2007,7,Texas Tech,35,7,Texas A&M
+400,2007,7,Virginia,17,16,UConn
+401,2007,7,Penn State,38,7,Wisconsin
+402,2007,7,Oregon,53,7,Washington State
+403,2007,7,Central Michigan,47,23,Army
+404,2007,7,Notre Dame,14,27,Boston College
+405,2007,7,Northern Illinois,13,17,Western Michigan
+406,2007,7,Idaho,24,37,Fresno State
+407,2007,7,Stanford,36,38,TCU
+408,2007,7,Colorado State,21,45,Air Force
+409,2007,7,Akron,20,24,Temple
+410,2007,7,Vanderbilt,17,20,Georgia
+411,2007,7,Oklahoma,41,31,Missouri
+412,2007,7,Arkansas State,52,21,Louisiana
+413,2007,7,Tulsa,38,31,Marshall
+414,2007,7,North Texas,31,21,UL Monroe
+415,2007,7,UAB,26,21,Tulane
+416,2007,7,Louisiana Tech,22,21,New Mexico State
+417,2007,7,Cincinnati,24,28,Louisville
+418,2007,7,Michigan State,52,27,Indiana
+419,2007,7,California,28,31,Oregon State
+420,2007,7,Southern Miss,28,7,SMU
+421,2007,7,Arkansas,7,9,Auburn
+422,2007,7,Memphis,7,21,Middle Tennessee
+423,2007,7,UTEP,42,45,East Carolina
+424,2007,7,Kansas State,47,20,Colorado
+425,2007,7,UNLV,14,24,BYU
+426,2007,7,Arizona State,44,20,Washington
+427,2007,7,Boise State,69,67,Nevada
+428,2007,8,Rutgers,30,27,South Florida
+429,2007,8,TCU,20,27,Utah
+430,2007,8,Eastern Michigan,14,26,Northwestern
+431,2007,8,UConn,21,17,Louisville
+432,2007,8,Indiana,31,36,Penn State
+433,2007,8,Georgia Tech,34,10,Army
+434,2007,8,Temple,24,17,Miami (OH)
+435,2007,8,Clemson,70,14,Central Michigan
+436,2007,8,Pittsburgh,24,17,Cincinnati
+437,2007,8,Minnesota,21,27,North Dakota State
+438,2007,8,Purdue,31,6,Iowa
+439,2007,8,Wisconsin,44,3,Northern Illinois
+440,2007,8,Iowa State,7,17,Oklahoma
+441,2007,8,Baylor,10,31,Texas
+442,2007,8,Alabama,41,17,Tennessee
+443,2007,8,South Carolina,6,17,Vanderbilt
+444,2007,8,Navy,24,44,Wake Forest
+445,2007,8,Western Michigan,23,27,Ball State
+446,2007,8,Ole Miss,8,44,Arkansas
+447,2007,8,Indiana State,7,56,Western Kentucky
+448,2007,8,Air Force,20,12,Wyoming
+449,2007,8,Nebraska,14,36,Texas A&M
+450,2007,8,Rice,35,38,Memphis
+451,2007,8,Utah State,28,31,Nevada
+452,2007,8,UCLA,30,21,California
+453,2007,8,Notre Dame,0,38,USC
+454,2007,8,Kentucky,37,45,Florida
+455,2007,8,Middle Tennessee,24,7,Arkansas State
+456,2007,8,Missouri,41,10,Texas Tech
+457,2007,8,Troy,45,7,North Texas
+458,2007,8,Ohio State,24,17,Michigan State
+459,2007,8,Florida State,29,37,Miami
+460,2007,8,West Virginia,38,13,Mississippi State
+461,2007,8,Kent State,20,31,Bowling Green
+462,2007,8,Syracuse,20,12,Buffalo
+463,2007,8,UCF,44,23,Tulsa
+464,2007,8,East Carolina,20,34,NC State
+465,2007,8,Louisiana,32,39,Florida Atlantic
+466,2007,8,Fresno State,30,0,San José State
+467,2007,8,Colorado,14,19,Kansas
+468,2007,8,BYU,42,7,Eastern Washington
+469,2007,8,UL Monroe,28,14,Florida International
+470,2007,8,Toledo,43,40,Ohio
+471,2007,8,UAB,10,49,Houston
+472,2007,8,Louisiana Tech,31,45,Boise State
+473,2007,8,Oklahoma State,41,39,Kansas State
+474,2007,8,Arizona,20,21,Stanford
+475,2007,8,Washington,34,55,Oregon
+476,2007,8,SMU,34,41,Tulane
+477,2007,8,Illinois,17,27,Michigan
+478,2007,8,New Mexico State,45,31,Idaho
+479,2007,8,Maryland,17,18,Virginia
+480,2007,8,San Diego State,17,20,New Mexico
+481,2007,8,UNLV,23,48,Colorado State
+482,2007,8,LSU,30,24,Auburn
+483,2007,8,Marshall,24,33,Southern Miss
+484,2007,9,Virginia Tech,10,14,Boston College
+485,2007,9,New Mexico,34,31,Air Force
+486,2007,9,Fresno State,21,34,Boise State
+487,2007,9,Louisville,24,17,Pittsburgh
+488,2007,9,Iowa,34,27,Michigan State
+489,2007,9,Illinois,28,17,Ball State
+490,2007,9,Rutgers,3,31,West Virginia
+491,2007,9,Wake Forest,37,10,North Carolina
+492,2007,9,Texas Tech,26,31,Colorado
+493,2007,9,Wisconsin,33,3,Indiana
+494,2007,9,Purdue,35,17,Northwestern
+495,2007,9,Kentucky,14,31,Mississippi State
+496,2007,9,Kent State,32,41,Central Michigan
+497,2007,9,Buffalo,26,10,Akron
+498,2007,9,Navy,52,59,Delaware
+499,2007,9,Arkansas,58,10,Florida International
+500,2007,9,Missouri,42,28,Iowa State
+501,2007,9,Vanderbilt,24,13,Miami (OH)
+502,2007,9,Wyoming,29,24,UNLV
+503,2007,9,Tulsa,29,23,SMU
+504,2007,9,Oregon,24,17,USC
+505,2007,9,Utah State,21,31,Louisiana Tech
+506,2007,9,Tulane,27,28,Memphis
+507,2007,9,Washington,41,48,Arizona
+508,2007,9,Florida,30,42,Georgia
+509,2007,9,Texas,28,25,Nebraska
+510,2007,9,Michigan,34,10,Minnesota
+511,2007,9,Maryland,17,30,Clemson
+512,2007,9,East Carolina,41,6,UAB
+513,2007,9,UConn,22,15,South Florida
+514,2007,9,Kansas State,51,13,Baylor
+515,2007,9,Eastern Michigan,19,2,Western Michigan
+516,2007,9,Florida Atlantic,30,33,UL Monroe
+517,2007,9,Nevada,37,21,Idaho
+518,2007,9,NC State,29,24,Virginia
+519,2007,9,Marshall,34,21,Rice
+520,2007,9,Colorado State,3,27,Utah
+521,2007,9,Auburn,17,3,Ole Miss
+522,2007,9,Bowling Green,27,38,Ohio
+523,2007,9,Washington State,27,7,UCLA
+524,2007,9,Oregon State,23,6,Stanford
+525,2007,9,Western Kentucky,50,14,North Carolina Central
+526,2007,9,Texas A&M,11,19,Kansas
+527,2007,9,Toledo,70,21,Northern Illinois
+528,2007,9,North Texas,28,48,Middle Tennessee
+529,2007,9,Arkansas State,0,27,Troy
+530,2007,9,Tennessee,27,24,South Carolina
+531,2007,9,Penn State,17,37,Ohio State
+532,2007,9,Florida State,25,6,Duke
+533,2007,9,UTEP,31,34,Houston
+534,2007,9,Arizona State,31,20,California
+535,2007,9,Hawai'i,50,13,New Mexico State
+536,2007,9,Southern Miss,17,34,UCF
+537,2007,10,Georgia Tech,3,27,Virginia Tech
+538,2007,10,Ohio,23,7,Temple
+539,2007,10,Bowling Green,44,20,Akron
+540,2007,10,New Mexico State,38,40,Nevada
+541,2007,10,Miami,16,19,NC State
+542,2007,10,Indiana,38,20,Ball State
+543,2007,10,Pittsburgh,20,17,Syracuse
+544,2007,10,Ohio State,38,17,Wisconsin
+545,2007,10,Virginia,17,16,Wake Forest
+546,2007,10,Penn State,26,19,Purdue
+547,2007,10,Duke,10,47,Clemson
+548,2007,10,Northwestern,17,28,Iowa
+549,2007,10,Iowa State,31,20,Kansas State
+550,2007,10,Florida,49,22,Vanderbilt
+551,2007,10,Kansas,76,39,Nebraska
+552,2007,10,Georgia,44,34,Troy
+553,2007,10,Memphis,40,56,East Carolina
+554,2007,10,BYU,35,16,Colorado State
+555,2007,10,Ole Miss,38,31,Northwestern State
+556,2007,10,Chattanooga,21,28,Western Kentucky
+557,2007,10,Auburn,35,3,Tennessee Tech
+558,2007,10,Notre Dame,44,46,Navy
+559,2007,10,Arkansas State,27,24,Florida International
+560,2007,10,Baylor,7,38,Texas Tech
+561,2007,10,Rice,56,48,UTEP
+562,2007,10,Boise State,42,7,San José State
+563,2007,10,Miami (OH),31,28,Buffalo
+564,2007,10,UCF,47,13,Marshall
+565,2007,10,Oklahoma State,35,38,Texas
+566,2007,10,Air Force,30,10,Army
+567,2007,10,Arizona,34,27,UCLA
+568,2007,10,Michigan State,24,28,Michigan
+569,2007,10,South Florida,33,38,Cincinnati
+570,2007,10,North Carolina,16,13,Maryland
+571,2007,10,Tennessee,59,7,Louisiana
+572,2007,10,Fresno State,38,27,Utah State
+573,2007,10,Alabama,34,41,LSU
+574,2007,10,Idaho,16,28,Louisiana Tech
+575,2007,10,TCU,37,0,New Mexico
+576,2007,10,Stanford,9,27,Washington
+577,2007,10,Colorado,10,55,Missouri
+578,2007,10,Oregon,35,23,Arizona State
+579,2007,10,UAB,7,37,Southern Miss
+580,2007,10,Toledo,52,28,Eastern Michigan
+581,2007,10,UL Monroe,40,43,Middle Tennessee
+582,2007,10,UConn,38,19,Rutgers
+583,2007,10,Tulane,25,49,Tulsa
+584,2007,10,Minnesota,17,44,Illinois
+585,2007,10,Arkansas,48,36,South Carolina
+586,2007,10,Oklahoma,42,14,Texas A&M
+587,2007,10,Boston College,17,27,Florida State
+588,2007,10,USC,24,3,Oregon State
+589,2007,10,San Diego State,27,24,Wyoming
+590,2007,10,California,20,17,Washington State
+591,2007,10,Houston,38,28,SMU
+592,2007,11,Western Michigan,31,34,Central Michigan
+593,2007,11,Akron,48,37,Ohio
+594,2007,11,West Virginia,38,31,Louisville
+595,2007,11,BYU,27,22,TCU
+596,2007,11,Eastern Michigan,32,39,Bowling Green
+597,2007,11,Army,6,41,Rutgers
+598,2007,11,Syracuse,10,41,South Florida
+599,2007,11,Clemson,44,10,Wake Forest
+600,2007,11,Wisconsin,37,21,Michigan
+601,2007,11,Northwestern,31,28,Indiana
+602,2007,11,Temple,0,31,Penn State
+603,2007,11,Purdue,31,48,Michigan State
+604,2007,11,NC State,31,27,North Carolina
+605,2007,11,Iowa,21,16,Minnesota
+606,2007,11,Tennessee,34,13,Arkansas
+607,2007,11,Iowa State,31,28,Colorado
+608,2007,11,Mississippi State,17,12,Alabama
+609,2007,11,Nebraska,73,31,Kansas State
+610,2007,11,Missouri,40,26,Texas A&M
+611,2007,11,Duke,24,41,Georgia Tech
+612,2007,11,Vanderbilt,20,27,Kentucky
+613,2007,11,Notre Dame,24,41,Air Force
+614,2007,11,New Mexico,26,23,Colorado State
+615,2007,11,SMU,42,43,Rice
+616,2007,11,Utah State,0,52,Boise State
+617,2007,11,Tulsa,56,7,Houston
+618,2007,11,Georgia,45,20,Auburn
+619,2007,11,Cincinnati,27,3,UConn
+620,2007,11,Virginia Tech,40,21,Florida State
+621,2007,11,Ohio State,21,28,Illinois
+622,2007,11,Texas,59,43,Texas Tech
+623,2007,11,UCLA,20,24,Arizona State
+624,2007,11,Utah,50,0,Wyoming
+625,2007,11,Middle Tennessee,24,34,Louisiana
+626,2007,11,North Texas,62,74,Navy
+627,2007,11,Florida Atlantic,34,31,Arkansas State
+628,2007,11,San José State,51,17,New Mexico State
+629,2007,11,Northern Illinois,27,20,Kent State
+630,2007,11,Southern Miss,26,29,Memphis
+631,2007,11,Marshall,26,7,East Carolina
+632,2007,11,UL Monroe,28,14,Grambling
+633,2007,11,Western Kentucky,17,21,Troy
+634,2007,11,Washington State,33,17,Stanford
+635,2007,11,Oklahoma,52,21,Baylor
+636,2007,11,Tulane,34,19,UTEP
+637,2007,11,Miami,0,48,Virginia
+638,2007,11,UAB,31,45,UCF
+639,2007,11,South Carolina,31,51,Florida
+640,2007,11,LSU,58,10,Louisiana Tech
+641,2007,11,California,17,24,USC
+642,2007,11,Oklahoma State,28,43,Kansas
+643,2007,11,Maryland,42,35,Boston College
+644,2007,11,Oregon State,29,23,Washington
+645,2007,11,UNLV,30,38,San Diego State
+646,2007,11,Hawai'i,37,30,Fresno State
+647,2007,12,Ball State,41,20,Toledo
+648,2007,12,Miami (OH),7,0,Akron
+649,2007,12,Arkansas State,31,27,North Texas
+650,2007,12,Arizona,34,24,Oregon
+651,2007,12,Central Michigan,45,48,Eastern Michigan
+652,2007,12,Nevada,26,28,Hawai'i
+653,2007,12,Michigan,3,14,Ohio State
+654,2007,12,Illinois,41,22,Northwestern
+655,2007,12,Army,39,49,Tulsa
+656,2007,12,Georgia Tech,27,25,North Carolina
+657,2007,12,Rutgers,20,16,Pittsburgh
+658,2007,12,Florida,59,20,Florida Atlantic
+659,2007,12,UConn,30,7,Syracuse
+660,2007,12,Florida State,24,16,Maryland
+661,2007,12,Temple,24,14,Kent State
+662,2007,12,Georgia,24,13,Kentucky
+663,2007,12,Kansas State,32,49,Missouri
+664,2007,12,Buffalo,17,31,Bowling Green
+665,2007,12,Arkansas,45,31,Mississippi State
+666,2007,12,Tennessee,25,24,Vanderbilt
+667,2007,12,New Mexico State,17,35,Utah State
+668,2007,12,Boise State,58,14,Idaho
+669,2007,12,Wyoming,10,35,BYU
+670,2007,12,Colorado State,42,34,Georgia Southern
+671,2007,12,Air Force,55,23,San Diego State
+672,2007,12,Notre Dame,28,7,Duke
+673,2007,12,Alabama,14,21,UL Monroe
+674,2007,12,Rice,31,45,Tulane
+675,2007,12,SMU,20,49,UCF
+676,2007,12,Navy,35,24,Northern Illinois
+677,2007,12,Houston,35,28,Marshall
+678,2007,12,Washington,37,23,California
+679,2007,12,Indiana,27,24,Purdue
+680,2007,12,Michigan State,35,31,Penn State
+681,2007,12,Memphis,25,9,UAB
+682,2007,12,Kansas,45,7,Iowa State
+683,2007,12,Virginia Tech,44,14,Miami
+684,2007,12,Minnesota,34,41,Wisconsin
+685,2007,12,Ole Miss,24,41,LSU
+686,2007,12,Iowa,19,28,Western Michigan
+687,2007,12,Wake Forest,38,18,NC State
+688,2007,12,Western Kentucky,52,12,Morehead State
+689,2007,12,Utah,28,10,New Mexico
+690,2007,12,Washington State,17,52,Oregon State
+691,2007,12,Louisiana Tech,27,23,San José State
+692,2007,12,Baylor,14,45,Oklahoma State
+693,2007,12,Florida International,28,38,Louisiana
+694,2007,12,UTEP,30,56,Southern Miss
+695,2007,12,TCU,34,10,UNLV
+696,2007,12,Clemson,17,20,Boston College
+697,2007,12,Cincinnati,23,28,West Virginia
+698,2007,12,South Florida,55,17,Louisville
+699,2007,12,Texas Tech,34,27,Oklahoma
+700,2007,13,Troy,45,7,Middle Tennessee
+701,2007,13,Arizona State,24,44,USC
+702,2007,13,Akron,32,35,Central Michigan
+703,2007,13,Colorado,65,51,Nebraska
+704,2007,13,Mississippi State,17,14,Ole Miss
+705,2007,13,Colorado State,36,28,Wyoming
+706,2007,13,Bowling Green,37,10,Toledo
+707,2007,13,LSU,48,50,Arkansas
+708,2007,13,Texas A&M,38,30,Texas
+709,2007,13,Hawai'i,39,27,Boise State
+710,2007,13,Virginia,21,33,Virginia Tech
+711,2007,13,Pittsburgh,37,48,South Florida
+712,2007,13,NC State,0,37,Maryland
+713,2007,13,Boston College,28,14,Miami
+714,2007,13,Kent State,23,30,Buffalo
+715,2007,13,East Carolina,35,12,Tulane
+716,2007,13,Kentucky,50,52,Tennessee
+717,2007,13,Western Michigan,16,3,Temple
+718,2007,13,BYU,17,10,Utah
+719,2007,13,UCF,36,20,UTEP
+720,2007,13,Ohio,38,29,Miami (OH)
+721,2007,13,Memphis,55,52,SMU
+722,2007,13,Vanderbilt,17,31,Wake Forest
+723,2007,13,Rice,43,48,Tulsa
+724,2007,13,Southern Miss,16,10,Arkansas State
+725,2007,13,Georgia Tech,17,31,Georgia
+726,2007,13,Houston,59,6,Texas Southern
+727,2007,13,Oklahoma,49,17,Oklahoma State
+728,2007,13,UCLA,16,0,Oregon
+729,2007,13,Fresno State,45,29,Kansas State
+730,2007,13,Stanford,14,21,Notre Dame
+731,2007,13,North Carolina,20,14,Duke
+732,2007,13,Idaho,19,24,Utah State
+733,2007,13,West Virginia,66,21,UConn
+734,2007,13,Northern Illinois,21,27,Ball State
+735,2007,13,North Texas,27,26,Western Kentucky
+736,2007,13,San José State,27,24,Nevada
+737,2007,13,Marshall,46,39,UAB
+738,2007,13,Florida,45,12,Florida State
+739,2007,13,New Mexico,27,6,UNLV
+740,2007,13,South Carolina,21,23,Clemson
+741,2007,13,Florida International,23,55,Florida Atlantic
+742,2007,13,Louisiana,11,17,UL Monroe
+743,2007,13,Washington,35,42,Washington State
+744,2007,13,Syracuse,31,52,Cincinnati
+745,2007,13,Auburn,17,10,Alabama
+746,2007,13,Kansas,28,36,Missouri
+747,2007,13,San Diego State,33,45,TCU
+748,2007,14,Louisville,41,38,Rutgers
+749,2007,14,New Mexico State,23,30,Fresno State
+750,2007,14,Central Michigan,35,10,Miami (OH)
+751,2007,14,Navy,38,3,Army
+752,2007,14,UCF,44,25,Tulsa
+753,2007,14,Boston College,16,30,Virginia Tech
+754,2007,14,Troy,32,38,Florida Atlantic
+755,2007,14,LSU,21,14,Tennessee
+756,2007,14,Nevada,49,10,Louisiana Tech
+757,2007,14,USC,24,7,UCLA
+758,2007,14,Oregon,31,38,Oregon State
+759,2007,14,San Diego State,27,48,BYU
+760,2007,14,Florida International,38,19,North Texas
+761,2007,14,Stanford,20,13,California
+762,2007,14,West Virginia,9,13,Pittsburgh
+763,2007,14,Missouri,17,38,Oklahoma
+764,2007,14,Arizona State,20,17,Arizona
+765,2007,14,Hawai'i,35,28,Washington
+766,2007,1,Navy,32,35,Utah
+767,2007,1,Florida Atlantic,44,27,Memphis
+768,2007,1,Cincinnati,31,21,Southern Miss
+769,2007,1,New Mexico,23,0,Nevada
+770,2007,1,BYU,17,16,UCLA
+771,2007,1,East Carolina,41,38,Boise State
+772,2007,1,Central Michigan,48,51,Purdue
+773,2007,1,Texas,52,34,Arizona State
+774,2007,1,Michigan State,21,24,Boston College
+775,2007,1,Houston,13,20,TCU
+776,2007,1,Oregon State,21,14,Maryland
+777,2007,1,Wake Forest,24,10,UConn
+778,2007,1,Mississippi State,10,3,UCF
+779,2007,1,Texas A&M,17,24,Penn State
+780,2007,1,Colorado,24,30,Alabama
+781,2007,1,Air Force,36,42,California
+782,2007,1,Oregon,56,21,South Florida
+783,2007,1,Fresno State,40,28,Georgia Tech
+784,2007,1,Florida State,28,35,Kentucky
+785,2007,1,Oklahoma State,49,33,Indiana
+786,2007,1,Auburn,23,20,Clemson
+787,2007,1,Tennessee,21,17,Wisconsin
+788,2007,1,Arkansas,7,38,Missouri
+789,2007,1,Florida,35,41,Michigan
+790,2007,1,Virginia,28,31,Texas Tech
+791,2007,1,USC,49,17,Illinois
+792,2007,1,Georgia,41,10,Hawai'i
+793,2007,1,Oklahoma,28,48,West Virginia
+794,2007,1,Virginia Tech,21,24,Kansas
+795,2007,1,Ball State,30,52,Rutgers
+796,2007,1,Tulsa,63,7,Bowling Green
+797,2007,1,Ohio State,24,38,LSU

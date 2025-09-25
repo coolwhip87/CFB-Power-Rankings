@@ -1,0 +1,897 @@
+,season,week,home_team,home_points,away_points,away_team
+0,2022,1,Western Kentucky,38,27,Austin Peay
+1,2022,1,Northwestern,31,28,Nebraska
+2,2022,1,UNLV,52,21,Idaho State
+3,2022,1,Illinois,38,6,Wyoming
+4,2022,1,Utah State,31,20,UConn
+5,2022,1,Florida State,47,7,Duquesne
+6,2022,1,Florida Atlantic,43,13,Charlotte
+7,2022,1,North Carolina,56,24,Florida A&M
+8,2022,1,UTEP,13,31,North Texas
+9,2022,1,New Mexico State,12,23,Nevada
+10,2022,1,Hawai'i,10,63,Vanderbilt
+11,2022,1,Akron,30,23,St. Francis (PA)
+12,2022,1,UCF,56,10,South Carolina State
+13,2022,1,Pittsburgh,38,31,West Virginia
+14,2022,1,Florida International,38,37,Bryant
+15,2022,1,Oklahoma State,58,44,Central Michigan
+16,2022,1,Tennessee,59,10,Ball State
+17,2022,1,Toledo,37,0,Long Island University
+18,2022,1,Wake Forest,44,10,VMI
+19,2022,1,Northern Illinois,34,27,Eastern Illinois
+20,2022,1,Purdue,31,35,Penn State
+21,2022,1,UAB,59,0,Alabama A&M
+22,2022,1,Missouri,52,24,Louisiana Tech
+23,2022,1,Minnesota,38,0,New Mexico State
+24,2022,1,Arizona State,40,3,Northern Arizona
+25,2022,1,Fresno State,35,7,Cal Poly
+26,2022,1,San José State,21,17,Portland State
+27,2022,1,Charlotte,24,41,William & Mary
+28,2022,1,Eastern Michigan,42,34,Eastern Kentucky
+29,2022,1,Old Dominion,20,17,Virginia Tech
+30,2022,1,Michigan State,35,13,Western Michigan
+31,2022,1,Duke,30,0,Temple
+32,2022,1,Kansas,56,10,Tennessee Tech
+33,2022,1,Indiana,23,20,Illinois
+34,2022,1,Colorado,13,38,TCU
+35,2022,1,Boston College,21,22,Rutgers
+36,2022,1,App State,61,63,North Carolina
+37,2022,1,Maryland,31,10,Buffalo
+38,2022,1,East Carolina,20,21,NC State
+39,2022,1,Navy,7,14,Delaware
+40,2022,1,UConn,28,3,Central Connecticut
+41,2022,1,Iowa,7,3,South Dakota State
+42,2022,1,Michigan,51,7,Colorado State
+43,2022,1,Texas A&M,31,0,Sam Houston
+44,2022,1,Virginia,34,17,Richmond
+45,2022,1,Air Force,48,17,Northern Iowa
+46,2022,1,Iowa State,42,10,Southeast Missouri State
+47,2022,1,UCLA,45,17,Bowling Green
+48,2022,1,Oklahoma,45,13,UTEP
+49,2022,1,Wyoming,40,37,Tulsa
+50,2022,1,Miami,70,13,Bethune-Cookman
+51,2022,1,San Diego State,20,38,Arizona
+52,2022,1,Nebraska,38,17,North Dakota
+53,2022,1,UTSA,35,37,Houston
+54,2022,1,Georgia,49,3,Oregon
+55,2022,1,Marshall,55,3,Norfolk State
+56,2022,1,Arkansas,31,24,Cincinnati
+57,2022,1,Ole Miss,28,10,Troy
+58,2022,1,California,34,13,UC Davis
+59,2022,1,South Florida,21,50,BYU
+60,2022,1,South Alabama,48,7,Nicholls
+61,2022,1,Nevada,38,14,Texas State
+62,2022,1,James Madison,44,7,Middle Tennessee
+63,2022,1,Ohio,41,38,Florida Atlantic
+64,2022,1,USC,66,14,Rice
+65,2022,1,Georgia Southern,59,7,Morgan State
+66,2022,1,Florida,29,26,Utah
+67,2022,1,Louisiana,24,7,SE Louisiana
+68,2022,1,Auburn,42,16,Mercer
+69,2022,1,Baylor,69,10,UAlbany
+70,2022,1,Kentucky,37,13,Miami (OH)
+71,2022,1,Vanderbilt,42,31,Elon
+72,2022,1,Kansas State,34,0,South Dakota
+73,2022,1,Coastal Carolina,38,28,Army
+74,2022,1,Arkansas State,58,3,Grambling
+75,2022,1,Tulane,42,10,Massachusetts
+76,2022,1,Southern Miss,27,29,Liberty
+77,2022,1,Wisconsin,38,0,Illinois State
+78,2022,1,Ohio State,21,10,Notre Dame
+79,2022,1,Alabama,55,0,Utah State
+80,2022,1,North Texas,10,48,SMU
+81,2022,1,South Carolina,35,14,Georgia State
+82,2022,1,Mississippi State,49,23,Memphis
+83,2022,1,Stanford,41,10,Colgate
+84,2022,1,Texas Tech,63,10,Murray State
+85,2022,1,New Mexico,41,0,Maine
+86,2022,1,Syracuse,31,7,Louisville
+87,2022,1,Texas,52,10,UL Monroe
+88,2022,1,Washington State,24,17,Idaho
+89,2022,1,Washington,45,20,Kent State
+90,2022,1,Oregon State,34,17,Boise State
+91,2022,1,Hawai'i,17,49,Western Kentucky
+92,2022,1,Florida State,24,23,LSU
+93,2022,1,Georgia Tech,10,41,Clemson
+94,2022,2,UCF,14,20,Louisville
+95,2022,2,New Mexico,14,31,Boise State
+96,2022,2,Vanderbilt,25,45,Wake Forest
+97,2022,2,Minnesota,62,10,Western Illinois
+98,2022,2,Northwestern,23,31,Duke
+99,2022,2,Georgia State,28,35,North Carolina
+100,2022,2,Kansas State,40,12,Missouri
+101,2022,2,Ohio State,45,12,Arkansas State
+102,2022,2,Penn State,46,10,Ohio
+103,2022,2,Miami,30,7,Southern Miss
+104,2022,2,Texas,19,20,Alabama
+105,2022,2,Army,38,41,UTSA
+106,2022,2,Arkansas,44,30,South Carolina
+107,2022,2,NC State,55,3,Charleston Southern
+108,2022,2,Central Michigan,24,38,South Alabama
+109,2022,2,Utah,73,7,Southern Utah
+110,2022,2,Temple,30,14,Lafayette
+111,2022,2,Ball State,30,37,Western Michigan
+112,2022,2,Notre Dame,21,26,Marshall
+113,2022,2,Air Force,41,10,Colorado
+114,2022,2,Cincinnati,63,10,Kennesaw State
+115,2022,2,Wisconsin,14,17,Washington State
+116,2022,2,Navy,13,37,Memphis
+117,2022,2,Clemson,35,12,Furman
+118,2022,2,Pittsburgh,27,34,Tennessee
+119,2022,2,Texas A&M,14,17,App State
+120,2022,2,Charlotte,21,56,Maryland
+121,2022,2,Washington,52,6,Portland State
+122,2022,2,Michigan State,52,0,Akron
+123,2022,2,Bowling Green,57,59,Eastern Kentucky
+124,2022,2,Wyoming,33,10,Northern Colorado
+125,2022,2,Iowa,7,10,Iowa State
+126,2022,2,James Madison,63,7,Norfolk State
+127,2022,2,Colorado State,19,34,Middle Tennessee
+128,2022,2,California,20,14,UNLV
+129,2022,2,Illinois,24,3,Virginia
+130,2022,2,Texas Tech,33,30,Houston
+131,2022,2,Georgia,33,0,Samford
+132,2022,2,Purdue,56,0,Indiana State
+133,2022,2,Rutgers,66,7,Wagner
+134,2022,2,UCLA,45,7,Alabama State
+135,2022,2,Nevada,41,55,Incarnate Word
+136,2022,2,East Carolina,39,21,Old Dominion
+137,2022,2,Florida Atlantic,42,9,SE Louisiana
+138,2022,2,Coastal Carolina,31,27,Gardner-Webb
+139,2022,2,West Virginia,42,55,Kansas
+140,2022,2,Buffalo,31,37,Holy Cross
+141,2022,2,Liberty,21,14,UAB
+142,2022,2,Miami (OH),31,14,Robert Morris
+143,2022,2,Toledo,55,10,Massachusetts
+144,2022,2,Texas State,41,12,Florida International
+145,2022,2,Tulsa,38,35,Northern Illinois
+146,2022,2,Georgia Tech,35,17,Western Carolina
+147,2022,2,Ole Miss,59,3,Central Arkansas
+148,2022,2,Oklahoma,33,3,Kent State
+149,2022,2,Florida,16,26,Kentucky
+150,2022,2,Utah State,7,35,Weber State
+151,2022,2,Louisiana Tech,52,17,Stephen F. Austin
+152,2022,2,Tulane,52,0,Alcorn State
+153,2022,2,SMU,45,16,Lamar
+154,2022,2,South Florida,42,20,Howard
+155,2022,2,Louisiana,49,21,Eastern Michigan
+156,2022,2,Troy,38,17,Alabama A&M
+157,2022,2,UConn,14,48,Syracuse
+158,2022,2,LSU,65,17,Southern
+159,2022,2,Rice,52,10,McNeese
+160,2022,2,Nebraska,42,45,Georgia Southern
+161,2022,2,Stanford,28,41,USC
+162,2022,2,Oklahoma State,34,17,Arizona State
+163,2022,2,Auburn,24,16,San José State
+164,2022,2,North Texas,59,27,Texas Southern
+165,2022,2,UL Monroe,35,7,Nicholls
+166,2022,2,Virginia Tech,27,10,Boston College
+167,2022,2,Michigan,56,10,Hawai'i
+168,2022,2,Indiana,35,22,Idaho
+169,2022,2,TCU,59,17,Tarleton State
+170,2022,2,San Diego State,38,7,Idaho State
+171,2022,2,Oregon,70,14,Eastern Washington
+172,2022,2,UTEP,20,13,New Mexico State
+173,2022,2,BYU,26,20,Baylor
+174,2022,2,Fresno State,32,35,Oregon State
+175,2022,2,Arizona,17,39,Mississippi State
+176,2022,3,Louisville,31,35,Florida State
+177,2022,3,Wyoming,17,14,Air Force
+178,2022,3,Virginia Tech,27,7,Wofford
+179,2022,3,Indiana,33,30,Western Kentucky
+180,2022,3,Army,49,10,Villanova
+181,2022,3,Michigan,59,0,UConn
+182,2022,3,Baylor,42,7,Texas State
+183,2022,3,South Carolina,7,48,Georgia
+184,2022,3,Kentucky,31,0,Youngstown State
+185,2022,3,Miami (OH),17,38,Cincinnati
+186,2022,3,Nebraska,14,49,Oklahoma
+187,2022,3,Missouri,34,17,Abilene Christian
+188,2022,3,Kent State,63,10,Long Island University
+189,2022,3,Syracuse,32,29,Purdue
+190,2022,3,Northwestern,24,31,Southern Illinois
+191,2022,3,Coastal Carolina,38,26,Buffalo
+192,2022,3,Central Michigan,41,0,Bucknell
+193,2022,3,West Virginia,65,7,Towson
+194,2022,3,Ball State,31,0,Murray State
+195,2022,3,Temple,14,16,Rutgers
+196,2022,3,UCLA,32,31,South Alabama
+197,2022,3,Virginia,16,14,Old Dominion
+198,2022,3,Iowa State,43,10,Ohio
+199,2022,3,Notre Dame,24,17,California
+200,2022,3,Kansas State,10,17,Tulane
+201,2022,3,UNLV,58,27,North Texas
+202,2022,3,UAB,35,21,Georgia Southern
+203,2022,3,Northern Illinois,28,38,Vanderbilt
+204,2022,3,Auburn,12,41,Penn State
+205,2022,3,App State,32,28,Troy
+206,2022,3,Georgia Tech,0,42,Ole Miss
+207,2022,3,Minnesota,49,7,Colorado
+208,2022,3,Massachusetts,20,3,Stony Brook
+209,2022,3,Wisconsin,66,7,New Mexico State
+210,2022,3,Oregon,41,20,BYU
+211,2022,3,Boise State,30,7,UT Martin
+212,2022,3,Houston,30,48,Kansas
+213,2022,3,Alabama,63,7,UL Monroe
+214,2022,3,Washington State,38,7,Colorado State
+215,2022,3,Bowling Green,34,31,Marshall
+216,2022,3,Wake Forest,37,36,Liberty
+217,2022,3,Duke,49,20,North Carolina A&T
+218,2022,3,LSU,31,16,Mississippi State
+219,2022,3,East Carolina,49,10,Campbell
+220,2022,3,Ohio State,77,21,Toledo
+221,2022,3,Southern Miss,64,10,Northwestern State
+222,2022,3,Memphis,44,32,Arkansas State
+223,2022,3,Middle Tennessee,49,6,Tennessee State
+224,2022,3,NC State,27,14,Texas Tech
+225,2022,3,Arkansas,38,27,Missouri State
+226,2022,3,Oklahoma State,63,7,Arkansas-Pine Bluff
+227,2022,3,Georgia State,41,42,Charlotte
+228,2022,3,Tennessee,63,6,Akron
+229,2022,3,Tulsa,54,17,Jacksonville State
+230,2022,3,Washington,39,28,Michigan State
+231,2022,3,Florida Atlantic,14,40,UCF
+232,2022,3,Western Michigan,13,34,Pittsburgh
+233,2022,3,Florida,31,28,South Florida
+234,2022,3,Iowa,27,0,Nevada
+235,2022,3,Maryland,34,27,SMU
+236,2022,3,Boston College,38,17,Maine
+237,2022,3,Rice,33,21,Louisiana
+238,2022,3,Oregon State,68,28,Montana State
+239,2022,3,Texas,41,20,UTSA
+240,2022,3,Clemson,48,20,Louisiana Tech
+241,2022,3,New Mexico,27,10,UTEP
+242,2022,3,Texas A&M,17,9,Miami
+243,2022,3,Utah,35,7,San Diego State
+244,2022,3,USC,45,17,Fresno State
+245,2022,3,Arizona State,21,30,Eastern Michigan
+246,2022,3,Arizona,31,28,North Dakota State
+247,2022,3,Hawai'i,24,14,Duquesne
+248,2022,4,Georgia State,24,41,Coastal Carolina
+249,2022,4,Virginia Tech,10,33,West Virginia
+250,2022,4,Illinois,31,0,Chattanooga
+251,2022,4,Syracuse,22,20,Virginia
+252,2022,4,Air Force,48,20,Nevada
+253,2022,4,UTEP,27,10,Boise State
+254,2022,4,Louisville,41,3,South Florida
+255,2022,4,Eastern Michigan,31,50,Buffalo
+256,2022,4,Pittsburgh,45,24,Rhode Island
+257,2022,4,Penn State,33,14,Central Michigan
+258,2022,4,Georgia,39,22,Kent State
+259,2022,4,Iowa State,24,31,Baylor
+260,2022,4,Kansas,35,27,Duke
+261,2022,4,Mississippi State,45,14,Bowling Green
+262,2022,4,Auburn,17,14,Missouri
+263,2022,4,SMU,34,42,TCU
+264,2022,4,Michigan,34,27,Maryland
+265,2022,4,Wake Forest,45,51,Clemson
+266,2022,4,Temple,28,0,Massachusetts
+267,2022,4,Colorado,17,45,UCLA
+268,2022,4,Ohio,59,52,Fordham
+269,2022,4,App State,28,32,James Madison
+270,2022,4,San Diego State,17,14,Toledo
+271,2022,4,Miami,31,45,Middle Tennessee
+272,2022,4,Western Kentucky,73,0,Florida International
+273,2022,4,Tennessee,38,33,Florida
+274,2022,4,Texas Tech,37,34,Texas
+275,2022,4,North Carolina,32,45,Notre Dame
+276,2022,4,Michigan State,7,34,Minnesota
+277,2022,4,Cincinnati,45,24,Indiana
+278,2022,4,Memphis,44,34,North Texas
+279,2022,4,UTSA,52,24,Texas Southern
+280,2022,4,Colorado State,10,41,Sacramento State
+281,2022,4,Washington State,41,44,Oregon
+282,2022,4,UCF,27,10,Georgia Tech
+283,2022,4,Ole Miss,35,27,Tulsa
+284,2022,4,California,49,31,Arizona
+285,2022,4,Houston,34,27,Rice
+286,2022,4,Georgia Southern,34,23,Ball State
+287,2022,4,Old Dominion,29,26,Arkansas State
+288,2022,4,Liberty,21,12,Akron
+289,2022,4,East Carolina,20,23,Navy
+290,2022,4,Tulane,24,27,Southern Miss
+291,2022,4,Kentucky,31,23,Northern Illinois
+292,2022,4,Troy,16,7,Marshall
+293,2022,4,Rutgers,10,27,Iowa
+294,2022,4,Utah State,24,34,UNLV
+295,2022,4,South Alabama,38,14,Louisiana Tech
+296,2022,4,Texas State,34,0,Houston Christian
+297,2022,4,Texas A&M,23,21,Arkansas
+298,2022,4,Purdue,28,26,Florida Atlantic
+299,2022,4,LSU,38,0,New Mexico
+300,2022,4,Alabama,55,3,Vanderbilt
+301,2022,4,Ohio State,52,21,Wisconsin
+302,2022,4,South Carolina,56,20,Charlotte
+303,2022,4,Northwestern,14,17,Miami (OH)
+304,2022,4,NC State,41,10,UConn
+305,2022,4,New Mexico State,45,26,Hawai'i
+306,2022,4,UL Monroe,21,17,Louisiana
+307,2022,4,Florida State,44,14,Boston College
+308,2022,4,Oklahoma,34,41,Kansas State
+309,2022,4,Oregon State,14,17,USC
+310,2022,4,BYU,38,24,Wyoming
+311,2022,4,Washington,40,22,Stanford
+312,2022,4,San José State,34,6,Western Michigan
+313,2022,4,Arizona State,13,34,Utah
+314,2022,5,South Carolina,50,10,South Carolina State
+315,2022,5,BYU,38,26,Utah State
+316,2022,5,Houston,24,27,Tulane
+317,2022,5,Middle Tennessee,30,45,UTSA
+318,2022,5,Boise State,35,13,San Diego State
+319,2022,5,UCLA,40,32,Washington
+320,2022,5,UNLV,31,20,New Mexico
+321,2022,5,Iowa,14,27,Michigan
+322,2022,5,Army,14,31,Georgia State
+323,2022,5,Boston College,34,33,Louisville
+324,2022,5,Air Force,13,10,Navy
+325,2022,5,Memphis,24,3,Temple
+326,2022,5,Ole Miss,22,19,Kentucky
+327,2022,5,TCU,55,24,Oklahoma
+328,2022,5,Wisconsin,10,34,Illinois
+329,2022,5,Minnesota,10,20,Purdue
+330,2022,5,Kansas State,37,28,Texas Tech
+331,2022,5,James Madison,40,13,Texas State
+332,2022,5,Eastern Michigan,20,13,Massachusetts
+333,2022,5,Ball State,44,38,Northern Illinois
+334,2022,5,Utah,42,16,Oregon State
+335,2022,5,South Florida,28,48,East Carolina
+336,2022,5,Kent State,31,24,Ohio
+337,2022,5,Baylor,25,36,Oklahoma State
+338,2022,5,Buffalo,24,20,Miami (OH)
+339,2022,5,Kansas,14,11,Iowa State
+340,2022,5,Ohio State,49,10,Rutgers
+341,2022,5,Penn State,17,7,Northwestern
+342,2022,5,Florida State,21,31,Wake Forest
+343,2022,5,North Carolina,41,10,Virginia Tech
+344,2022,5,Toledo,38,17,Central Michigan
+345,2022,5,Akron,28,31,Bowling Green
+346,2022,5,Marshall,28,7,Gardner-Webb
+347,2022,5,App State,49,0,The Citadel
+348,2022,5,Arkansas,26,49,Alabama
+349,2022,5,Maryland,27,13,Michigan State
+350,2022,5,UConn,19,14,Fresno State
+351,2022,5,Mississippi State,42,24,Texas A&M
+352,2022,5,North Texas,45,28,Florida Atlantic
+353,2022,5,Syracuse,59,0,Wagner
+354,2022,5,Louisiana,17,20,South Alabama
+355,2022,5,Washington State,28,9,California
+356,2022,5,Old Dominion,24,38,Liberty
+357,2022,5,Charlotte,35,41,UTEP
+358,2022,5,Western Michigan,44,7,New Hampshire
+359,2022,5,Coastal Carolina,34,30,Georgia Southern
+360,2022,5,Tulsa,21,31,Cincinnati
+361,2022,5,Western Kentucky,27,34,Troy
+362,2022,5,Auburn,17,21,LSU
+363,2022,5,Arkansas State,45,28,UL Monroe
+364,2022,5,Clemson,30,20,NC State
+365,2022,5,Missouri,22,26,Georgia
+366,2022,5,Rice,28,24,UAB
+367,2022,5,Wyoming,16,33,San José State
+368,2022,5,Duke,38,17,Virginia
+369,2022,5,Texas,38,20,West Virginia
+370,2022,5,Nebraska,35,21,Indiana
+371,2022,5,Pittsburgh,21,26,Georgia Tech
+372,2022,5,New Mexico State,7,21,Florida International
+373,2022,5,Arizona,43,20,Colorado
+374,2022,5,USC,42,25,Arizona State
+375,2022,5,Oregon,45,27,Stanford
+376,2022,5,Florida,52,17,Eastern Washington
+377,2022,6,UCF,41,19,SMU
+378,2022,6,Rutgers,13,14,Nebraska
+379,2022,6,Memphis,32,33,Houston
+380,2022,6,Nevada,14,17,Colorado State
+381,2022,6,San José State,40,7,UNLV
+382,2022,6,LSU,13,40,Tennessee
+383,2022,6,Florida,24,17,Missouri
+384,2022,6,Mississippi State,40,17,Arkansas
+385,2022,6,Kansas,31,38,TCU
+386,2022,6,Oklahoma,0,49,Texas
+387,2022,6,Bowling Green,7,38,Buffalo
+388,2022,6,Western Michigan,23,45,Eastern Michigan
+389,2022,6,Virginia,17,34,Louisville
+390,2022,6,Maryland,29,31,Purdue
+391,2022,6,Indiana,10,31,Michigan
+392,2022,6,Ohio,55,34,Akron
+393,2022,6,Georgia State,41,33,Georgia Southern
+394,2022,6,Cincinnati,28,24,South Florida
+395,2022,6,UCLA,42,32,Utah
+396,2022,6,Miami (OH),27,24,Kent State
+397,2022,6,Northern Illinois,32,52,Toledo
+398,2022,6,Tulane,24,9,East Carolina
+399,2022,6,UAB,41,14,Middle Tennessee
+400,2022,6,Navy,53,21,Tulsa
+401,2022,6,Pittsburgh,45,29,Virginia Tech
+402,2022,6,Oklahoma State,41,31,Texas Tech
+403,2022,6,Central Michigan,16,17,Ball State
+404,2022,6,Massachusetts,24,42,Liberty
+405,2022,6,Northwestern,7,42,Wisconsin
+406,2022,6,Georgia,42,10,Auburn
+407,2022,6,Miami,24,27,North Carolina
+408,2022,6,Arizona State,45,38,Washington
+409,2022,6,Georgia Tech,23,20,Duke
+410,2022,6,Vanderbilt,28,52,Ole Miss
+411,2022,6,Michigan State,20,49,Ohio State
+412,2022,6,UTSA,31,28,Western Kentucky
+413,2022,6,Florida International,12,33,UConn
+414,2022,6,Arkansas State,20,42,James Madison
+415,2022,6,Utah State,34,27,Air Force
+416,2022,6,New Mexico,14,27,Wyoming
+417,2022,6,Louisiana Tech,41,31,UTEP
+418,2022,6,Troy,27,10,Southern Miss
+419,2022,6,Texas State,36,24,App State
+420,2022,6,Iowa State,9,10,Kansas State
+421,2022,6,Kentucky,14,24,South Carolina
+422,2022,6,USC,30,14,Washington State
+423,2022,6,Illinois,9,6,Iowa
+424,2022,6,Boston College,3,31,Clemson
+425,2022,6,Wake Forest,45,10,Army
+426,2022,6,Notre Dame,28,20,BYU
+427,2022,6,Alabama,24,20,Texas A&M
+428,2022,6,UL Monroe,21,28,Coastal Carolina
+429,2022,6,NC State,19,17,Florida State
+430,2022,6,Arizona,22,49,Oregon
+431,2022,6,Boise State,40,20,Fresno State
+432,2022,6,San Diego State,16,14,Hawai'i
+433,2022,6,Stanford,27,28,Oregon State
+434,2022,7,Marshall,13,23,Louisiana
+435,2022,7,West Virginia,43,40,Baylor
+436,2022,7,UCF,70,13,Temple
+437,2022,7,SMU,40,34,Navy
+438,2022,7,Florida International,10,30,UTSA
+439,2022,7,Ole Miss,48,34,Auburn
+440,2022,7,Oklahoma,52,42,Kansas
+441,2022,7,Coastal Carolina,21,49,Old Dominion
+442,2022,7,Bowling Green,17,13,Miami (OH)
+443,2022,7,Michigan,41,17,Penn State
+444,2022,7,Illinois,26,14,Minnesota
+445,2022,7,Texas,24,21,Iowa State
+446,2022,7,Army,42,17,Colgate
+447,2022,7,Akron,21,28,Central Michigan
+448,2022,7,Virginia Tech,14,20,Miami
+449,2022,7,Massachusetts,7,34,Buffalo
+450,2022,7,Colorado,20,13,California
+451,2022,7,Ball State,25,21,UConn
+452,2022,7,Toledo,52,31,Kent State
+453,2022,7,Middle Tennessee,17,35,Western Kentucky
+454,2022,7,TCU,43,40,Oklahoma State
+455,2022,7,Indiana,33,38,Maryland
+456,2022,7,Syracuse,24,9,NC State
+457,2022,7,Eastern Michigan,10,39,Northern Illinois
+458,2022,7,BYU,35,52,Arkansas
+459,2022,7,UAB,34,20,Charlotte
+460,2022,7,Georgia,55,0,Vanderbilt
+461,2022,7,Tennessee,52,49,Alabama
+462,2022,7,Liberty,21,20,Gardner-Webb
+463,2022,7,Western Michigan,14,33,Ohio
+464,2022,7,Troy,17,14,Texas State
+465,2022,7,Georgia Southern,45,38,James Madison
+466,2022,7,Michigan State,34,28,Wisconsin
+467,2022,7,North Texas,47,27,Louisiana Tech
+468,2022,7,South Florida,31,45,Tulane
+469,2022,7,Washington,49,39,Arizona
+470,2022,7,Florida Atlantic,17,14,Rice
+471,2022,7,Southern Miss,20,19,Arkansas State
+472,2022,7,Florida,35,45,LSU
+473,2022,7,South Alabama,41,34,UL Monroe
+474,2022,7,Colorado State,13,17,Utah State
+475,2022,7,Kentucky,27,17,Mississippi State
+476,2022,7,East Carolina,47,45,Memphis
+477,2022,7,Florida State,28,34,Clemson
+478,2022,7,Notre Dame,14,16,Stanford
+479,2022,7,Purdue,43,37,Nebraska
+480,2022,7,Duke,35,38,North Carolina
+481,2022,7,Utah,43,42,USC
+482,2022,7,New Mexico State,21,9,New Mexico
+483,2022,7,Oregon State,24,10,Washington State
+484,2022,7,UNLV,7,42,Air Force
+485,2022,7,Fresno State,17,10,San José State
+486,2022,7,Hawai'i,31,16,Nevada
+487,2022,8,App State,42,17,Georgia State
+488,2022,8,Georgia Tech,9,16,Virginia
+489,2022,8,South Alabama,6,10,Troy
+490,2022,8,Temple,16,27,Tulsa
+491,2022,8,Western Kentucky,20,17,UAB
+492,2022,8,Rutgers,24,17,Indiana
+493,2022,8,SMU,27,29,Cincinnati
+494,2022,8,Kent State,33,27,Akron
+495,2022,8,Baylor,35,23,Kansas
+496,2022,8,Ohio State,54,10,Iowa
+497,2022,8,Tennessee,65,24,UT Martin
+498,2022,8,Army,48,24,UL Monroe
+499,2022,8,Navy,20,38,Houston
+500,2022,8,Clemson,27,21,Syracuse
+501,2022,8,Miami,21,45,Duke
+502,2022,8,Central Michigan,18,34,Bowling Green
+503,2022,8,Buffalo,34,27,Toledo
+504,2022,8,Ohio,24,17,Northern Illinois
+505,2022,8,Ball State,16,20,Eastern Michigan
+506,2022,8,Notre Dame,44,21,UNLV
+507,2022,8,Louisiana Tech,41,42,Rice
+508,2022,8,Texas Tech,48,10,West Virginia
+509,2022,8,Liberty,41,14,BYU
+510,2022,8,Wake Forest,43,15,Boston College
+511,2022,8,Charlotte,15,34,Florida International
+512,2022,8,LSU,45,20,Ole Miss
+513,2022,8,Tulane,38,28,Memphis
+514,2022,8,Maryland,31,24,Northwestern
+515,2022,8,Wisconsin,35,24,Purdue
+516,2022,8,Old Dominion,23,28,Georgia Southern
+517,2022,8,Oklahoma State,41,34,Texas
+518,2022,8,Oregon,45,30,UCLA
+519,2022,8,Miami (OH),10,16,Western Michigan
+520,2022,8,James Madison,12,26,Marshall
+521,2022,8,UTSA,31,27,North Texas
+522,2022,8,UTEP,24,21,Florida Atlantic
+523,2022,8,Stanford,15,14,Arizona State
+524,2022,8,Missouri,17,14,Vanderbilt
+525,2022,8,Colorado State,17,13,Hawai'i
+526,2022,8,Texas State,14,20,Southern Miss
+527,2022,8,Louisiana,38,18,Arkansas State
+528,2022,8,New Mexico,9,41,Fresno State
+529,2022,8,Air Force,14,19,Boise State
+530,2022,8,Alabama,30,6,Mississippi State
+531,2022,8,South Carolina,30,24,Texas A&M
+532,2022,8,East Carolina,34,13,UCF
+533,2022,8,Penn State,45,17,Minnesota
+534,2022,8,Louisville,24,10,Pittsburgh
+535,2022,8,Oregon State,42,9,Colorado
+536,2022,8,TCU,38,28,Kansas State
+537,2022,8,Wyoming,28,14,Utah State
+538,2022,8,Nevada,7,23,San Diego State
+539,2022,8,California,21,28,Washington
+540,2022,9,NC State,22,21,Virginia Tech
+541,2022,9,Southern Miss,39,24,Louisiana
+542,2022,9,Washington State,17,21,Utah
+543,2022,9,BYU,24,27,East Carolina
+544,2022,9,Florida International,42,34,Louisiana Tech
+545,2022,9,Akron,9,27,Miami (OH)
+546,2022,9,West Virginia,31,41,TCU
+547,2022,9,Iowa State,13,27,Oklahoma
+548,2022,9,Eastern Michigan,24,27,Toledo
+549,2022,9,Penn State,31,44,Ohio State
+550,2022,9,Syracuse,24,41,Notre Dame
+551,2022,9,Houston,42,27,South Florida
+552,2022,9,Florida State,41,16,Georgia Tech
+553,2022,9,UConn,13,3,Boston College
+554,2022,9,Auburn,27,41,Arkansas
+555,2022,9,Virginia,12,14,Miami
+556,2022,9,Rice,23,56,Charlotte
+557,2022,9,Minnesota,31,0,Rutgers
+558,2022,9,Georgia State,31,17,Old Dominion
+559,2022,9,Georgia,42,20,Florida
+560,2022,9,Navy,27,20,Temple
+561,2022,9,Louisville,48,21,Wake Forest
+562,2022,9,Tulsa,34,45,SMU
+563,2022,9,UCF,25,21,Cincinnati
+564,2022,9,Nebraska,9,26,Illinois
+565,2022,9,Western Kentucky,13,40,North Texas
+566,2022,9,Iowa,33,13,Northwestern
+567,2022,9,App State,42,3,Robert Morris
+568,2022,9,Massachusetts,13,23,New Mexico State
+569,2022,9,Kansas State,48,0,Oklahoma State
+570,2022,9,California,24,42,Oregon
+571,2022,9,South Carolina,10,23,Missouri
+572,2022,9,Arkansas State,3,31,South Alabama
+573,2022,9,Arizona,37,45,USC
+574,2022,9,Florida Atlantic,24,17,UAB
+575,2022,9,Tennessee,44,6,Kentucky
+576,2022,9,Boise State,49,10,Colorado State
+577,2022,9,Marshall,13,24,Coastal Carolina
+578,2022,9,Texas Tech,17,45,Baylor
+579,2022,9,Colorado,34,42,Arizona State
+580,2022,9,Michigan,29,7,Michigan State
+581,2022,9,Texas A&M,28,31,Ole Miss
+582,2022,9,North Carolina,42,24,Pittsburgh
+583,2022,9,UTEP,13,24,Middle Tennessee
+584,2022,9,Fresno State,32,28,San Diego State
+585,2022,9,UCLA,38,13,Stanford
+586,2022,9,San José State,35,28,Nevada
+587,2022,9,Hawai'i,20,27,Wyoming
+588,2022,10,Kent State,20,27,Ball State
+589,2022,10,Ohio,45,24,Buffalo
+590,2022,10,Bowling Green,13,9,Western Michigan
+591,2022,10,Northern Illinois,22,35,Central Michigan
+592,2022,10,Rice,37,30,UTEP
+593,2022,10,Coastal Carolina,35,28,App State
+594,2022,10,UConn,27,10,Massachusetts
+595,2022,10,Boston College,31,38,Duke
+596,2022,10,Washington,24,21,Oregon State
+597,2022,10,Army,7,13,Air Force
+598,2022,10,TCU,34,24,Texas Tech
+599,2022,10,Purdue,3,24,Iowa
+600,2022,10,Nebraska,13,20,Minnesota
+601,2022,10,Virginia,28,31,North Carolina
+602,2022,10,Wisconsin,23,10,Maryland
+603,2022,10,Texas A&M,24,41,Florida
+604,2022,10,Missouri,17,21,Kentucky
+605,2022,10,Tulsa,13,27,Tulane
+606,2022,10,Northwestern,7,21,Ohio State
+607,2022,10,Charlotte,7,59,Western Kentucky
+608,2022,10,Virginia Tech,27,28,Georgia Tech
+609,2022,10,Temple,54,28,South Florida
+610,2022,10,Old Dominion,0,12,Marshall
+611,2022,10,Southern Miss,14,42,Georgia State
+612,2022,10,Louisiana Tech,40,24,Middle Tennessee
+613,2022,10,Oklahoma,35,38,Baylor
+614,2022,10,Iowa State,31,14,West Virginia
+615,2022,10,Illinois,15,23,Michigan State
+616,2022,10,Pittsburgh,19,9,Syracuse
+617,2022,10,Utah State,27,10,New Mexico
+618,2022,10,Memphis,28,35,UCF
+619,2022,10,UAB,38,44,UTSA
+620,2022,10,Georgia,27,13,Tennessee
+621,2022,10,Stanford,14,52,Washington State
+622,2022,10,Kansas,37,16,Oklahoma State
+623,2022,10,Colorado,10,49,Oregon
+624,2022,10,Indiana,14,45,Penn State
+625,2022,10,North Texas,52,14,Florida International
+626,2022,10,Georgia Southern,31,38,South Alabama
+627,2022,10,Arkansas,19,21,Liberty
+628,2022,10,Cincinnati,20,10,Navy
+629,2022,10,UL Monroe,31,30,Texas State
+630,2022,10,Louisiana,17,23,Troy
+631,2022,10,LSU,32,31,Alabama
+632,2022,10,SMU,77,63,Houston
+633,2022,10,Kansas State,27,34,Texas
+634,2022,10,San Diego State,14,10,UNLV
+635,2022,10,Boise State,28,31,BYU
+636,2022,10,Rutgers,17,52,Michigan
+637,2022,10,Mississippi State,39,33,Auburn
+638,2022,10,Vanderbilt,27,38,South Carolina
+639,2022,10,Louisville,34,10,James Madison
+640,2022,10,Miami,3,45,Florida State
+641,2022,10,Utah,45,20,Arizona
+642,2022,10,Notre Dame,35,14,Clemson
+643,2022,10,NC State,30,21,Wake Forest
+644,2022,10,Fresno State,55,13,Hawai'i
+645,2022,10,USC,41,35,California
+646,2022,10,Arizona State,36,50,UCLA
+647,2022,10,San José State,28,16,Colorado State
+648,2022,11,Akron,28,34,Eastern Michigan
+649,2022,11,Miami (OH),21,37,Ohio
+650,2022,11,Toledo,28,21,Ball State
+651,2022,11,Central Michigan,31,27,Buffalo
+652,2022,11,Bowling Green,6,40,Kent State
+653,2022,11,Western Michigan,21,24,Northern Illinois
+654,2022,11,Louisiana,36,17,Georgia Southern
+655,2022,11,Memphis,26,10,Tulsa
+656,2022,11,Cincinnati,27,25,East Carolina
+657,2022,11,USC,55,17,Colorado
+658,2022,11,UNLV,30,37,Fresno State
+659,2022,11,Tennessee,66,24,Missouri
+660,2022,11,Kentucky,21,24,Vanderbilt
+661,2022,11,Michigan State,27,21,Rutgers
+662,2022,11,Ohio State,56,14,Indiana
+663,2022,11,Duke,24,7,Virginia Tech
+664,2022,11,Virginia,7,37,Pittsburgh
+665,2022,11,South Florida,23,41,SMU
+666,2022,11,Illinois,24,31,Purdue
+667,2022,11,West Virginia,23,20,Oklahoma
+668,2022,11,UConn,36,33,Liberty
+669,2022,11,Navy,32,35,Notre Dame
+670,2022,11,Arkansas,10,13,LSU
+671,2022,11,Old Dominion,3,37,James Madison
+672,2022,11,Georgia State,28,31,UL Monroe
+673,2022,11,Western Kentucky,45,10,Rice
+674,2022,11,New Mexico State,51,14,Lamar
+675,2022,11,Arkansas State,35,33,Massachusetts
+676,2022,11,Houston,43,36,Temple
+677,2022,11,Marshall,28,21,App State
+678,2022,11,Penn State,30,0,Maryland
+679,2022,11,Georgia Tech,14,35,Miami
+680,2022,11,Troy,10,9,Army
+681,2022,11,Oklahoma State,20,14,Iowa State
+682,2022,11,Washington State,28,18,Arizona State
+683,2022,11,Ole Miss,24,30,Alabama
+684,2022,11,Michigan,34,3,Nebraska
+685,2022,11,Air Force,35,3,New Mexico
+686,2022,11,Clemson,31,16,Louisville
+687,2022,11,Iowa,24,10,Wisconsin
+688,2022,11,NC State,20,21,Boston College
+689,2022,11,Tulane,31,38,UCF
+690,2022,11,Middle Tennessee,24,14,Charlotte
+691,2022,11,UTSA,51,7,Louisiana Tech
+692,2022,11,UAB,41,21,North Texas
+693,2022,11,Minnesota,31,3,Northwestern
+694,2022,11,Florida,38,6,South Carolina
+695,2022,11,South Alabama,38,21,Texas State
+696,2022,11,Texas Tech,43,28,Kansas
+697,2022,11,Mississippi State,19,45,Georgia
+698,2022,11,Florida International,7,52,Florida Atlantic
+699,2022,11,Colorado State,13,14,Wyoming
+700,2022,11,Baylor,3,31,Kansas State
+701,2022,11,Oregon,34,37,Washington
+702,2022,11,Texas,10,17,TCU
+703,2022,11,Auburn,13,10,Texas A&M
+704,2022,11,Coastal Carolina,26,23,Southern Miss
+705,2022,11,Wake Forest,34,36,North Carolina
+706,2022,11,Syracuse,3,38,Florida State
+707,2022,11,Oregon State,38,10,California
+708,2022,11,Utah,42,7,Stanford
+709,2022,11,Nevada,3,41,Boise State
+710,2022,11,UCLA,28,34,Arizona
+711,2022,11,San Diego State,43,27,San José State
+712,2022,11,Hawai'i,34,41,Utah State
+713,2022,12,Toledo,35,42,Bowling Green
+714,2022,12,Ball State,18,32,Ohio
+715,2022,12,Kent State,24,31,Eastern Michigan
+716,2022,12,Northern Illinois,23,29,Miami (OH)
+717,2022,12,Central Michigan,10,12,Western Michigan
+718,2022,12,Tulane,59,24,SMU
+719,2022,12,Tulsa,48,42,South Florida
+720,2022,12,New Mexico,10,34,San Diego State
+721,2022,12,UCF,14,17,Navy
+722,2022,12,Alabama,34,0,Austin Peay
+723,2022,12,Mississippi State,56,7,East Tennessee State
+724,2022,12,Baylor,28,29,TCU
+725,2022,12,Purdue,17,9,Northwestern
+726,2022,12,Nebraska,14,15,Wisconsin
+727,2022,12,Liberty,22,23,Virginia Tech
+728,2022,12,Army,34,17,UConn
+729,2022,12,Florida State,49,17,Louisiana
+730,2022,12,Michigan,19,17,Illinois
+731,2022,12,Texas A&M,20,3,Massachusetts
+732,2022,12,Vanderbilt,31,24,Florida
+733,2022,12,Pittsburgh,28,26,Duke
+734,2022,12,Michigan State,31,39,Indiana
+735,2022,12,Rice,7,41,UTSA
+736,2022,12,Arizona,20,31,Washington State
+737,2022,12,West Virginia,31,48,Kansas State
+738,2022,12,James Madison,42,40,Georgia State
+739,2022,12,Memphis,59,0,North Alabama
+740,2022,12,East Carolina,3,42,Houston
+741,2022,12,Arizona State,7,31,Oregon State
+742,2022,12,Notre Dame,44,0,Boston College
+743,2022,12,App State,27,14,Old Dominion
+744,2022,12,Middle Tennessee,49,21,Florida Atlantic
+745,2022,12,BYU,52,26,Utah Tech
+746,2022,12,Charlotte,26,21,Louisiana Tech
+747,2022,12,Troy,34,16,UL Monroe
+748,2022,12,Southern Miss,20,27,South Alabama
+749,2022,12,Kansas,14,55,Texas
+750,2022,12,Clemson,40,10,Miami
+751,2022,12,Rutgers,10,55,Penn State
+752,2022,12,Louisville,25,10,NC State
+753,2022,12,Maryland,30,43,Ohio State
+754,2022,12,Kentucky,6,16,Georgia
+755,2022,12,Auburn,41,17,Western Kentucky
+756,2022,12,Minnesota,10,13,Iowa
+757,2022,12,UTEP,40,6,Florida International
+758,2022,12,Temple,3,23,Cincinnati
+759,2022,12,Texas State,16,13,Arkansas State
+760,2022,12,California,27,20,Stanford
+761,2022,12,North Carolina,17,21,Georgia Tech
+762,2022,12,Georgia Southern,10,23,Marshall
+763,2022,12,Iowa State,10,14,Texas Tech
+764,2022,12,South Carolina,63,38,Tennessee
+765,2022,12,Wyoming,17,20,Boise State
+766,2022,12,Missouri,45,14,New Mexico State
+767,2022,12,Arkansas,42,27,Ole Miss
+768,2022,12,Oklahoma,28,13,Oklahoma State
+769,2022,12,UCLA,45,48,USC
+770,2022,12,Wake Forest,45,35,Syracuse
+771,2022,12,Air Force,24,12,Colorado State
+772,2022,12,Washington,54,7,Colorado
+773,2022,12,LSU,41,10,UAB
+774,2022,12,Utah State,35,31,San José State
+775,2022,12,Oregon,20,17,Utah
+776,2022,12,Nevada,14,41,Fresno State
+777,2022,12,Hawai'i,31,25,UNLV
+778,2022,13,Ohio,38,14,Bowling Green
+779,2022,13,Miami (OH),18,17,Ball State
+780,2022,13,Ole Miss,22,24,Mississippi State
+781,2022,13,Texas,38,27,Baylor
+782,2022,13,Cincinnati,24,27,Tulane
+783,2022,13,Eastern Michigan,38,19,Central Michigan
+784,2022,13,Western Michigan,20,14,Toledo
+785,2022,13,Boise State,42,23,Utah State
+786,2022,13,Arizona,38,35,Arizona State
+787,2022,13,North Carolina,27,30,NC State
+788,2022,13,Missouri,29,27,Arkansas
+789,2022,13,Colorado State,17,0,New Mexico
+790,2022,13,Iowa,17,24,Nebraska
+791,2022,13,California,28,35,UCLA
+792,2022,13,Florida State,45,38,Florida
+793,2022,13,Fresno State,30,0,Wyoming
+794,2022,13,Marshall,28,23,Georgia State
+795,2022,13,South Alabama,27,20,Old Dominion
+796,2022,13,James Madison,47,7,Coastal Carolina
+797,2022,13,Florida Atlantic,31,32,Western Kentucky
+798,2022,13,Georgia,37,14,Georgia Tech
+799,2022,13,Maryland,37,0,Rutgers
+800,2022,13,Ohio State,23,45,Michigan
+801,2022,13,Clemson,30,31,South Carolina
+802,2022,13,Liberty,14,49,New Mexico State
+803,2022,13,Oklahoma State,19,24,West Virginia
+804,2022,13,Massachusetts,7,44,Army
+805,2022,13,Buffalo,27,30,Kent State
+806,2022,13,Temple,46,49,East Carolina
+807,2022,13,Northern Illinois,12,44,Akron
+808,2022,13,North Texas,21,17,Rice
+809,2022,13,Kentucky,26,13,Louisville
+810,2022,13,Northwestern,3,41,Illinois
+811,2022,13,Arkansas State,19,48,Troy
+812,2022,13,San José State,27,14,Hawai'i
+813,2022,13,Alabama,49,27,Auburn
+814,2022,13,UTSA,34,31,UTEP
+815,2022,13,Indiana,16,30,Purdue
+816,2022,13,SMU,34,31,Memphis
+817,2022,13,Louisiana Tech,27,37,UAB
+818,2022,13,Oregon State,38,34,Oregon
+819,2022,13,Duke,34,31,Wake Forest
+820,2022,13,Wisconsin,16,23,Minnesota
+821,2022,13,Colorado,21,63,Utah
+822,2022,13,TCU,62,14,Iowa State
+823,2022,13,Penn State,35,16,Michigan State
+824,2022,13,Texas State,13,41,Louisiana
+825,2022,13,UL Monroe,10,20,Southern Miss
+826,2022,13,Florida International,28,33,Middle Tennessee
+827,2022,13,Georgia Southern,51,48,App State
+828,2022,13,UNLV,27,22,Nevada
+829,2022,13,South Florida,39,46,UCF
+830,2022,13,Texas A&M,38,23,LSU
+831,2022,13,USC,38,27,Notre Dame
+832,2022,13,Houston,30,37,Tulsa
+833,2022,13,Vanderbilt,0,56,Tennessee
+834,2022,13,Boston College,23,32,Syracuse
+835,2022,13,Texas Tech,51,48,Oklahoma
+836,2022,13,Kansas State,47,27,Kansas
+837,2022,13,Miami,16,42,Pittsburgh
+838,2022,13,San Diego State,3,13,Air Force
+839,2022,13,Washington State,33,51,Washington
+840,2022,13,Stanford,26,35,BYU
+841,2022,14,Buffalo,23,22,Akron
+842,2022,14,UTSA,48,27,North Texas
+843,2022,14,USC,24,47,Utah
+844,2022,14,Ohio,7,17,Toledo
+845,2022,14,TCU,28,31,Kansas State
+846,2022,14,New Mexico State,65,3,Valparaiso
+847,2022,14,Troy,45,26,Coastal Carolina
+848,2022,14,Tulane,45,28,UCF
+849,2022,14,Georgia,50,30,LSU
+850,2022,14,Boise State,16,28,Fresno State
+851,2022,14,North Carolina,10,39,Clemson
+852,2022,14,Michigan,43,22,Purdue
+853,2022,15,Army,20,17,Navy
+854,2022,1,UAB,24,20,Miami (OH)
+855,2022,1,Troy,18,12,UTSA
+856,2022,1,Louisville,24,7,Cincinnati
+857,2022,1,Oregon State,30,3,Florida
+858,2022,1,Fresno State,29,6,Washington State
+859,2022,1,Southern Miss,38,24,Rice
+860,2022,1,BYU,24,23,SMU
+861,2022,1,Boise State,35,32,North Texas
+862,2022,1,UConn,14,28,Marshall
+863,2022,1,San José State,27,41,Eastern Michigan
+864,2022,1,Toledo,21,19,Liberty
+865,2022,1,South Alabama,23,44,Western Kentucky
+866,2022,1,Air Force,30,15,Baylor
+867,2022,1,Houston,23,16,Louisiana
+868,2022,1,Missouri,17,27,Wake Forest
+869,2022,1,San Diego State,23,25,Middle Tennessee
+870,2022,1,Bowling Green,19,24,New Mexico State
+871,2022,1,Buffalo,23,21,Georgia Southern
+872,2022,1,Utah State,10,38,Memphis
+873,2022,1,East Carolina,53,29,Coastal Carolina
+874,2022,1,Oklahoma State,17,24,Wisconsin
+875,2022,1,Duke,30,13,UCF
+876,2022,1,Arkansas,55,53,Kansas
+877,2022,1,North Carolina,27,28,Oregon
+878,2022,1,Ole Miss,25,42,Texas Tech
+879,2022,1,Minnesota,28,20,Syracuse
+880,2022,1,Florida State,35,32,Oklahoma
+881,2022,1,Washington,27,20,Texas
+882,2022,1,NC State,12,16,Maryland
+883,2022,1,UCLA,35,37,Pittsburgh
+884,2022,1,South Carolina,38,45,Notre Dame
+885,2022,1,Wyoming,27,30,Ohio
+886,2022,1,Clemson,14,31,Tennessee
+887,2022,1,Kentucky,0,21,Iowa
+888,2022,1,Kansas State,20,45,Alabama
+889,2022,1,Michigan,45,51,TCU
+890,2022,1,Georgia,42,41,Ohio State
+891,2022,1,Illinois,10,19,Mississippi State
+892,2022,1,Purdue,7,63,LSU
+893,2022,1,USC,45,46,Tulane
+894,2022,1,Utah,21,35,Penn State
+895,2022,1,Georgia,65,7,TCU
