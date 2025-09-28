@@ -1,0 +1,122 @@
+,school,rating
+0,USC,32.0
+1,Oklahoma,30.9
+2,Ohio State,29.2
+3,LSU,28.9
+4,Florida,28.8
+5,West Virginia,28.2
+6,Texas,25.8
+7,Texas Tech,24.9
+8,Kansas,24.9
+9,Georgia,23.6
+10,Oregon,23.1
+11,Missouri,21.4
+12,Auburn,20.7
+13,Penn State,20.2
+14,Tennessee,20.2
+15,Virginia Tech,19.3
+16,Arkansas,18.0
+17,Cincinnati,17.5
+18,Kansas State,17.5
+19,Boston College,16.7
+20,California,16.6
+21,South Carolina,16.2
+22,Clemson,16.2
+23,South Florida,15.8
+24,BYU,15.4
+25,Rutgers,14.3
+26,Kentucky,13.4
+27,Michigan,13.3
+28,Oklahoma State,13.1
+29,Boise State,13.1
+30,Alabama,12.8
+31,Illinois,12.7
+32,Arizona State,12.6
+33,Purdue,12.4
+34,Hawai'i,12.4
+35,Louisville,12.1
+36,Utah,11.9
+37,Oregon State,11.6
+38,UCLA,11.2
+39,Wisconsin,10.4
+40,Nebraska,10.0
+41,Michigan State,10.0
+42,Florida State,9.6
+43,Georgia Tech,8.7
+44,UConn,8.5
+45,Texas A&M,7.6
+46,Pittsburgh,7.5
+47,Virginia,7.5
+48,Arizona,7.3
+49,Iowa,6.5
+50,Wake Forest,6.4
+51,TCU,6.4
+52,Maryland,5.9
+53,Air Force,5.7
+54,Washington,5.2
+55,New Mexico,4.4
+56,Colorado,4.2
+57,UCF,3.5
+58,Washington State,3.2
+59,Miami,3.2
+60,Vanderbilt,2.5
+61,Mississippi State,2.0
+62,North Carolina,1.9
+63,Fresno State,1.8
+64,Indiana,-0.2
+65,Tulsa,-0.4
+66,Southern Miss,-0.5
+67,East Carolina,-0.7
+68,NC State,-1.1
+69,Troy,-2.4
+70,Northwestern,-2.4
+71,Ole Miss,-2.7
+72,Bowling Green,-3.8
+73,Nevada,-4.2
+74,Ball State,-4.6
+75,Houston,-4.7
+76,Wyoming,-5.0
+77,Stanford,-6.7
+78,UTEP,-7.0
+79,Minnesota,-7.6
+80,Colorado State,-7.7
+81,Marshall,-9.1
+82,Iowa State,-9.1
+83,Notre Dame,-9.7
+84,Navy,-9.8
+85,Central Michigan,-10.6
+86,Ohio,-11.3
+87,Syracuse,-11.7
+88,Miami (OH),-11.8
+89,Western Michigan,-12.1
+90,Kent State,-12.4
+91,Florida Atlantic,-12.5
+92,San Diego State,-12.6
+93,Toledo,-12.8
+94,Memphis,-12.9
+95,SMU,-13.4
+96,UNLV,-13.5
+97,Baylor,-13.6
+98,Rice,-14.4
+99,Louisiana Tech,-14.8
+100,Tulane,-15.5
+101,Arkansas State,-15.9
+102,San José State,-16.0
+103,Middle Tennessee,-16.1
+104,Northern Illinois,-17.0
+105,Akron,-17.6
+106,New Mexico State,-18.7
+107,Temple,-19.0
+108,Buffalo,-20.1
+109,UL Monroe,-21.0
+110,UAB,-21.7
+111,Duke,-22.0
+112,Louisiana,-22.3
+113,Western Kentucky,-22.5
+114,North Texas,-22.8
+115,Eastern Michigan,-24.8
+116,Idaho,-25.5
+117,Utah State,-27.6
+118,Army,-28.4
+119,Florida International,-32.9
+120,nationalAverages,1.3466666666666667

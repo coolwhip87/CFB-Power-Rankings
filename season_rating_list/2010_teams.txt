@@ -1,0 +1,122 @@
+,school,rating
+0,Alabama,30.1
+1,Ohio State,30.0
+2,Oregon,28.2
+3,Stanford,28.1
+4,Arkansas,27.1
+5,Auburn,26.5
+6,Boise State,26.4
+7,Oklahoma State,25.9
+8,TCU,25.2
+9,Oklahoma,23.5
+10,Wisconsin,23.1
+11,Georgia,22.2
+12,Miami,21.6
+13,Virginia Tech,21.2
+14,LSU,20.4
+15,South Carolina,20.3
+16,Florida State,19.7
+17,Missouri,19.3
+18,Nebraska,18.8
+19,Iowa,17.0
+20,Notre Dame,16.5
+21,West Virginia,16.2
+22,USC,15.2
+23,Arizona,14.8
+24,Arizona State,14.6
+25,Florida,14.0
+26,Texas A&M,13.8
+27,Michigan State,13.8
+28,Hawai'i,12.8
+29,Utah,12.2
+30,Maryland,11.9
+31,Pittsburgh,11.3
+32,Louisville,10.9
+33,Nevada,10.8
+34,Texas,10.6
+35,Mississippi State,10.6
+36,Clemson,10.1
+37,California,10.0
+38,NC State,9.3
+39,San Diego State,8.9
+40,Kansas State,8.6
+41,Illinois,8.6
+42,Tennessee,7.7
+43,Michigan,7.7
+44,North Carolina,7.7
+45,Northern Illinois,7.6
+46,Texas Tech,7.4
+47,Boston College,7.1
+48,Penn State,6.6
+49,Kentucky,6.0
+50,Southern Miss,5.6
+51,Syracuse,5.3
+52,UCF,5.1
+53,Baylor,4.6
+54,Oregon State,4.6
+55,Air Force,3.9
+56,UCLA,3.9
+57,Fresno State,3.7
+58,BYU,3.3
+59,Washington,3.2
+60,Georgia Tech,2.9
+61,Ole Miss,2.8
+62,Cincinnati,2.5
+63,Tulsa,0.4
+64,South Florida,0.4
+65,Northwestern,-1.1
+66,Colorado,-1.9
+67,Virginia,-2.1
+68,SMU,-3.2
+69,UConn,-3.6
+70,Navy,-4.2
+71,Troy,-4.4
+72,Western Michigan,-4.5
+73,Houston,-4.7
+74,Temple,-5.2
+75,East Carolina,-5.3
+76,Indiana,-5.3
+77,Toledo,-5.5
+78,Iowa State,-5.7
+79,Purdue,-6.5
+80,Ohio,-6.6
+81,Miami (OH),-6.7
+82,Washington State,-7.4
+83,Louisiana Tech,-7.4
+84,Kent State,-7.6
+85,Duke,-9.6
+86,UAB,-9.7
+87,Vanderbilt,-10.0
+88,Minnesota,-10.4
+89,UTEP,-11.2
+90,Rutgers,-11.7
+91,Idaho,-11.9
+92,Wake Forest,-12.1
+93,Florida International,-12.3
+94,Middle Tennessee,-12.5
+95,Wyoming,-13.0
+96,Marshall,-14.1
+97,Army,-14.6
+98,Central Michigan,-14.7
+99,North Texas,-15.6
+100,Ball State,-15.6
+101,Arkansas State,-15.9
+102,Rice,-16.6
+103,Colorado State,-16.8
+104,Kansas,-17.0
+105,San José State,-17.1
+106,Utah State,-19.2
+107,Tulane,-21.1
+108,Florida Atlantic,-22.8
+109,Bowling Green,-23.5
+110,UNLV,-24.0
+111,UL Monroe,-24.1
+112,New Mexico,-24.8
+113,Memphis,-25.0
+114,Buffalo,-27.0
+115,Western Kentucky,-27.6
+116,Akron,-28.2
+117,Louisiana,-28.2
+118,Eastern Michigan,-29.2
+119,New Mexico State,-29.4
+120,nationalAverages,0.9558333333333333

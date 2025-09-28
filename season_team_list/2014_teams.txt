@@ -1,0 +1,129 @@
+,school,abbreviation,alternate_names,conference
+0,Air Force,AF,"['AF', 'Air Force']",Mountain West
+1,Akron,AKR,"['AKR', 'Akron']",Mid-American
+2,Alabama,ALA,"['ALA', 'Alabama']",SEC
+3,App State,APP,"['Appalachian State', 'APP', 'App State']",Sun Belt
+4,Arizona,ARIZ,"['ARIZ', 'Arizona']",Pac-12
+5,Arizona State,ASU,"['ASU', 'Arizona St']",Pac-12
+6,Arkansas,ARK,"['ARK', 'Arkansas']",SEC
+7,Arkansas State,ARST,"['ARST', 'Arkansas St']",Sun Belt
+8,Army,ARMY,"['ARMY', 'Army']",FBS Independents
+9,Auburn,AUB,"['AUB', 'Auburn']",SEC
+10,Ball State,BALL,"['BALL', 'Ball State']",Mid-American
+11,Baylor,BAY,"['BAY', 'Baylor']",Big 12
+12,Boise State,BOIS,"['BOIS', 'Boise St']",Mountain West
+13,Boston College,BC,"['BC', 'Boston College']",ACC
+14,Bowling Green,BGSU,"['Bowling Green State', 'BGSU', 'Bowling Green']",Mid-American
+15,Buffalo,BUF,"['BUF', 'Buffalo']",Mid-American
+16,BYU,BYU,"['Brigham Young', 'BYU', 'BYU']",FBS Independents
+17,California,CAL,"['CAL', 'California']",Pac-12
+18,Central Michigan,CMU,"['CMU', 'C Michigan']",Mid-American
+19,Cincinnati,CIN,"['CIN', 'Cincinnati']",American Athletic
+20,Clemson,CLEM,"['CLEM', 'Clemson']",ACC
+21,Colorado,COLO,"['COLO', 'Colorado']",Pac-12
+22,Colorado State,CSU,"['CSU', 'Colorado St']",Mountain West
+23,Duke,DUKE,"['DUKE', 'Duke']",ACC
+24,East Carolina,ECU,"['ECU', 'East Carolina']",American Athletic
+25,Eastern Michigan,EMU,"['EMU', 'E Michigan']",Mid-American
+26,Florida,FLA,"['FLA', 'Florida']",SEC
+27,Florida Atlantic,FAU,"['FAU', 'FAU']",Conference USA
+28,Florida International,FIU,"['Florida Intl', 'FIU', 'FIU']",Conference USA
+29,Florida State,FSU,"['FSU', 'Florida St']",ACC
+30,Fresno State,FRES,"['FRES', 'Fresno St']",Mountain West
+31,Georgia,UGA,"['UGA', 'Georgia']",SEC
+32,Georgia Southern,GASO,"['GASO', 'GA Southern']",Sun Belt
+33,Georgia State,GAST,"['GAST', 'Georgia St']",Sun Belt
+34,Georgia Tech,GT,"['GT', 'Georgia Tech']",ACC
+35,Hawai'i,HAW,"['HAW', 'Hawai’i']",Mountain West
+36,Houston,HOU,"['HOU', 'Houston']",American Athletic
+37,Idaho,IDHO,"['IDHO', 'Idaho']",Sun Belt
+38,Illinois,ILL,"['ILL', 'Illinois']",Big Ten
+39,Indiana,IU,"['IU', 'Indiana']",Big Ten
+40,Iowa,IOWA,"['IOWA', 'Iowa']",Big Ten
+41,Iowa State,ISU,"['ISU', 'Iowa State']",Big 12
+42,Kansas,KU,"['KU', 'Kansas']",Big 12
+43,Kansas State,KSU,"['KSU', 'Kansas St']",Big 12
+44,Kent State,KENT,"['KENT', 'Kent State']",Mid-American
+45,Kentucky,UK,"['UK', 'Kentucky']",SEC
+46,Louisiana,UL,"['UL Lafayette', 'UL', 'Louisiana']",Sun Belt
+47,Louisiana Tech,LT,"['LT', 'Louisiana Tech']",Conference USA
+48,Louisville,LOU,"['LOU', 'Louisville']",ACC
+49,LSU,LSU,"['Louisiana State', 'LSU', 'LSU']",SEC
+50,Marshall,MRSH,"['MRSH', 'Marshall']",Conference USA
+51,Maryland,MD,"['MD', 'Maryland']",Big Ten
+52,Massachusetts,MASS,"['UMass', 'MASS', 'UMass']",Mid-American
+53,Memphis,MEM,"['MEM', 'Memphis']",American Athletic
+54,Miami,MIA,"['Miami (FL)', 'MIA', 'Miami']",ACC
+55,Miami (OH),M-OH,"['M-OH', 'Miami OH']",Mid-American
+56,Michigan,MICH,"['MICH', 'Michigan']",Big Ten
+57,Michigan State,MSU,"['MSU', 'Michigan St']",Big Ten
+58,Middle Tennessee,MTSU,"['Middle Tennessee State', 'MTSU', 'MTSU']",Conference USA
+59,Minnesota,MINN,"['MINN', 'Minnesota']",Big Ten
+60,Mississippi State,MSST,"['MSST', 'Mississippi St']",SEC
+61,Missouri,MIZ,"['MIZ', 'Missouri']",SEC
+62,Navy,NAVY,"['NAVY', 'Navy']",FBS Independents
+63,NC State,NCSU,"['North Carolina St.', 'NCSU', 'NC State']",ACC
+64,Nebraska,NEB,"['NEB', 'Nebraska']",Big Ten
+65,Nevada,NEV,"['NEV', 'Nevada']",Mountain West
+66,New Mexico,UNM,"['UNM', 'New Mexico']",Mountain West
+67,New Mexico State,NMSU,"['NMSU', 'New Mexico St']",Sun Belt
+68,North Carolina,UNC,"['UNC', 'North Carolina']",ACC
+69,Northern Illinois,NIU,"['NIU', 'N Illinois']",Mid-American
+70,North Texas,UNT,"['UNT', 'North Texas']",Conference USA
+71,Northwestern,NU,"['NU', 'Northwestern']",Big Ten
+72,Notre Dame,ND,"['ND', 'Notre Dame']",FBS Independents
+73,Ohio,OHIO,"['OHIO', 'Ohio']",Mid-American
+74,Ohio State,OSU,"['OSU', 'Ohio State']",Big Ten
+75,Oklahoma,OU,"['OU', 'Oklahoma']",Big 12
+76,Oklahoma State,OKST,"['OKST', 'Oklahoma St']",Big 12
+77,Old Dominion,ODU,"['ODU', 'Old Dominion']",Conference USA
+78,Ole Miss,MISS,"['MISS', 'Ole Miss']",SEC
+79,Oregon,ORE,"['ORE', 'Oregon']",Pac-12
+80,Oregon State,ORST,"['ORST', 'Oregon St']",Pac-12
+81,Penn State,PSU,"['PSU', 'Penn State']",Big Ten
+82,Pittsburgh,PITT,"['Pitt', 'PITT', 'Pitt']",ACC
+83,Purdue,PUR,"['PUR', 'Purdue']",Big Ten
+84,Rice,RICE,"['RICE', 'Rice']",Conference USA
+85,Rutgers,RUTG,"['RUTG', 'Rutgers']",Big Ten
+86,San Diego State,SDSU,"['SDSU', 'San Diego St']",Mountain West
+87,San José State,SJSU,"['San Jose St.', 'SJSU', 'San José St']",Mountain West
+88,SMU,SMU,"['Southern Methodist', 'SMU', 'SMU']",American Athletic
+89,South Alabama,USA,"['USA', 'South Alabama']",Sun Belt
+90,South Carolina,SC,"['SC', 'South Carolina']",SEC
+91,Southern Miss,USM,"['Southern Mississippi', 'USM', 'Southern Miss']",Conference USA
+92,South Florida,USF,"['USF', 'South Florida']",American Athletic
+93,Stanford,STAN,"['STAN', 'Stanford']",Pac-12
+94,Syracuse,SYR,"['SYR', 'Syracuse']",ACC
+95,TCU,TCU,"['Texas Christian', 'TCU', 'TCU']",Big 12
+96,Temple,TEM,"['TEM', 'Temple']",American Athletic
+97,Tennessee,TENN,"['TENN', 'Tennessee']",SEC
+98,Texas,TEX,"['TEX', 'Texas']",Big 12
+99,Texas A&M,TA&M,"['TA&M', 'Texas A&M']",SEC
+100,Texas State,TXST,"['TXST', 'Texas St']",Sun Belt
+101,Texas Tech,TTU,"['TTU', 'Texas Tech']",Big 12
+102,Toledo,TOL,"['TOL', 'Toledo']",Mid-American
+103,Troy,TROY,"['TROY', 'Troy']",Sun Belt
+104,Tulane,TULN,"['TULN', 'Tulane']",American Athletic
+105,Tulsa,TLSA,"['TLSA', 'Tulsa']",American Athletic
+106,UAB,UAB,"['Alabama-Birmingham', 'UAB', 'UAB']",Conference USA
+107,UCF,UCF,"['Central Florida', 'UCF', 'UCF']",American Athletic
+108,UCLA,UCLA,"['UCLA', 'UCLA']",Pac-12
+109,UConn,CONN,"['Connecticut', 'CONN', 'UConn']",American Athletic
+110,UL Monroe,ULM,"['La.-Monroe', 'ULM', 'UL Monroe']",Sun Belt
+111,UNLV,UNLV,"['Nevada-Las Vegas', 'UNLV', 'UNLV']",Mountain West
+112,USC,USC,"['USC', 'USC']",Pac-12
+113,Utah,UTAH,"['UTAH', 'Utah']",Pac-12
+114,Utah State,USU,"['USU', 'Utah State']",Mountain West
+115,UTEP,UTEP,"['Texas-El Paso', 'UTEP', 'UTEP']",Conference USA
+116,UTSA,UTSA,"['Texas-San Antonio', 'UTSA', 'UTSA']",Conference USA
+117,Vanderbilt,VAN,"['VAN', 'Vanderbilt']",SEC
+118,Virginia,UVA,"['UVA', 'Virginia']",ACC
+119,Virginia Tech,VT,"['VT', 'Virginia Tech']",ACC
+120,Wake Forest,WAKE,"['WAKE', 'Wake Forest']",ACC
+121,Washington,WASH,"['WASH', 'Washington']",Pac-12
+122,Washington State,WSU,"['WSU', 'Washington St']",Pac-12
+123,Western Kentucky,WKU,"['WKU', 'Western KY']",Conference USA
+124,Western Michigan,WMU,"['WMU', 'W Michigan']",Mid-American
+125,West Virginia,WVU,"['WVU', 'West Virginia']",Big 12
+126,Wisconsin,WIS,"['WIS', 'Wisconsin']",Big Ten
+127,Wyoming,WYO,"['WYO', 'Wyoming']",Mountain West
