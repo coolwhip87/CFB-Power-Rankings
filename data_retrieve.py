@@ -62,4 +62,4 @@ if len(os.listdir('season_rating_list')) < (dt.datetime.now().year - 2005):
         get_ratings_data(year)
         print(f'Rating data for the {year} season has been downloaded')
 else:
-    print("All files game data files currently exist")
+    print("All files currently exist")
